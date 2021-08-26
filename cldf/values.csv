@@ -69,42 +69,42 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 68,algo1256,68,s,1097,ALGONQUIAN,"North-American, Almosan",NA,s
 69,algo1256,69,t,1097,ALGONQUIAN,"North-American, Almosan",NA,t
 70,algo1256,70,w,1097,ALGONQUIAN,"North-American, Almosan",NA,w
-71,NA,71,ɘ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɘ
-72,NA,72,ɘː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɘː
-73,NA,73,ŋ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ŋ
-74,NA,74,a,1053,ALTAIC,"Ural-Altaic, Altaic",NA,a
-75,NA,75,aː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,aː
-76,NA,76,b,1053,ALTAIC,"Ural-Altaic, Altaic",NA,b
-77,NA,77,d,1053,ALTAIC,"Ural-Altaic, Altaic",NA,d
-78,NA,78,d̠ʒ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,d̠ʒ
-79,NA,79,e,1053,ALTAIC,"Ural-Altaic, Altaic",NA,e
-80,NA,80,eː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,eː
-81,NA,81,ɡ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɡ
-82,NA,82,i,1053,ALTAIC,"Ural-Altaic, Altaic",NA,i
-83,NA,83,iː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,iː
-84,NA,84,ɨ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɨ
-85,NA,85,ɨː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɨː
-86,NA,86,j,1053,ALTAIC,"Ural-Altaic, Altaic",NA,j
-87,NA,87,k,1053,ALTAIC,"Ural-Altaic, Altaic",NA,k
-88,NA,88,l,1053,ALTAIC,"Ural-Altaic, Altaic",NA,l
-89,NA,89,ʎ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ʎ
-90,NA,90,m,1053,ALTAIC,"Ural-Altaic, Altaic",NA,m
-91,NA,91,n,1053,ALTAIC,"Ural-Altaic, Altaic",NA,n
-92,NA,92,ɲ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɲ
-93,NA,93,o,1053,ALTAIC,"Ural-Altaic, Altaic",NA,o
-94,NA,94,ø,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ø
-95,NA,95,øː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,øː
-96,NA,96,oː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,oː
-97,NA,97,p,1053,ALTAIC,"Ural-Altaic, Altaic",NA,p
-98,NA,98,r,1053,ALTAIC,"Ural-Altaic, Altaic",NA,r
-99,NA,99,rʲ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,rʲ
-100,NA,100,s,1053,ALTAIC,"Ural-Altaic, Altaic",NA,s
-101,NA,101,t,1053,ALTAIC,"Ural-Altaic, Altaic",NA,t
-102,NA,102,t̠ʃ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,t̠ʃ
-103,NA,103,u,1053,ALTAIC,"Ural-Altaic, Altaic",NA,u
-104,NA,104,uː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,uː
-105,NA,105,y,1053,ALTAIC,"Ural-Altaic, Altaic",NA,y
-106,NA,106,yː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,yː
+71,,71,ɘ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɘ
+72,,72,ɘː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɘː
+73,,73,ŋ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ŋ
+74,,74,a,1053,ALTAIC,"Ural-Altaic, Altaic",NA,a
+75,,75,aː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,aː
+76,,76,b,1053,ALTAIC,"Ural-Altaic, Altaic",NA,b
+77,,77,d,1053,ALTAIC,"Ural-Altaic, Altaic",NA,d
+78,,78,d̠ʒ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,d̠ʒ
+79,,79,e,1053,ALTAIC,"Ural-Altaic, Altaic",NA,e
+80,,80,eː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,eː
+81,,81,ɡ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɡ
+82,,82,i,1053,ALTAIC,"Ural-Altaic, Altaic",NA,i
+83,,83,iː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,iː
+84,,84,ɨ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɨ
+85,,85,ɨː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɨː
+86,,86,j,1053,ALTAIC,"Ural-Altaic, Altaic",NA,j
+87,,87,k,1053,ALTAIC,"Ural-Altaic, Altaic",NA,k
+88,,88,l,1053,ALTAIC,"Ural-Altaic, Altaic",NA,l
+89,,89,ʎ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ʎ
+90,,90,m,1053,ALTAIC,"Ural-Altaic, Altaic",NA,m
+91,,91,n,1053,ALTAIC,"Ural-Altaic, Altaic",NA,n
+92,,92,ɲ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ɲ
+93,,93,o,1053,ALTAIC,"Ural-Altaic, Altaic",NA,o
+94,,94,ø,1053,ALTAIC,"Ural-Altaic, Altaic",NA,ø
+95,,95,øː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,øː
+96,,96,oː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,oː
+97,,97,p,1053,ALTAIC,"Ural-Altaic, Altaic",NA,p
+98,,98,r,1053,ALTAIC,"Ural-Altaic, Altaic",NA,r
+99,,99,rʲ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,rʲ
+100,,100,s,1053,ALTAIC,"Ural-Altaic, Altaic",NA,s
+101,,101,t,1053,ALTAIC,"Ural-Altaic, Altaic",NA,t
+102,,102,t̠ʃ,1053,ALTAIC,"Ural-Altaic, Altaic",NA,t̠ʃ
+103,,103,u,1053,ALTAIC,"Ural-Altaic, Altaic",NA,u
+104,,104,uː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,uː
+105,,105,y,1053,ALTAIC,"Ural-Altaic, Altaic",NA,y
+106,,106,yː,1053,ALTAIC,"Ural-Altaic, Altaic",NA,yː
 107,anat1257,107,ʕ,1018,ANATOLIAN,"Indo-European, Anatolian",NA,ʕ
 108,anat1257,108,ɘː,1018,ANATOLIAN,"Indo-European, Anatolian",NA,ɘː
 109,anat1257,109,ħ,1018,ANATOLIAN,"Indo-European, Anatolian",NA,ħ
@@ -239,26 +239,26 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 238,atti1240,238,tʰ,1104,ATTIC,"Indo-European, Greek",NA,tʰ
 239,atti1240,239,u,1104,ATTIC,"Indo-European, Greek",NA,u
 240,atti1240,240,y,1104,ATTIC,"Indo-European, Greek",NA,y
-241,NA,241,ŋ,1059,AUSTRALIAN,Australian,NA,ŋ
-242,NA,242,a,1059,AUSTRALIAN,Australian,NA,a
-243,NA,243,aː,1059,AUSTRALIAN,Australian,NA,aː
-244,NA,244,b,1059,AUSTRALIAN,Australian,NA,b
-245,NA,245,d,1059,AUSTRALIAN,Australian,NA,d
-246,NA,246,ɟ,1059,AUSTRALIAN,Australian,NA,ɟ
-247,NA,247,ɡ,1059,AUSTRALIAN,Australian,NA,ɡ
-248,NA,248,i,1059,AUSTRALIAN,Australian,NA,i
-249,NA,249,iː,1059,AUSTRALIAN,Australian,NA,iː
-250,NA,250,j,1059,AUSTRALIAN,Australian,NA,j
-251,NA,251,l,1059,AUSTRALIAN,Australian,NA,l
-252,NA,252,ʎ,1059,AUSTRALIAN,Australian,NA,ʎ
-253,NA,253,m,1059,AUSTRALIAN,Australian,NA,m
-254,NA,254,n,1059,AUSTRALIAN,Australian,NA,n
-255,NA,255,ɲ,1059,AUSTRALIAN,Australian,NA,ɲ
-256,NA,256,r,1059,AUSTRALIAN,Australian,NA,r
-257,NA,257,u,1059,AUSTRALIAN,Australian,NA,u
-258,NA,258,uː,1059,AUSTRALIAN,Australian,NA,uː
-259,NA,259,w,1059,AUSTRALIAN,Australian,NA,w
-260,NA,260,rː,1059,AUSTRALIAN,Australian,NA,rː
+241,,241,ŋ,1059,AUSTRALIAN,Australian,NA,ŋ
+242,,242,a,1059,AUSTRALIAN,Australian,NA,a
+243,,243,aː,1059,AUSTRALIAN,Australian,NA,aː
+244,,244,b,1059,AUSTRALIAN,Australian,NA,b
+245,,245,d,1059,AUSTRALIAN,Australian,NA,d
+246,,246,ɟ,1059,AUSTRALIAN,Australian,NA,ɟ
+247,,247,ɡ,1059,AUSTRALIAN,Australian,NA,ɡ
+248,,248,i,1059,AUSTRALIAN,Australian,NA,i
+249,,249,iː,1059,AUSTRALIAN,Australian,NA,iː
+250,,250,j,1059,AUSTRALIAN,Australian,NA,j
+251,,251,l,1059,AUSTRALIAN,Australian,NA,l
+252,,252,ʎ,1059,AUSTRALIAN,Australian,NA,ʎ
+253,,253,m,1059,AUSTRALIAN,Australian,NA,m
+254,,254,n,1059,AUSTRALIAN,Australian,NA,n
+255,,255,ɲ,1059,AUSTRALIAN,Australian,NA,ɲ
+256,,256,r,1059,AUSTRALIAN,Australian,NA,r
+257,,257,u,1059,AUSTRALIAN,Australian,NA,u
+258,,258,uː,1059,AUSTRALIAN,Australian,NA,uː
+259,,259,w,1059,AUSTRALIAN,Australian,NA,w
+260,,260,rː,1059,AUSTRALIAN,Australian,NA,rː
 261,aust1307,261,ʔ,1041,AUSTRONESIAN,"Austro-Tai, Austronesian",NA,ʔ
 262,aust1307,262,ɘ,1041,AUSTRONESIAN,"Austro-Tai, Austronesian",NA,ɘ
 263,aust1307,263,ŋ,1041,AUSTRONESIAN,"Austro-Tai, Austronesian",NA,ŋ
@@ -840,71 +840,71 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 839,eski1264,839,tʲ,1112,ESKIMO-ALEUT,Eskimo-Aleut,NA,tʲ
 840,eski1264,840,u,1112,ESKIMO-ALEUT,Eskimo-Aleut,NA,u
 841,eski1264,841,v,1112,ESKIMO-ALEUT,Eskimo-Aleut,NA,v
-842,NA,842,tsʲ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,tsʲ
-843,NA,843,ð,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ð
-844,NA,844,ɘ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ɘ
-845,NA,845,ŋ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ŋ
-846,NA,846,ʃ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ʃ
-847,NA,847,a̟,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,a̟
-848,NA,848,ɑ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ɑ
-849,NA,849,e,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,e
-850,NA,850,eː,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,eː
-851,NA,851,i,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,i
-852,NA,852,iː,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,iː
-853,NA,853,j,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,j
-854,NA,854,k,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,k
-855,NA,855,l,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,l
-856,NA,856,ʎ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ʎ
-857,NA,857,m,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,m
-858,NA,858,n,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,n
-859,NA,859,ɲ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ɲ
-860,NA,860,o,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,o
-861,NA,861,oː,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,oː
-862,NA,862,p,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,p
-863,NA,863,r,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,r
-864,NA,864,s,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,s
-865,NA,865,sʲ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,sʲ
-866,NA,866,t,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,t
-867,NA,867,t̠ʃ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,t̠ʃ
-868,NA,868,u,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,u
-869,NA,869,uː,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,uː
-870,NA,870,w,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,w
-871,NA,871,x,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,x
-872,NA,872,y,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,y
-873,NA,873,ð̪ʼ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ð̪ʼ
-874,NA,874,ɤː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ɤː
-875,NA,875,tsʲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,tsʲ
-876,NA,876,ð,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ð
-877,NA,877,ð̪ʲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ð̪ʲ
-878,NA,878,ŋ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ŋ
-879,NA,879,ʃ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ʃ
-880,NA,880,a̟,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,a̟
-881,NA,881,ɑ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ɑ
-882,NA,882,e,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,e
-883,NA,883,eː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,eː
-884,NA,884,i,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,i
-885,NA,885,iː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,iː
-886,NA,886,j,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,j
-887,NA,887,k,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,k
-888,NA,888,l,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,l
-889,NA,889,ʎ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ʎ
-890,NA,890,m,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,m
-891,NA,891,n,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,n
-892,NA,892,ɲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ɲ
-893,NA,893,o,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,o
-894,NA,894,ɤ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ɤ
-895,NA,895,oː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,oː
-896,NA,896,p,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,p
-897,NA,897,r,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,r
-898,NA,898,s,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,s
-899,NA,899,sʲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,sʲ
-900,NA,900,t,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,t
-901,NA,901,t̠ʃʲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,t̠ʃʲ
-902,NA,902,ts,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ts
-903,NA,903,u,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,u
-904,NA,904,uː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,uː
-905,NA,905,w,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,w
-906,NA,906,y,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,y
+842,,842,tsʲ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,tsʲ
+843,,843,ð,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ð
+844,,844,ɘ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ɘ
+845,,845,ŋ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ŋ
+846,,846,ʃ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ʃ
+847,,847,a̟,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,a̟
+848,,848,ɑ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ɑ
+849,,849,e,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,e
+850,,850,eː,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,eː
+851,,851,i,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,i
+852,,852,iː,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,iː
+853,,853,j,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,j
+854,,854,k,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,k
+855,,855,l,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,l
+856,,856,ʎ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ʎ
+857,,857,m,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,m
+858,,858,n,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,n
+859,,859,ɲ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ɲ
+860,,860,o,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,o
+861,,861,oː,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,oː
+862,,862,p,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,p
+863,,863,r,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,r
+864,,864,s,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,s
+865,,865,sʲ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,sʲ
+866,,866,t,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,t
+867,,867,t̠ʃ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,t̠ʃ
+868,,868,u,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,u
+869,,869,uː,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,uː
+870,,870,w,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,w
+871,,871,x,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,x
+872,,872,y,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,y
+873,,873,ð̪ʼ,1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,ð̪ʼ
+874,,874,ɤː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ɤː
+875,,875,tsʲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,tsʲ
+876,,876,ð,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ð
+877,,877,ð̪ʲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ð̪ʲ
+878,,878,ŋ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ŋ
+879,,879,ʃ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ʃ
+880,,880,a̟,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,a̟
+881,,881,ɑ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ɑ
+882,,882,e,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,e
+883,,883,eː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,eː
+884,,884,i,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,i
+885,,885,iː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,iː
+886,,886,j,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,j
+887,,887,k,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,k
+888,,888,l,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,l
+889,,889,ʎ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ʎ
+890,,890,m,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,m
+891,,891,n,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,n
+892,,892,ɲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ɲ
+893,,893,o,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,o
+894,,894,ɤ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ɤ
+895,,895,oː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,oː
+896,,896,p,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,p
+897,,897,r,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,r
+898,,898,s,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,s
+899,,899,sʲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,sʲ
+900,,900,t,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,t
+901,,901,t̠ʃʲ,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,t̠ʃʲ
+902,,902,ts,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,ts
+903,,903,u,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,u
+904,,904,uː,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,uː
+905,,905,w,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,w
+906,,906,y,1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,y
 907,gbay1279,907,ʔ,1093,GBAYA,"Niger-Kordofanian, Ubangi",NA,ʔ
 908,gbay1279,908,ɛ,1093,GBAYA,"Niger-Kordofanian, Ubangi",NA,ɛ
 909,gbay1279,909,ɛ̃,1093,GBAYA,"Niger-Kordofanian, Ubangi",NA,ɛ̃
@@ -1624,54 +1624,54 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 1623,newc1243,1623,ʈː,1021,NEW CALEDONIAN,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,ʈː
 1624,newc1243,1624,mʷʼ,1021,NEW CALEDONIAN,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,mʷʼ
 1625,newc1243,1625,pːʷ,1021,NEW CALEDONIAN,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,pːʷ
-1626,NA,1626,tʲʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tʲʰ
-1627,NA,1627,ʕ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ʕ
-1628,NA,1628,ʔ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ʔ
-1629,NA,1629,ɘ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɘ
-1630,NA,1630,ɢ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɢ
-1631,NA,1631,ħ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ħ
-1632,NA,1632,a,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,a
-1633,NA,1633,b,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,b
-1634,NA,1634,d,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,d
-1635,NA,1635,dʲ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,dʲ
-1636,NA,1636,dz,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,dz
-1637,NA,1637,e,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,e
-1638,NA,1638,ɡ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɡ
-1639,NA,1639,ɡʲ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɡʲ
-1640,NA,1640,ɡʷ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɡʷ
-1641,NA,1641,h,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,h
-1642,NA,1642,i,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,i
-1643,NA,1643,j,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,j
-1644,NA,1644,kʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʼ
-1645,NA,1645,kʲʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʲʼ
-1646,NA,1646,kʲʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʲʰ
-1647,NA,1647,kʷʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʷʼ
-1648,NA,1648,kʷʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʷʰ
-1649,NA,1649,kʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʰ
-1650,NA,1650,l,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,l
-1651,NA,1651,ʎ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ʎ
-1652,NA,1652,m,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,m
-1653,NA,1653,n,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,n
-1654,NA,1654,ɲ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɲ
-1655,NA,1655,o,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,o
-1656,NA,1656,pʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,pʼ
-1657,NA,1657,pʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,pʰ
-1658,NA,1658,qʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,qʼ
-1659,NA,1659,qʷʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,qʷʼ
-1660,NA,1660,qʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,qʰ
-1661,NA,1661,r,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,r
-1662,NA,1662,rʲ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,rʲ
-1663,NA,1663,s,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,s
-1664,NA,1664,sʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,sʼ
-1665,NA,1665,tʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tʼ
-1666,NA,1666,tʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tʰ
-1667,NA,1667,tɬʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tɬʼ
-1668,NA,1668,tɬʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tɬʰ
-1669,NA,1669,tsʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tsʼ
-1670,NA,1670,tsʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tsʰ
-1671,NA,1671,u,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,u
-1672,NA,1672,w,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,w
-1673,NA,1673,tʲʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tʲʼ
+1626,,1626,tʲʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tʲʰ
+1627,,1627,ʕ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ʕ
+1628,,1628,ʔ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ʔ
+1629,,1629,ɘ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɘ
+1630,,1630,ɢ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɢ
+1631,,1631,ħ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ħ
+1632,,1632,a,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,a
+1633,,1633,b,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,b
+1634,,1634,d,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,d
+1635,,1635,dʲ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,dʲ
+1636,,1636,dz,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,dz
+1637,,1637,e,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,e
+1638,,1638,ɡ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɡ
+1639,,1639,ɡʲ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɡʲ
+1640,,1640,ɡʷ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɡʷ
+1641,,1641,h,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,h
+1642,,1642,i,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,i
+1643,,1643,j,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,j
+1644,,1644,kʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʼ
+1645,,1645,kʲʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʲʼ
+1646,,1646,kʲʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʲʰ
+1647,,1647,kʷʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʷʼ
+1648,,1648,kʷʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʷʰ
+1649,,1649,kʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,kʰ
+1650,,1650,l,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,l
+1651,,1651,ʎ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ʎ
+1652,,1652,m,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,m
+1653,,1653,n,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,n
+1654,,1654,ɲ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,ɲ
+1655,,1655,o,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,o
+1656,,1656,pʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,pʼ
+1657,,1657,pʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,pʰ
+1658,,1658,qʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,qʼ
+1659,,1659,qʷʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,qʷʼ
+1660,,1660,qʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,qʰ
+1661,,1661,r,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,r
+1662,,1662,rʲ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,rʲ
+1663,,1663,s,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,s
+1664,,1664,sʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,sʼ
+1665,,1665,tʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tʼ
+1666,,1666,tʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tʰ
+1667,,1667,tɬʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tɬʼ
+1668,,1668,tɬʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tɬʰ
+1669,,1669,tsʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tsʼ
+1670,,1670,tsʰ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tsʰ
+1671,,1671,u,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,u
+1672,,1672,w,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,w
+1673,,1673,tʲʼ,1055,NOSTRATIC,"Macro-Family, Nostratic",NA,tʲʼ
 1674,khan1273,1674,tsʲ,1089,OB UGRIC,"Ural-Altaic, Finno-Ugric",NA,tsʲ
 1675,khan1273,1675,θ̪,1089,OB UGRIC,"Ural-Altaic, Finno-Ugric",NA,θ̪
 1676,khan1273,1676,ð,1089,OB UGRIC,"Ural-Altaic, Finno-Ugric",NA,ð
@@ -2724,35 +2724,35 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 2723,ural1272,2723,w,1084,URALIC,"Ural-Altaic, Uralic",NA,w
 2724,ural1272,2724,x,1084,URALIC,"Ural-Altaic, Uralic",NA,x
 2725,ural1272,2725,y,1084,URALIC,"Ural-Altaic, Uralic",NA,y
-2726,NA,2726,ð,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ð
-2727,NA,2727,ð̪ʲ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ð̪ʲ
-2728,NA,2728,ɘ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ɘ
-2729,NA,2729,ŋ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ŋ
-2730,NA,2730,a,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,a
-2731,NA,2731,æ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,æ
-2732,NA,2732,c,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,c
-2733,NA,2733,e,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,e
-2734,NA,2734,ɣ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ɣ
-2735,NA,2735,i,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,i
-2736,NA,2736,j,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,j
-2737,NA,2737,k,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,k
-2738,NA,2738,l,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,l
-2739,NA,2739,ʎ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ʎ
-2740,NA,2740,m,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,m
-2741,NA,2741,n,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,n
-2742,NA,2742,ɲ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ɲ
-2743,NA,2743,o,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,o
-2744,NA,2744,p,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,p
-2745,NA,2745,r,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,r
-2746,NA,2746,s,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,s
-2747,NA,2747,sʲ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,sʲ
-2748,NA,2748,t,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,t
-2749,NA,2749,tʲ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,tʲ
-2750,NA,2750,u,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,u
-2751,NA,2751,ɯ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ɯ
-2752,NA,2752,v,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,v
-2753,NA,2753,w,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,w
-2754,NA,2754,y,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,y
+2726,,2726,ð,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ð
+2727,,2727,ð̪ʲ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ð̪ʲ
+2728,,2728,ɘ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ɘ
+2729,,2729,ŋ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ŋ
+2730,,2730,a,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,a
+2731,,2731,æ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,æ
+2732,,2732,c,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,c
+2733,,2733,e,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,e
+2734,,2734,ɣ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ɣ
+2735,,2735,i,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,i
+2736,,2736,j,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,j
+2737,,2737,k,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,k
+2738,,2738,l,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,l
+2739,,2739,ʎ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ʎ
+2740,,2740,m,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,m
+2741,,2741,n,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,n
+2742,,2742,ɲ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ɲ
+2743,,2743,o,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,o
+2744,,2744,p,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,p
+2745,,2745,r,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,r
+2746,,2746,s,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,s
+2747,,2747,sʲ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,sʲ
+2748,,2748,t,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,t
+2749,,2749,tʲ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,tʲ
+2750,,2750,u,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,u
+2751,,2751,ɯ,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,ɯ
+2752,,2752,v,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,v
+2753,,2753,w,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,w
+2754,,2754,y,1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,y
 2755,utoa1244,2755,ʔ,1069,UTO-AZTECAN,"North-American, Uto-Aztecan",NA,ʔ
 2756,utoa1244,2756,a,1069,UTO-AZTECAN,"North-American, Uto-Aztecan",NA,a
 2757,utoa1244,2757,c,1069,UTO-AZTECAN,"North-American, Uto-Aztecan",NA,c
@@ -3152,41 +3152,41 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 3151,hlai1239,3151,T2,10,Proto-Hlai,NA,Tone B,T2
 3152,hlai1239,3152,T3,10,Proto-Hlai,NA,Tone C,T3
 3153,hlai1239,3153,T4,10,Proto-Hlai,NA,Tone D,T4
-3154,NA,3154,p,11,Proto-Tibeto-Burman,NA,NA,p
-3155,NA,3155,b,11,Proto-Tibeto-Burman,NA,NA,b
-3156,NA,3156,m,11,Proto-Tibeto-Burman,NA,NA,m
-3157,NA,3157,w,11,Proto-Tibeto-Burman,NA,NA,w
-3158,NA,3158,t,11,Proto-Tibeto-Burman,NA,NA,t
-3159,NA,3159,d,11,Proto-Tibeto-Burman,NA,NA,d
-3160,NA,3160,n,11,Proto-Tibeto-Burman,NA,NA,n
-3161,NA,3161,s,11,Proto-Tibeto-Burman,NA,NA,s
-3162,NA,3162,z,11,Proto-Tibeto-Burman,NA,NA,z
-3163,NA,3163,ts,11,Proto-Tibeto-Burman,NA,NA,ts
-3164,NA,3164,dz,11,Proto-Tibeto-Burman,NA,NA,dz
-3165,NA,3165,l,11,Proto-Tibeto-Burman,NA,NA,l
-3166,NA,3166,ɾ,11,Proto-Tibeto-Burman,NA,NA,ɾ
-3167,NA,3167,sʲ,11,Proto-Tibeto-Burman,NA,NA,sʲ
-3168,NA,3168,zʲ,11,Proto-Tibeto-Burman,NA,NA,zʲ
-3169,NA,3169,tsʲ,11,Proto-Tibeto-Burman,NA,NA,tsʲ
-3170,NA,3170,dzʲ,11,Proto-Tibeto-Burman,NA,NA,dzʲ
-3171,NA,3171,j,11,Proto-Tibeto-Burman,NA,NA,j
-3172,NA,3172,k,11,Proto-Tibeto-Burman,NA,NA,k
-3173,NA,3173,ɡ,11,Proto-Tibeto-Burman,NA,NA,ɡ
-3174,NA,3174,ŋ,11,Proto-Tibeto-Burman,NA,NA,ŋ
-3175,NA,3175,h,11,Proto-Tibeto-Burman,NA,NA,h
-3176,NA,3176,iː,11,Proto-Tibeto-Burman,NA,NA,iː
-3177,NA,3177,i,11,Proto-Tibeto-Burman,NA,NA,i
-3178,NA,3178,e,11,Proto-Tibeto-Burman,NA,NA,e
-3179,NA,3179,eː,11,Proto-Tibeto-Burman,NA,NA,eː
-3180,NA,3180,ɑː,11,Proto-Tibeto-Burman,NA,NA,ɑː
-3181,NA,3181,o,11,Proto-Tibeto-Burman,NA,NA,o
-3182,NA,3182,oː,11,Proto-Tibeto-Burman,NA,NA,oː
-3183,NA,3183,u,11,Proto-Tibeto-Burman,NA,NA,u
-3184,NA,3184,uː,11,Proto-Tibeto-Burman,NA,NA,uː
-3185,NA,3185,ɑi,11,Proto-Tibeto-Burman,NA,NA,ɑi
-3186,NA,3186,ɑːi,11,Proto-Tibeto-Burman,NA,NA,ɑːi
-3187,NA,3187,ɑu,11,Proto-Tibeto-Burman,NA,NA,ɑu
-3188,NA,3188,ɑːu,11,Proto-Tibeto-Burman,NA,NA,ɑːu
+3154,,3154,p,11,Proto-Tibeto-Burman,NA,NA,p
+3155,,3155,b,11,Proto-Tibeto-Burman,NA,NA,b
+3156,,3156,m,11,Proto-Tibeto-Burman,NA,NA,m
+3157,,3157,w,11,Proto-Tibeto-Burman,NA,NA,w
+3158,,3158,t,11,Proto-Tibeto-Burman,NA,NA,t
+3159,,3159,d,11,Proto-Tibeto-Burman,NA,NA,d
+3160,,3160,n,11,Proto-Tibeto-Burman,NA,NA,n
+3161,,3161,s,11,Proto-Tibeto-Burman,NA,NA,s
+3162,,3162,z,11,Proto-Tibeto-Burman,NA,NA,z
+3163,,3163,ts,11,Proto-Tibeto-Burman,NA,NA,ts
+3164,,3164,dz,11,Proto-Tibeto-Burman,NA,NA,dz
+3165,,3165,l,11,Proto-Tibeto-Burman,NA,NA,l
+3166,,3166,ɾ,11,Proto-Tibeto-Burman,NA,NA,ɾ
+3167,,3167,sʲ,11,Proto-Tibeto-Burman,NA,NA,sʲ
+3168,,3168,zʲ,11,Proto-Tibeto-Burman,NA,NA,zʲ
+3169,,3169,tsʲ,11,Proto-Tibeto-Burman,NA,NA,tsʲ
+3170,,3170,dzʲ,11,Proto-Tibeto-Burman,NA,NA,dzʲ
+3171,,3171,j,11,Proto-Tibeto-Burman,NA,NA,j
+3172,,3172,k,11,Proto-Tibeto-Burman,NA,NA,k
+3173,,3173,ɡ,11,Proto-Tibeto-Burman,NA,NA,ɡ
+3174,,3174,ŋ,11,Proto-Tibeto-Burman,NA,NA,ŋ
+3175,,3175,h,11,Proto-Tibeto-Burman,NA,NA,h
+3176,,3176,iː,11,Proto-Tibeto-Burman,NA,NA,iː
+3177,,3177,i,11,Proto-Tibeto-Burman,NA,NA,i
+3178,,3178,e,11,Proto-Tibeto-Burman,NA,NA,e
+3179,,3179,eː,11,Proto-Tibeto-Burman,NA,NA,eː
+3180,,3180,ɑː,11,Proto-Tibeto-Burman,NA,NA,ɑː
+3181,,3181,o,11,Proto-Tibeto-Burman,NA,NA,o
+3182,,3182,oː,11,Proto-Tibeto-Burman,NA,NA,oː
+3183,,3183,u,11,Proto-Tibeto-Burman,NA,NA,u
+3184,,3184,uː,11,Proto-Tibeto-Burman,NA,NA,uː
+3185,,3185,ɑi,11,Proto-Tibeto-Burman,NA,NA,ɑi
+3186,,3186,ɑːi,11,Proto-Tibeto-Burman,NA,NA,ɑːi
+3187,,3187,ɑu,11,Proto-Tibeto-Burman,NA,NA,ɑu
+3188,,3188,ɑːu,11,Proto-Tibeto-Burman,NA,NA,ɑːu
 3189,aust1305,3189,p,12,Proto-Austroasiatic,NA,NA,p
 3190,aust1305,3190,b,12,Proto-Austroasiatic,NA,NA,b
 3191,aust1305,3191,ɓ,12,Proto-Austroasiatic,NA,NA,ɓ
@@ -5195,26 +5195,26 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 5194,maid1262,5194,tˀ,59,Proto-Maiduan,NA,NA,tˀ
 5195,maid1262,5195,kˀ,59,Proto-Maiduan,NA,NA,kˀ
 5196,maid1262,5196,cˀ,59,Proto-Maiduan,NA,NA,cˀ
-5197,NA,5197,p,60,Proto-Mamore-Guapore,NA,NA,p
-5198,NA,5198,t,60,Proto-Mamore-Guapore,NA,NA,t
-5199,NA,5199,ts,60,Proto-Mamore-Guapore,NA,NA,ts
-5200,NA,5200,t̠ʃ,60,Proto-Mamore-Guapore,NA,NA,t̠ʃ
-5201,NA,5201,k,60,Proto-Mamore-Guapore,NA,NA,k
-5202,NA,5202,ʔ,60,Proto-Mamore-Guapore,NA,NA,ʔ
-5203,NA,5203,s,60,Proto-Mamore-Guapore,NA,NA,s
-5204,NA,5204,h,60,Proto-Mamore-Guapore,NA,NA,h
-5205,NA,5205,r,60,Proto-Mamore-Guapore,NA,NA,r
-5206,NA,5206,j,60,Proto-Mamore-Guapore,NA,NA,j
-5207,NA,5207,m,60,Proto-Mamore-Guapore,NA,NA,m
-5208,NA,5208,n,60,Proto-Mamore-Guapore,NA,NA,n
-5209,NA,5209,β,60,Proto-Mamore-Guapore,NA,NA,β
-5210,NA,5210,i,60,Proto-Mamore-Guapore,NA,NA,i
-5211,NA,5211,e,60,Proto-Mamore-Guapore,NA,NA,e
-5212,NA,5212,a,60,Proto-Mamore-Guapore,NA,NA,a
-5213,NA,5213,ɨ,60,Proto-Mamore-Guapore,NA,NA,ɨ
-5214,NA,5214,u,60,Proto-Mamore-Guapore,NA,NA,u
-5215,NA,5215,o,60,Proto-Mamore-Guapore,NA,NA,o
-5216,NA,5216,ɔ,60,Proto-Mamore-Guapore,NA,NA,ɔ
+5197,,5197,p,60,Proto-Mamore-Guapore,NA,NA,p
+5198,,5198,t,60,Proto-Mamore-Guapore,NA,NA,t
+5199,,5199,ts,60,Proto-Mamore-Guapore,NA,NA,ts
+5200,,5200,t̠ʃ,60,Proto-Mamore-Guapore,NA,NA,t̠ʃ
+5201,,5201,k,60,Proto-Mamore-Guapore,NA,NA,k
+5202,,5202,ʔ,60,Proto-Mamore-Guapore,NA,NA,ʔ
+5203,,5203,s,60,Proto-Mamore-Guapore,NA,NA,s
+5204,,5204,h,60,Proto-Mamore-Guapore,NA,NA,h
+5205,,5205,r,60,Proto-Mamore-Guapore,NA,NA,r
+5206,,5206,j,60,Proto-Mamore-Guapore,NA,NA,j
+5207,,5207,m,60,Proto-Mamore-Guapore,NA,NA,m
+5208,,5208,n,60,Proto-Mamore-Guapore,NA,NA,n
+5209,,5209,β,60,Proto-Mamore-Guapore,NA,NA,β
+5210,,5210,i,60,Proto-Mamore-Guapore,NA,NA,i
+5211,,5211,e,60,Proto-Mamore-Guapore,NA,NA,e
+5212,,5212,a,60,Proto-Mamore-Guapore,NA,NA,a
+5213,,5213,ɨ,60,Proto-Mamore-Guapore,NA,NA,ɨ
+5214,,5214,u,60,Proto-Mamore-Guapore,NA,NA,u
+5215,,5215,o,60,Proto-Mamore-Guapore,NA,NA,o
+5216,,5216,ɔ,60,Proto-Mamore-Guapore,NA,NA,ɔ
 5217,tara1324,5217,p,61,Proto-Taranoan,NA,NA,p
 5218,tara1324,5218,t,61,Proto-Taranoan,NA,NA,t
 5219,tara1324,5219,k,61,Proto-Taranoan,NA,NA,k
@@ -5301,43 +5301,43 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 5300,mixe1284,5300,eː,63,Proto-Mixe-Zoquean,NA,NA,eː
 5301,mixe1284,5301,oː,63,Proto-Mixe-Zoquean,NA,NA,oː
 5302,mixe1284,5302,əː,63,Proto-Mixe-Zoquean,NA,NA,əː
-5303,NA,5303,p,64,Proto-Totozoquean,NA,NA,p
-5304,NA,5304,t,64,Proto-Totozoquean,NA,NA,t
-5305,NA,5305,k,64,Proto-Totozoquean,NA,NA,k
-5306,NA,5306,q,64,Proto-Totozoquean,NA,NA,q
-5307,NA,5307,ʔ,64,Proto-Totozoquean,NA,NA,ʔ
-5308,NA,5308,m,64,Proto-Totozoquean,NA,NA,m
-5309,NA,5309,n,64,Proto-Totozoquean,NA,NA,n
-5310,NA,5310,s,64,Proto-Totozoquean,NA,NA,s
-5311,NA,5311,ʃ,64,Proto-Totozoquean,NA,NA,ʃ
-5312,NA,5312,x,64,Proto-Totozoquean,NA,NA,x
-5313,NA,5313,h,64,Proto-Totozoquean,NA,NA,h
-5314,NA,5314,ts,64,Proto-Totozoquean,NA,NA,ts
-5315,NA,5315,t̠ʃ,64,Proto-Totozoquean,NA,NA,t̠ʃ
-5316,NA,5316,j,64,Proto-Totozoquean,NA,NA,j
-5317,NA,5317,w,64,Proto-Totozoquean,NA,NA,w
-5318,NA,5318,ɬ,64,Proto-Totozoquean,NA,NA,ɬ
-5319,NA,5319,l,64,Proto-Totozoquean,NA,NA,l
-5320,NA,5320,tɬ,64,Proto-Totozoquean,NA,NA,tɬ
-5321,NA,5321,tʲ,64,Proto-Totozoquean,NA,given as ty,tʲ
-5322,NA,5322,kʲ,64,Proto-Totozoquean,NA,given as ky,kʲ
-5323,NA,5323,nʲ,64,Proto-Totozoquean,NA,given as ny,nʲ
-5324,NA,5324,i,64,Proto-Totozoquean,NA,NA,i
-5325,NA,5325,iː,64,Proto-Totozoquean,NA,NA,iː
-5326,NA,5326,a,64,Proto-Totozoquean,NA,NA,a
-5327,NA,5327,aː,64,Proto-Totozoquean,NA,NA,aː
-5328,NA,5328,u,64,Proto-Totozoquean,NA,NA,u
-5329,NA,5329,uː,64,Proto-Totozoquean,NA,NA,uː
-5330,NA,5330,e,64,Proto-Totozoquean,NA,NA,e
-5331,NA,5331,eː,64,Proto-Totozoquean,NA,NA,eː
-5332,NA,5332,o,64,Proto-Totozoquean,NA,NA,o
-5333,NA,5333,oː,64,Proto-Totozoquean,NA,NA,oː
-5334,NA,5334,ɨ,64,Proto-Totozoquean,NA,NA,ɨ
-5335,NA,5335,ɨː,64,Proto-Totozoquean,NA,NA,ɨː
-5336,NA,5336,ə,64,Proto-Totozoquean,NA,NA,ə
-5337,NA,5337,əː,64,Proto-Totozoquean,NA,NA,əː
-5338,NA,5338,ɔ,64,Proto-Totozoquean,NA,NA,ɔ
-5339,NA,5339,ɔː,64,Proto-Totozoquean,NA,NA,ɔː
+5303,,5303,p,64,Proto-Totozoquean,NA,NA,p
+5304,,5304,t,64,Proto-Totozoquean,NA,NA,t
+5305,,5305,k,64,Proto-Totozoquean,NA,NA,k
+5306,,5306,q,64,Proto-Totozoquean,NA,NA,q
+5307,,5307,ʔ,64,Proto-Totozoquean,NA,NA,ʔ
+5308,,5308,m,64,Proto-Totozoquean,NA,NA,m
+5309,,5309,n,64,Proto-Totozoquean,NA,NA,n
+5310,,5310,s,64,Proto-Totozoquean,NA,NA,s
+5311,,5311,ʃ,64,Proto-Totozoquean,NA,NA,ʃ
+5312,,5312,x,64,Proto-Totozoquean,NA,NA,x
+5313,,5313,h,64,Proto-Totozoquean,NA,NA,h
+5314,,5314,ts,64,Proto-Totozoquean,NA,NA,ts
+5315,,5315,t̠ʃ,64,Proto-Totozoquean,NA,NA,t̠ʃ
+5316,,5316,j,64,Proto-Totozoquean,NA,NA,j
+5317,,5317,w,64,Proto-Totozoquean,NA,NA,w
+5318,,5318,ɬ,64,Proto-Totozoquean,NA,NA,ɬ
+5319,,5319,l,64,Proto-Totozoquean,NA,NA,l
+5320,,5320,tɬ,64,Proto-Totozoquean,NA,NA,tɬ
+5321,,5321,tʲ,64,Proto-Totozoquean,NA,given as ty,tʲ
+5322,,5322,kʲ,64,Proto-Totozoquean,NA,given as ky,kʲ
+5323,,5323,nʲ,64,Proto-Totozoquean,NA,given as ny,nʲ
+5324,,5324,i,64,Proto-Totozoquean,NA,NA,i
+5325,,5325,iː,64,Proto-Totozoquean,NA,NA,iː
+5326,,5326,a,64,Proto-Totozoquean,NA,NA,a
+5327,,5327,aː,64,Proto-Totozoquean,NA,NA,aː
+5328,,5328,u,64,Proto-Totozoquean,NA,NA,u
+5329,,5329,uː,64,Proto-Totozoquean,NA,NA,uː
+5330,,5330,e,64,Proto-Totozoquean,NA,NA,e
+5331,,5331,eː,64,Proto-Totozoquean,NA,NA,eː
+5332,,5332,o,64,Proto-Totozoquean,NA,NA,o
+5333,,5333,oː,64,Proto-Totozoquean,NA,NA,oː
+5334,,5334,ɨ,64,Proto-Totozoquean,NA,NA,ɨ
+5335,,5335,ɨː,64,Proto-Totozoquean,NA,NA,ɨː
+5336,,5336,ə,64,Proto-Totozoquean,NA,NA,ə
+5337,,5337,əː,64,Proto-Totozoquean,NA,NA,əː
+5338,,5338,ɔ,64,Proto-Totozoquean,NA,NA,ɔ
+5339,,5339,ɔː,64,Proto-Totozoquean,NA,NA,ɔː
 5340,jica1245,5340,p,65,Proto-Tol (Jicaque),NA,NA,p
 5341,jica1245,5341,t,65,Proto-Tol (Jicaque),NA,NA,t
 5342,jica1245,5342,ts,65,Proto-Tol (Jicaque),NA,"check, given as cent sign",ts
@@ -5767,47 +5767,47 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 5766,moha1258,5766,aː,80,Common Mohawk,NA,NA,aː
 5767,moha1258,5767,ʌ̃ː,80,Common Mohawk,NA,NA,ʌ̃ː
 5768,moha1258,5768,ʌ̃,80,Common Mohawk,NA,NA,ʌ̃
-5769,NA,5769,p,82,Proto-Finno-Saamic,NA,NA,p
-5770,NA,5770,pː,82,Proto-Finno-Saamic,NA,NA,pː
-5771,NA,5771,w,82,Proto-Finno-Saamic,NA,NA,w
-5772,NA,5772,m,82,Proto-Finno-Saamic,NA,NA,m
-5773,NA,5773,mː,82,Proto-Finno-Saamic,NA,NA,mː
-5774,NA,5774,t,82,Proto-Finno-Saamic,NA,NA,t
-5775,NA,5775,tː,82,Proto-Finno-Saamic,NA,NA,tː
-5776,NA,5776,θ,82,Proto-Finno-Saamic,NA,NA,θ
-5777,NA,5777,l,82,Proto-Finno-Saamic,NA,NA,l
-5778,NA,5778,lː,82,Proto-Finno-Saamic,NA,NA,lː
-5779,NA,5779,n,82,Proto-Finno-Saamic,NA,NA,n
-5780,NA,5780,nː,82,Proto-Finno-Saamic,NA,NA,nː
-5781,NA,5781,s,82,Proto-Finno-Saamic,NA,NA,s
-5782,NA,5782,sː,82,Proto-Finno-Saamic,NA,NA,sː
-5783,NA,5783,tɕʲ,82,Proto-Finno-Saamic,NA,"Source lists it as tʃʲ, but it is described as palato-alveolar",tɕʲ
-5784,NA,5784,ɕʲ,82,Proto-Finno-Saamic,NA,"Source lists it as ʃʲ, but it is described as palato-alveolar",ɕʲ
-5785,NA,5785,ɕʲː,82,Proto-Finno-Saamic,NA,"Source lists it as ʃʲ:, but it is described as palato-alveolar",ɕʲː
-5786,NA,5786,j,82,Proto-Finno-Saamic,NA,NA,j
-5787,NA,5787,ɲ,82,Proto-Finno-Saamic,NA,NA,ɲ
-5788,NA,5788,ŋ,82,Proto-Finno-Saamic,NA,NA,ŋ
-5789,NA,5789,k,82,Proto-Finno-Saamic,NA,NA,k
-5790,NA,5790,kː,82,Proto-Finno-Saamic,NA,NA,kː
-5791,NA,5791,x,82,Proto-Finno-Saamic,NA,NA,x
-5792,NA,5792,i,82,Proto-Finno-Saamic,NA,NA,i
-5793,NA,5793,e,82,Proto-Finno-Saamic,NA,NA,e
-5794,NA,5794,æ,82,Proto-Finno-Saamic,NA,NA,æ
-5795,NA,5795,y,82,Proto-Finno-Saamic,NA,NA,y
-5796,NA,5796,ɜ,82,Proto-Finno-Saamic,NA,NA,ɜ
-5797,NA,5797,u,82,Proto-Finno-Saamic,NA,NA,u
-5798,NA,5798,o,82,Proto-Finno-Saamic,NA,NA,o
-5799,NA,5799,ɑ,82,Proto-Finno-Saamic,NA,NA,ɑ
-5800,NA,5800,iː,82,Proto-Finno-Saamic,NA,NA,iː
-5801,NA,5801,yː,82,Proto-Finno-Saamic,NA,NA,yː
-5802,NA,5802,eː,82,Proto-Finno-Saamic,NA,NA,eː
-5803,NA,5803,øː,82,Proto-Finno-Saamic,NA,NA,øː
-5804,NA,5804,ɜː,82,Proto-Finno-Saamic,NA,NA,ɜː
-5805,NA,5805,uː,82,Proto-Finno-Saamic,NA,NA,uː
-5806,NA,5806,oː,82,Proto-Finno-Saamic,NA,NA,oː
-5807,NA,5807,t̠ʃ,82,Proto-Finno-Saamic,NA,"Sorce lists it as ""ts"" with a dot under each letter",t̠ʃ
-5808,NA,5808,ʃ,82,Proto-Finno-Saamic,NA,"Source lists it as ""s"" with a do under",ʃ
-5809,NA,5809,ʃː,82,Proto-Finno-Saamic,NA,"Source lists it as ""s:"" wih a dot under",ʃː
+5769,,5769,p,82,Proto-Finno-Saamic,NA,NA,p
+5770,,5770,pː,82,Proto-Finno-Saamic,NA,NA,pː
+5771,,5771,w,82,Proto-Finno-Saamic,NA,NA,w
+5772,,5772,m,82,Proto-Finno-Saamic,NA,NA,m
+5773,,5773,mː,82,Proto-Finno-Saamic,NA,NA,mː
+5774,,5774,t,82,Proto-Finno-Saamic,NA,NA,t
+5775,,5775,tː,82,Proto-Finno-Saamic,NA,NA,tː
+5776,,5776,θ,82,Proto-Finno-Saamic,NA,NA,θ
+5777,,5777,l,82,Proto-Finno-Saamic,NA,NA,l
+5778,,5778,lː,82,Proto-Finno-Saamic,NA,NA,lː
+5779,,5779,n,82,Proto-Finno-Saamic,NA,NA,n
+5780,,5780,nː,82,Proto-Finno-Saamic,NA,NA,nː
+5781,,5781,s,82,Proto-Finno-Saamic,NA,NA,s
+5782,,5782,sː,82,Proto-Finno-Saamic,NA,NA,sː
+5783,,5783,tɕʲ,82,Proto-Finno-Saamic,NA,"Source lists it as tʃʲ, but it is described as palato-alveolar",tɕʲ
+5784,,5784,ɕʲ,82,Proto-Finno-Saamic,NA,"Source lists it as ʃʲ, but it is described as palato-alveolar",ɕʲ
+5785,,5785,ɕʲː,82,Proto-Finno-Saamic,NA,"Source lists it as ʃʲ:, but it is described as palato-alveolar",ɕʲː
+5786,,5786,j,82,Proto-Finno-Saamic,NA,NA,j
+5787,,5787,ɲ,82,Proto-Finno-Saamic,NA,NA,ɲ
+5788,,5788,ŋ,82,Proto-Finno-Saamic,NA,NA,ŋ
+5789,,5789,k,82,Proto-Finno-Saamic,NA,NA,k
+5790,,5790,kː,82,Proto-Finno-Saamic,NA,NA,kː
+5791,,5791,x,82,Proto-Finno-Saamic,NA,NA,x
+5792,,5792,i,82,Proto-Finno-Saamic,NA,NA,i
+5793,,5793,e,82,Proto-Finno-Saamic,NA,NA,e
+5794,,5794,æ,82,Proto-Finno-Saamic,NA,NA,æ
+5795,,5795,y,82,Proto-Finno-Saamic,NA,NA,y
+5796,,5796,ɜ,82,Proto-Finno-Saamic,NA,NA,ɜ
+5797,,5797,u,82,Proto-Finno-Saamic,NA,NA,u
+5798,,5798,o,82,Proto-Finno-Saamic,NA,NA,o
+5799,,5799,ɑ,82,Proto-Finno-Saamic,NA,NA,ɑ
+5800,,5800,iː,82,Proto-Finno-Saamic,NA,NA,iː
+5801,,5801,yː,82,Proto-Finno-Saamic,NA,NA,yː
+5802,,5802,eː,82,Proto-Finno-Saamic,NA,NA,eː
+5803,,5803,øː,82,Proto-Finno-Saamic,NA,NA,øː
+5804,,5804,ɜː,82,Proto-Finno-Saamic,NA,NA,ɜː
+5805,,5805,uː,82,Proto-Finno-Saamic,NA,NA,uː
+5806,,5806,oː,82,Proto-Finno-Saamic,NA,NA,oː
+5807,,5807,t̠ʃ,82,Proto-Finno-Saamic,NA,"Sorce lists it as ""ts"" with a dot under each letter",t̠ʃ
+5808,,5808,ʃ,82,Proto-Finno-Saamic,NA,"Source lists it as ""s"" with a do under",ʃ
+5809,,5809,ʃː,82,Proto-Finno-Saamic,NA,"Source lists it as ""s:"" wih a dot under",ʃː
 5810,siou1252,5810,p,83,Proto-Siouan,NA,NA,p
 5811,siou1252,5811,t,83,Proto-Siouan,NA,NA,t
 5812,siou1252,5812,k,83,Proto-Siouan,NA,NA,k
@@ -5849,39 +5849,39 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 5848,siou1252,5848,ã,83,Proto-Siouan,NA,NA,ã
 5849,siou1252,5849,ũː,83,Proto-Siouan,NA,NA,ũː
 5850,siou1252,5850,ũ,83,Proto-Siouan,NA,NA,ũ
-5851,NA,5851,p,84,Proto-Finno-Permic,NA,NA,p
-5852,NA,5852,w,84,Proto-Finno-Permic,NA,NA,w
-5853,NA,5853,m,84,Proto-Finno-Permic,NA,NA,m
-5854,NA,5854,t,84,Proto-Finno-Permic,NA,NA,t
-5855,NA,5855,s,84,Proto-Finno-Permic,NA,NA,s
-5856,NA,5856,l̥,84,Proto-Finno-Permic,NA,NA,l̥
-5857,NA,5857,l,84,Proto-Finno-Permic,NA,NA,l
-5858,NA,5858,n,84,Proto-Finno-Permic,NA,NA,n
-5859,NA,5859,tɕʲ,84,Proto-Finno-Permic,NA,"Source lists it as tʃʲ, but it is described as palato-alveolar",tɕʲ
-5860,NA,5860,ɕʲ,84,Proto-Finno-Permic,NA,"Source lists it as ʃʲ, but it is described as palato-alveolar",ɕʲ
-5861,NA,5861,k,84,Proto-Finno-Permic,NA,NA,k
-5862,NA,5862,j,84,Proto-Finno-Permic,NA,NA,j
-5863,NA,5863,ʎ̥,84,Proto-Finno-Permic,NA,NA,ʎ̥
-5864,NA,5864,ʎ,84,Proto-Finno-Permic,NA,NA,ʎ
-5865,NA,5865,ɲ,84,Proto-Finno-Permic,NA,NA,ɲ
-5866,NA,5866,ŋ,84,Proto-Finno-Permic,NA,NA,ŋ
-5867,NA,5867,ə,84,Proto-Finno-Permic,NA,NA,ə
-5868,NA,5868,ø,84,Proto-Finno-Permic,NA,NA,ø
-5869,NA,5869,a,84,Proto-Finno-Permic,NA,NA,a
-5870,NA,5870,o,84,Proto-Finno-Permic,NA,NA,o
-5871,NA,5871,iː,84,Proto-Finno-Permic,NA,NA,iː
-5872,NA,5872,yː,84,Proto-Finno-Permic,NA,NA,yː
-5873,NA,5873,uː,84,Proto-Finno-Permic,NA,NA,uː
-5874,NA,5874,eː,84,Proto-Finno-Permic,NA,NA,eː
-5875,NA,5875,øː,84,Proto-Finno-Permic,NA,NA,øː
-5876,NA,5876,ɜː,84,Proto-Finno-Permic,NA,NA,ɜː
-5877,NA,5877,oː,84,Proto-Finno-Permic,NA,NA,oː
-5878,NA,5878,æː,84,Proto-Finno-Permic,NA,NA,æː
-5879,NA,5879,ɶː,84,Proto-Finno-Permic,NA,NA,ɶː
-5880,NA,5880,ɔː,84,Proto-Finno-Permic,NA,NA,ɔː
-5881,NA,5881,ɑ,84,Proto-Finno-Permic,NA,NA,ɑ
-5882,NA,5882,t̠ʃ,84,Proto-Finno-Permic,NA,"Source lists it as ""ts"" with a dot under each letter",t̠ʃ
-5883,NA,5883,ʃ,84,Proto-Finno-Permic,NA,"Source lists it as ""s"" with a dot under",ʃ
+5851,,5851,p,84,Proto-Finno-Permic,NA,NA,p
+5852,,5852,w,84,Proto-Finno-Permic,NA,NA,w
+5853,,5853,m,84,Proto-Finno-Permic,NA,NA,m
+5854,,5854,t,84,Proto-Finno-Permic,NA,NA,t
+5855,,5855,s,84,Proto-Finno-Permic,NA,NA,s
+5856,,5856,l̥,84,Proto-Finno-Permic,NA,NA,l̥
+5857,,5857,l,84,Proto-Finno-Permic,NA,NA,l
+5858,,5858,n,84,Proto-Finno-Permic,NA,NA,n
+5859,,5859,tɕʲ,84,Proto-Finno-Permic,NA,"Source lists it as tʃʲ, but it is described as palato-alveolar",tɕʲ
+5860,,5860,ɕʲ,84,Proto-Finno-Permic,NA,"Source lists it as ʃʲ, but it is described as palato-alveolar",ɕʲ
+5861,,5861,k,84,Proto-Finno-Permic,NA,NA,k
+5862,,5862,j,84,Proto-Finno-Permic,NA,NA,j
+5863,,5863,ʎ̥,84,Proto-Finno-Permic,NA,NA,ʎ̥
+5864,,5864,ʎ,84,Proto-Finno-Permic,NA,NA,ʎ
+5865,,5865,ɲ,84,Proto-Finno-Permic,NA,NA,ɲ
+5866,,5866,ŋ,84,Proto-Finno-Permic,NA,NA,ŋ
+5867,,5867,ə,84,Proto-Finno-Permic,NA,NA,ə
+5868,,5868,ø,84,Proto-Finno-Permic,NA,NA,ø
+5869,,5869,a,84,Proto-Finno-Permic,NA,NA,a
+5870,,5870,o,84,Proto-Finno-Permic,NA,NA,o
+5871,,5871,iː,84,Proto-Finno-Permic,NA,NA,iː
+5872,,5872,yː,84,Proto-Finno-Permic,NA,NA,yː
+5873,,5873,uː,84,Proto-Finno-Permic,NA,NA,uː
+5874,,5874,eː,84,Proto-Finno-Permic,NA,NA,eː
+5875,,5875,øː,84,Proto-Finno-Permic,NA,NA,øː
+5876,,5876,ɜː,84,Proto-Finno-Permic,NA,NA,ɜː
+5877,,5877,oː,84,Proto-Finno-Permic,NA,NA,oː
+5878,,5878,æː,84,Proto-Finno-Permic,NA,NA,æː
+5879,,5879,ɶː,84,Proto-Finno-Permic,NA,NA,ɶː
+5880,,5880,ɔː,84,Proto-Finno-Permic,NA,NA,ɔː
+5881,,5881,ɑ,84,Proto-Finno-Permic,NA,NA,ɑ
+5882,,5882,t̠ʃ,84,Proto-Finno-Permic,NA,"Source lists it as ""ts"" with a dot under each letter",t̠ʃ
+5883,,5883,ʃ,84,Proto-Finno-Permic,NA,"Source lists it as ""s"" with a dot under",ʃ
 5884,kiow1266,5884,b,85,Proto-Tanoan,NA,NA,b
 5885,kiow1266,5885,d,85,Proto-Tanoan,NA,NA,d
 5886,kiow1266,5886,ɡ,85,Proto-Tanoan,NA,NA,ɡ
@@ -5919,35 +5919,35 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 5918,pama1250,5918,ɳ,86,Proto-Pama-Nyungan,NA,rn,ɳ
 5919,pama1250,5919,ɭ,86,Proto-Pama-Nyungan,NA,rl,ɭ
 5920,pama1250,5920,ɻ,86,Proto-Pama-Nyungan,NA,r,ɻ
-5921,NA,5921,p,87,Proto-Baltic-Finnic,NA,NA,p
-5922,NA,5922,t,87,Proto-Baltic-Finnic,NA,NA,t
-5923,NA,5923,w,87,Proto-Baltic-Finnic,NA,NA,w
-5924,NA,5924,l,87,Proto-Baltic-Finnic,NA,NA,l
-5925,NA,5925,m,87,Proto-Baltic-Finnic,NA,NA,m
-5926,NA,5926,n,87,Proto-Baltic-Finnic,NA,NA,n
-5927,NA,5927,s,87,Proto-Baltic-Finnic,NA,NA,s
-5928,NA,5928,r,87,Proto-Baltic-Finnic,NA,NA,r
-5929,NA,5929,j,87,Proto-Baltic-Finnic,NA,NA,j
-5930,NA,5930,t̠ʃʲ,87,Proto-Baltic-Finnic,NA,listed as tʆ,t̠ʃʲ
-5931,NA,5931,k,87,Proto-Baltic-Finnic,NA,NA,k
-5932,NA,5932,x,87,Proto-Baltic-Finnic,NA,NA,x
-5933,NA,5933,ŋ,87,Proto-Baltic-Finnic,NA,NA,ŋ
-5934,NA,5934,i,87,Proto-Baltic-Finnic,NA,NA,i
-5935,NA,5935,y,87,Proto-Baltic-Finnic,NA,NA,y
-5936,NA,5936,u,87,Proto-Baltic-Finnic,NA,NA,u
-5937,NA,5937,e,87,Proto-Baltic-Finnic,NA,NA,e
-5938,NA,5938,ɜ,87,Proto-Baltic-Finnic,NA,NA,ɜ
-5939,NA,5939,o,87,Proto-Baltic-Finnic,NA,NA,o
-5940,NA,5940,æ,87,Proto-Baltic-Finnic,NA,NA,æ
-5941,NA,5941,ɑ,87,Proto-Baltic-Finnic,NA,NA,ɑ
-5942,NA,5942,ɜː,87,Proto-Baltic-Finnic,NA,NA,ɜː
-5943,NA,5943,ɑː,87,Proto-Baltic-Finnic,NA,NA,ɑː
-5944,NA,5944,iː,87,Proto-Baltic-Finnic,NA,NA,iː
-5945,NA,5945,yː,87,Proto-Baltic-Finnic,NA,NA,yː
-5946,NA,5946,uː,87,Proto-Baltic-Finnic,NA,NA,uː
-5947,NA,5947,eː,87,Proto-Baltic-Finnic,NA,NA,eː
-5948,NA,5948,oː,87,Proto-Baltic-Finnic,NA,NA,oː
-5949,NA,5949,æː,87,Proto-Baltic-Finnic,NA,NA,æː
+5921,,5921,p,87,Proto-Baltic-Finnic,NA,NA,p
+5922,,5922,t,87,Proto-Baltic-Finnic,NA,NA,t
+5923,,5923,w,87,Proto-Baltic-Finnic,NA,NA,w
+5924,,5924,l,87,Proto-Baltic-Finnic,NA,NA,l
+5925,,5925,m,87,Proto-Baltic-Finnic,NA,NA,m
+5926,,5926,n,87,Proto-Baltic-Finnic,NA,NA,n
+5927,,5927,s,87,Proto-Baltic-Finnic,NA,NA,s
+5928,,5928,r,87,Proto-Baltic-Finnic,NA,NA,r
+5929,,5929,j,87,Proto-Baltic-Finnic,NA,NA,j
+5930,,5930,t̠ʃʲ,87,Proto-Baltic-Finnic,NA,listed as tʆ,t̠ʃʲ
+5931,,5931,k,87,Proto-Baltic-Finnic,NA,NA,k
+5932,,5932,x,87,Proto-Baltic-Finnic,NA,NA,x
+5933,,5933,ŋ,87,Proto-Baltic-Finnic,NA,NA,ŋ
+5934,,5934,i,87,Proto-Baltic-Finnic,NA,NA,i
+5935,,5935,y,87,Proto-Baltic-Finnic,NA,NA,y
+5936,,5936,u,87,Proto-Baltic-Finnic,NA,NA,u
+5937,,5937,e,87,Proto-Baltic-Finnic,NA,NA,e
+5938,,5938,ɜ,87,Proto-Baltic-Finnic,NA,NA,ɜ
+5939,,5939,o,87,Proto-Baltic-Finnic,NA,NA,o
+5940,,5940,æ,87,Proto-Baltic-Finnic,NA,NA,æ
+5941,,5941,ɑ,87,Proto-Baltic-Finnic,NA,NA,ɑ
+5942,,5942,ɜː,87,Proto-Baltic-Finnic,NA,NA,ɜː
+5943,,5943,ɑː,87,Proto-Baltic-Finnic,NA,NA,ɑː
+5944,,5944,iː,87,Proto-Baltic-Finnic,NA,NA,iː
+5945,,5945,yː,87,Proto-Baltic-Finnic,NA,NA,yː
+5946,,5946,uː,87,Proto-Baltic-Finnic,NA,NA,uː
+5947,,5947,eː,87,Proto-Baltic-Finnic,NA,NA,eː
+5948,,5948,oː,87,Proto-Baltic-Finnic,NA,NA,oː
+5949,,5949,æː,87,Proto-Baltic-Finnic,NA,NA,æː
 5950,guai1249,5950,p,90,Proto-Waikuruan (Guaicuruan),NA,NA,p
 5951,guai1249,5951,pː,90,Proto-Waikuruan (Guaicuruan),NA,NA,pː
 5952,guai1249,5952,b,90,Proto-Waikuruan (Guaicuruan),NA,NA,b
@@ -6695,49 +6695,49 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 6694,maya1287,6694,oː,122,Proto-Mayan,NA,NA,oː
 6695,maya1287,6695,u,122,Proto-Mayan,NA,NA,u
 6696,maya1287,6696,uː,122,Proto-Mayan,NA,NA,uː
-6697,NA,6697,p,135,Proto-Tibeto-Burman,NA,NA,p
-6698,NA,6698,b,135,Proto-Tibeto-Burman,NA,NA,b
-6699,NA,6699,m,135,Proto-Tibeto-Burman,NA,NA,m
-6700,NA,6700,w,135,Proto-Tibeto-Burman,NA,NA,w
-6701,NA,6701,t,135,Proto-Tibeto-Burman,NA,NA,t
-6702,NA,6702,d,135,Proto-Tibeto-Burman,NA,NA,d
-6703,NA,6703,n,135,Proto-Tibeto-Burman,NA,NA,n
-6704,NA,6704,l,135,Proto-Tibeto-Burman,NA,NA,l
-6705,NA,6705,ts,135,Proto-Tibeto-Burman,NA,NA,ts
-6706,NA,6706,dz,135,Proto-Tibeto-Burman,NA,NA,dz
-6707,NA,6707,s,135,Proto-Tibeto-Burman,NA,NA,s
-6708,NA,6708,z,135,Proto-Tibeto-Burman,NA,NA,z
-6709,NA,6709,ʁ,135,Proto-Tibeto-Burman,NA,NA,ʁ
-6710,NA,6710,cç,135,Proto-Tibeto-Burman,NA,"it is written as ""tś"", but described as palatal, however the use of symbols were confusing and seemingly inconsistent, and I am not sure this shouldn't be postalveolar (that's how it is described on the wikepedia page for Proto-Tibeto-Burman.",cç
-6711,NA,6711,ɟʝ,135,Proto-Tibeto-Burman,NA,"written as ""dź"", described as palatal, however the use of symbols were confusing and seemingly inconsistent, and I am not sure this shouldn't be postalveolar (that's how it is described on the wikepedia page for Proto-Tibeto-Burman.",ɟʝ
-6712,NA,6712,ç,135,Proto-Tibeto-Burman,NA,"written as ""š"" or ""ś"", described as palatal, however the use of symbols were confusing and seemingly inconsistent, and I am not sure this shouldn't be postalveolar (that's how it is described on the wikepedia page for Proto-Tibeto-Burman.",ç
-6713,NA,6713,ʝ,135,Proto-Tibeto-Burman,NA,"written as ""ž"" or ""ź"", described as palatal, however the use of symbols were confusing and seemingly inconsistent, and I am not sure this shouldn't be postalveolar (that's how it is described on the wikepedia page for Proto-Tibeto-Burman.",ʝ
-6714,NA,6714,ɲ,135,Proto-Tibeto-Burman,NA,"written as ""ń"", described as palatal. Possibly just a clster, ""nj""",ɲ
-6715,NA,6715,j,135,Proto-Tibeto-Burman,NA,"written as ""y""",j
-6716,NA,6716,k,135,Proto-Tibeto-Burman,NA,NA,k
-6717,NA,6717,ɡ,135,Proto-Tibeto-Burman,NA,NA,ɡ
-6718,NA,6718,ŋ,135,Proto-Tibeto-Burman,NA,NA,ŋ
-6719,NA,6719,h,135,Proto-Tibeto-Burman,NA,NA,h
-6720,NA,6720,ʔ,135,Proto-Tibeto-Burman,NA,NA,ʔ
-6721,NA,6721,i,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary""",i
-6722,NA,6722,u,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary""",u
-6723,NA,6723,e,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary""",e
-6724,NA,6724,o,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary""",o
-6725,NA,6725,a,135,Proto-Tibeto-Burman,NA,NA,a
-6726,NA,6726,ew,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary"", written as ""ew"", diphthongs have been suggested to have been long vowels",ew
-6727,NA,6727,oi,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary"", written as ""oy"",  diphthongs have been suggested to have been long vowels",oi
-6728,NA,6728,əj,135,Proto-Tibeto-Burman,NA,"written as ""əy"",  diphthongs have been suggested to have been long vowels",əj
-6729,NA,6729,əw,135,Proto-Tibeto-Burman,NA,diphthongs have been suggested to have been long vowels,əw
-6730,NA,6730,ej,135,Proto-Tibeto-Burman,NA,"written as ""ey"",  diphthongs have been suggested to have been long vowels",ej
-6731,NA,6731,ow,135,Proto-Tibeto-Burman,NA,diphthongs have been suggested to have been long vowels,ow
-6732,NA,6732,aj,135,Proto-Tibeto-Burman,NA,"written as ""ay"",  diphthongs have been suggested to have been long vowels",aj
-6733,NA,6733,aw,135,Proto-Tibeto-Burman,NA,diphthongs have been suggested to have been long vowels,aw
-6734,NA,6734,aːj,135,Proto-Tibeto-Burman,NA,"written as ""a:y"",   diphthongs have been suggested to have been long vowels",aːj
-6735,NA,6735,aːw,135,Proto-Tibeto-Burman,NA,diphthongs have been suggested to have been long vowels,aːw
-6736,NA,6736,wəj,135,Proto-Tibeto-Burman,NA,"written ""wəy""",wəj
-6737,NA,6737,waj,135,Proto-Tibeto-Burman,NA,"written ""way""",waj
-6738,NA,6738,waːj,135,Proto-Tibeto-Burman,NA,"written wa:y""",waːj
-6739,NA,6739,uj,135,Proto-Tibeto-Burman,NA,"written ""uy""",uj
+6697,,6697,p,135,Proto-Tibeto-Burman,NA,NA,p
+6698,,6698,b,135,Proto-Tibeto-Burman,NA,NA,b
+6699,,6699,m,135,Proto-Tibeto-Burman,NA,NA,m
+6700,,6700,w,135,Proto-Tibeto-Burman,NA,NA,w
+6701,,6701,t,135,Proto-Tibeto-Burman,NA,NA,t
+6702,,6702,d,135,Proto-Tibeto-Burman,NA,NA,d
+6703,,6703,n,135,Proto-Tibeto-Burman,NA,NA,n
+6704,,6704,l,135,Proto-Tibeto-Burman,NA,NA,l
+6705,,6705,ts,135,Proto-Tibeto-Burman,NA,NA,ts
+6706,,6706,dz,135,Proto-Tibeto-Burman,NA,NA,dz
+6707,,6707,s,135,Proto-Tibeto-Burman,NA,NA,s
+6708,,6708,z,135,Proto-Tibeto-Burman,NA,NA,z
+6709,,6709,ʁ,135,Proto-Tibeto-Burman,NA,NA,ʁ
+6710,,6710,cç,135,Proto-Tibeto-Burman,NA,"it is written as ""tś"", but described as palatal, however the use of symbols were confusing and seemingly inconsistent, and I am not sure this shouldn't be postalveolar (that's how it is described on the wikepedia page for Proto-Tibeto-Burman.",cç
+6711,,6711,ɟʝ,135,Proto-Tibeto-Burman,NA,"written as ""dź"", described as palatal, however the use of symbols were confusing and seemingly inconsistent, and I am not sure this shouldn't be postalveolar (that's how it is described on the wikepedia page for Proto-Tibeto-Burman.",ɟʝ
+6712,,6712,ç,135,Proto-Tibeto-Burman,NA,"written as ""š"" or ""ś"", described as palatal, however the use of symbols were confusing and seemingly inconsistent, and I am not sure this shouldn't be postalveolar (that's how it is described on the wikepedia page for Proto-Tibeto-Burman.",ç
+6713,,6713,ʝ,135,Proto-Tibeto-Burman,NA,"written as ""ž"" or ""ź"", described as palatal, however the use of symbols were confusing and seemingly inconsistent, and I am not sure this shouldn't be postalveolar (that's how it is described on the wikepedia page for Proto-Tibeto-Burman.",ʝ
+6714,,6714,ɲ,135,Proto-Tibeto-Burman,NA,"written as ""ń"", described as palatal. Possibly just a clster, ""nj""",ɲ
+6715,,6715,j,135,Proto-Tibeto-Burman,NA,"written as ""y""",j
+6716,,6716,k,135,Proto-Tibeto-Burman,NA,NA,k
+6717,,6717,ɡ,135,Proto-Tibeto-Burman,NA,NA,ɡ
+6718,,6718,ŋ,135,Proto-Tibeto-Burman,NA,NA,ŋ
+6719,,6719,h,135,Proto-Tibeto-Burman,NA,NA,h
+6720,,6720,ʔ,135,Proto-Tibeto-Burman,NA,NA,ʔ
+6721,,6721,i,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary""",i
+6722,,6722,u,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary""",u
+6723,,6723,e,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary""",e
+6724,,6724,o,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary""",o
+6725,,6725,a,135,Proto-Tibeto-Burman,NA,NA,a
+6726,,6726,ew,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary"", written as ""ew"", diphthongs have been suggested to have been long vowels",ew
+6727,,6727,oi,135,Proto-Tibeto-Burman,NA,"described as rare, or ""secondary"", written as ""oy"",  diphthongs have been suggested to have been long vowels",oi
+6728,,6728,əj,135,Proto-Tibeto-Burman,NA,"written as ""əy"",  diphthongs have been suggested to have been long vowels",əj
+6729,,6729,əw,135,Proto-Tibeto-Burman,NA,diphthongs have been suggested to have been long vowels,əw
+6730,,6730,ej,135,Proto-Tibeto-Burman,NA,"written as ""ey"",  diphthongs have been suggested to have been long vowels",ej
+6731,,6731,ow,135,Proto-Tibeto-Burman,NA,diphthongs have been suggested to have been long vowels,ow
+6732,,6732,aj,135,Proto-Tibeto-Burman,NA,"written as ""ay"",  diphthongs have been suggested to have been long vowels",aj
+6733,,6733,aw,135,Proto-Tibeto-Burman,NA,diphthongs have been suggested to have been long vowels,aw
+6734,,6734,aːj,135,Proto-Tibeto-Burman,NA,"written as ""a:y"",   diphthongs have been suggested to have been long vowels",aːj
+6735,,6735,aːw,135,Proto-Tibeto-Burman,NA,diphthongs have been suggested to have been long vowels,aːw
+6736,,6736,wəj,135,Proto-Tibeto-Burman,NA,"written ""wəy""",wəj
+6737,,6737,waj,135,Proto-Tibeto-Burman,NA,"written ""way""",waj
+6738,,6738,waːj,135,Proto-Tibeto-Burman,NA,"written wa:y""",waːj
+6739,,6739,uj,135,Proto-Tibeto-Burman,NA,"written ""uy""",uj
 6740,sout3054,6740,b,136,Proto-Southern-Cushitic,NA,NA,b
 6741,sout3054,6741,p,136,Proto-Southern-Cushitic,NA,NA,p
 6742,sout3054,6742,pʼ,136,Proto-Southern-Cushitic,NA,NA,pʼ
@@ -6945,65 +6945,65 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 6944,mund1335,6944,ˀt,147,Proto-Munda,NA,uncertain phonemic status,ˀt
 6945,mund1335,6945,ˀc,147,Proto-Munda,NA,uncertain phonemic status,ˀc
 6946,mund1335,6946,ˀk,147,Proto-Munda,NA,uncertain phonemic status,ˀk
-6947,NA,6947,ɓ,148,Proto-Nilo-Saharan,NA,NA,ɓ
-6948,NA,6948,ɗ,148,Proto-Nilo-Saharan,NA,NA,ɗ
-6949,NA,6949,ʄ̟,148,Proto-Nilo-Saharan,NA,"writte  as a ""ɗ"" with a dot underneath. Described as prepalatal implosive voiced stop.",ʄ̟
-6950,NA,6950,ɠ,148,Proto-Nilo-Saharan,NA,NA,ɠ
-6951,NA,6951,b,148,Proto-Nilo-Saharan,NA,NA,b
-6952,NA,6952,d̪,148,Proto-Nilo-Saharan,NA,NA,d̪
-6953,NA,6953,d,148,Proto-Nilo-Saharan,NA,NA,d
-6954,NA,6954,ɟ̟,148,Proto-Nilo-Saharan,NA,"written as a ""d"" with a dot under, described as prepalatal.",ɟ̟
-6955,NA,6955,ɡ,148,Proto-Nilo-Saharan,NA,NA,ɡ
-6956,NA,6956,mb,148,Proto-Nilo-Saharan,NA,NA,mb
-6957,NA,6957,nd,148,Proto-Nilo-Saharan,NA,NA,nd
-6958,NA,6958,nɟ,148,Proto-Nilo-Saharan,NA,"written as ""nd"" with a dot nder the ""d""",nɟ
-6959,NA,6959,ŋɡ,148,Proto-Nilo-Saharan,NA,NA,ŋɡ
-6960,NA,6960,m,148,Proto-Nilo-Saharan,NA,NA,m
-6961,NA,6961,n,148,Proto-Nilo-Saharan,NA,NA,n
-6962,NA,6962,ɲ,148,Proto-Nilo-Saharan,NA,NA,ɲ
-6963,NA,6963,ŋ,148,Proto-Nilo-Saharan,NA,NA,ŋ
-6964,NA,6964,p,148,Proto-Nilo-Saharan,NA,NA,p
-6965,NA,6965,pʰ,148,Proto-Nilo-Saharan,NA,NA,pʰ
-6966,NA,6966,pʼ,148,Proto-Nilo-Saharan,NA,NA,pʼ
-6967,NA,6967,t̪,148,Proto-Nilo-Saharan,NA,NA,t̪
-6968,NA,6968,t̪ʰ,148,Proto-Nilo-Saharan,NA,NA,t̪ʰ
-6969,NA,6969,t̪ʼ,148,Proto-Nilo-Saharan,NA,NA,t̪ʼ
-6970,NA,6970,t,148,Proto-Nilo-Saharan,NA,NA,t
-6971,NA,6971,tʰ,148,Proto-Nilo-Saharan,NA,NA,tʰ
-6972,NA,6972,tʼ,148,Proto-Nilo-Saharan,NA,NA,tʼ
-6973,NA,6973,c̟,148,Proto-Nilo-Saharan,NA,"written as a ""t"" with a dot under",c̟
-6974,NA,6974,c̟ʰ,148,Proto-Nilo-Saharan,NA,"written as a ""tʰ"" with a dot under",c̟ʰ
-6975,NA,6975,c̟ʼ,148,Proto-Nilo-Saharan,NA,"written as a ""tʼ"" with a dot under",c̟ʼ
-6976,NA,6976,k,148,Proto-Nilo-Saharan,NA,NA,k
-6977,NA,6977,kʰ,148,Proto-Nilo-Saharan,NA,NA,kʰ
-6978,NA,6978,kʼ,148,Proto-Nilo-Saharan,NA,NA,kʼ
-6979,NA,6979,θ,148,Proto-Nilo-Saharan,NA,NA,θ
-6980,NA,6980,s,148,Proto-Nilo-Saharan,NA,NA,s
-6981,NA,6981,ʃ,148,Proto-Nilo-Saharan,NA,"written as ""s"" with a dot under, described as prepalatal",ʃ
-6982,NA,6982,z,148,Proto-Nilo-Saharan,NA,NA,z
-6983,NA,6983,nð,148,Proto-Nilo-Saharan,NA,NA,nð
-6984,NA,6984,l,148,Proto-Nilo-Saharan,NA,NA,l
-6985,NA,6985,l̪,148,Proto-Nilo-Saharan,NA,NA,l̪
-6986,NA,6986,ɾ,148,Proto-Nilo-Saharan,NA,NA,ɾ
-6987,NA,6987,w,148,Proto-Nilo-Saharan,NA,NA,w
-6988,NA,6988,ˀw,148,Proto-Nilo-Saharan,NA,described as preglottalized,ˀw
-6989,NA,6989,j,148,Proto-Nilo-Saharan,NA,"written as ""y""",j
-6990,NA,6990,ˀj,148,Proto-Nilo-Saharan,NA,"described as preglottalized, written as ""ʼy""",ˀj
-6991,NA,6991,h,148,Proto-Nilo-Saharan,NA,NA,h
-6992,NA,6992,i,148,Proto-Nilo-Saharan,NA,NA,i
-6993,NA,6993,e,148,Proto-Nilo-Saharan,NA,NA,e
-6994,NA,6994,ɛ,148,Proto-Nilo-Saharan,NA,NA,ɛ
-6995,NA,6995,u,148,Proto-Nilo-Saharan,NA,NA,u
-6996,NA,6996,o,148,Proto-Nilo-Saharan,NA,NA,o
-6997,NA,6997,ɔ,148,Proto-Nilo-Saharan,NA,NA,ɔ
-6998,NA,6998,a,148,Proto-Nilo-Saharan,NA,NA,a
-6999,NA,6999,iː,148,Proto-Nilo-Saharan,NA,NA,iː
-7000,NA,7000,eː,148,Proto-Nilo-Saharan,NA,NA,eː
-7001,NA,7001,ɛː,148,Proto-Nilo-Saharan,NA,NA,ɛː
-7002,NA,7002,uː,148,Proto-Nilo-Saharan,NA,NA,uː
-7003,NA,7003,oː,148,Proto-Nilo-Saharan,NA,NA,oː
-7004,NA,7004,ɔː,148,Proto-Nilo-Saharan,NA,NA,ɔː
-7005,NA,7005,aː,148,Proto-Nilo-Saharan,NA,NA,aː
+6947,,6947,ɓ,148,Proto-Nilo-Saharan,NA,NA,ɓ
+6948,,6948,ɗ,148,Proto-Nilo-Saharan,NA,NA,ɗ
+6949,,6949,ʄ̟,148,Proto-Nilo-Saharan,NA,"writte  as a ""ɗ"" with a dot underneath. Described as prepalatal implosive voiced stop.",ʄ̟
+6950,,6950,ɠ,148,Proto-Nilo-Saharan,NA,NA,ɠ
+6951,,6951,b,148,Proto-Nilo-Saharan,NA,NA,b
+6952,,6952,d̪,148,Proto-Nilo-Saharan,NA,NA,d̪
+6953,,6953,d,148,Proto-Nilo-Saharan,NA,NA,d
+6954,,6954,ɟ̟,148,Proto-Nilo-Saharan,NA,"written as a ""d"" with a dot under, described as prepalatal.",ɟ̟
+6955,,6955,ɡ,148,Proto-Nilo-Saharan,NA,NA,ɡ
+6956,,6956,mb,148,Proto-Nilo-Saharan,NA,NA,mb
+6957,,6957,nd,148,Proto-Nilo-Saharan,NA,NA,nd
+6958,,6958,nɟ,148,Proto-Nilo-Saharan,NA,"written as ""nd"" with a dot nder the ""d""",nɟ
+6959,,6959,ŋɡ,148,Proto-Nilo-Saharan,NA,NA,ŋɡ
+6960,,6960,m,148,Proto-Nilo-Saharan,NA,NA,m
+6961,,6961,n,148,Proto-Nilo-Saharan,NA,NA,n
+6962,,6962,ɲ,148,Proto-Nilo-Saharan,NA,NA,ɲ
+6963,,6963,ŋ,148,Proto-Nilo-Saharan,NA,NA,ŋ
+6964,,6964,p,148,Proto-Nilo-Saharan,NA,NA,p
+6965,,6965,pʰ,148,Proto-Nilo-Saharan,NA,NA,pʰ
+6966,,6966,pʼ,148,Proto-Nilo-Saharan,NA,NA,pʼ
+6967,,6967,t̪,148,Proto-Nilo-Saharan,NA,NA,t̪
+6968,,6968,t̪ʰ,148,Proto-Nilo-Saharan,NA,NA,t̪ʰ
+6969,,6969,t̪ʼ,148,Proto-Nilo-Saharan,NA,NA,t̪ʼ
+6970,,6970,t,148,Proto-Nilo-Saharan,NA,NA,t
+6971,,6971,tʰ,148,Proto-Nilo-Saharan,NA,NA,tʰ
+6972,,6972,tʼ,148,Proto-Nilo-Saharan,NA,NA,tʼ
+6973,,6973,c̟,148,Proto-Nilo-Saharan,NA,"written as a ""t"" with a dot under",c̟
+6974,,6974,c̟ʰ,148,Proto-Nilo-Saharan,NA,"written as a ""tʰ"" with a dot under",c̟ʰ
+6975,,6975,c̟ʼ,148,Proto-Nilo-Saharan,NA,"written as a ""tʼ"" with a dot under",c̟ʼ
+6976,,6976,k,148,Proto-Nilo-Saharan,NA,NA,k
+6977,,6977,kʰ,148,Proto-Nilo-Saharan,NA,NA,kʰ
+6978,,6978,kʼ,148,Proto-Nilo-Saharan,NA,NA,kʼ
+6979,,6979,θ,148,Proto-Nilo-Saharan,NA,NA,θ
+6980,,6980,s,148,Proto-Nilo-Saharan,NA,NA,s
+6981,,6981,ʃ,148,Proto-Nilo-Saharan,NA,"written as ""s"" with a dot under, described as prepalatal",ʃ
+6982,,6982,z,148,Proto-Nilo-Saharan,NA,NA,z
+6983,,6983,nð,148,Proto-Nilo-Saharan,NA,NA,nð
+6984,,6984,l,148,Proto-Nilo-Saharan,NA,NA,l
+6985,,6985,l̪,148,Proto-Nilo-Saharan,NA,NA,l̪
+6986,,6986,ɾ,148,Proto-Nilo-Saharan,NA,NA,ɾ
+6987,,6987,w,148,Proto-Nilo-Saharan,NA,NA,w
+6988,,6988,ˀw,148,Proto-Nilo-Saharan,NA,described as preglottalized,ˀw
+6989,,6989,j,148,Proto-Nilo-Saharan,NA,"written as ""y""",j
+6990,,6990,ˀj,148,Proto-Nilo-Saharan,NA,"described as preglottalized, written as ""ʼy""",ˀj
+6991,,6991,h,148,Proto-Nilo-Saharan,NA,NA,h
+6992,,6992,i,148,Proto-Nilo-Saharan,NA,NA,i
+6993,,6993,e,148,Proto-Nilo-Saharan,NA,NA,e
+6994,,6994,ɛ,148,Proto-Nilo-Saharan,NA,NA,ɛ
+6995,,6995,u,148,Proto-Nilo-Saharan,NA,NA,u
+6996,,6996,o,148,Proto-Nilo-Saharan,NA,NA,o
+6997,,6997,ɔ,148,Proto-Nilo-Saharan,NA,NA,ɔ
+6998,,6998,a,148,Proto-Nilo-Saharan,NA,NA,a
+6999,,6999,iː,148,Proto-Nilo-Saharan,NA,NA,iː
+7000,,7000,eː,148,Proto-Nilo-Saharan,NA,NA,eː
+7001,,7001,ɛː,148,Proto-Nilo-Saharan,NA,NA,ɛː
+7002,,7002,uː,148,Proto-Nilo-Saharan,NA,NA,uː
+7003,,7003,oː,148,Proto-Nilo-Saharan,NA,NA,oː
+7004,,7004,ɔː,148,Proto-Nilo-Saharan,NA,NA,ɔː
+7005,,7005,aː,148,Proto-Nilo-Saharan,NA,NA,aː
 7006,west2818,7006,p,150,Proto-Kimbe,NA,NA,p
 7007,west2818,7007,b,150,Proto-Kimbe,NA,NA,b
 7008,west2818,7008,v,150,Proto-Kimbe,NA,NA,v
@@ -7254,35 +7254,35 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 7253,nort3165,7253,θ,160,Proto-Northwest Semitic,NA,NA,θ
 7254,nort3165,7254,θʼ,160,Proto-Northwest Semitic,NA,NA,θʼ
 7255,nort3165,7255,dz,160,Proto-Northwest Semitic,NA,NA,dz
-7256,NA,7256,a,161,Proto-Eastern-Oceanic,NA,NA,a
-7257,NA,7257,e,161,Proto-Eastern-Oceanic,NA,NA,e
-7258,NA,7258,i,161,Proto-Eastern-Oceanic,NA,NA,i
-7259,NA,7259,o,161,Proto-Eastern-Oceanic,NA,NA,o
-7260,NA,7260,u,161,Proto-Eastern-Oceanic,NA,NA,u
-7261,NA,7261,v,161,Proto-Eastern-Oceanic,NA,NA,v
-7262,NA,7262,b,161,Proto-Eastern-Oceanic,NA,NA,b
-7263,NA,7263,bʷ,161,Proto-Eastern-Oceanic,NA,"written ""bw""",bʷ
-7264,NA,7264,p,161,Proto-Eastern-Oceanic,NA,NA,p
-7265,NA,7265,pʷ,161,Proto-Eastern-Oceanic,NA,"written ""pw""",pʷ
-7266,NA,7266,t,161,Proto-Eastern-Oceanic,NA,NA,t
-7267,NA,7267,nt,161,Proto-Eastern-Oceanic,NA,"written ""nt""",nt
-7268,NA,7268,dz,161,Proto-Eastern-Oceanic,NA,"written as ""j"", described as alveolar affricate. Could probably also be ""dʒ""",dz
-7269,NA,7269,s,161,Proto-Eastern-Oceanic,NA,NA,s
-7270,NA,7270,z,161,Proto-Eastern-Oceanic,NA,NA,z
-7271,NA,7271,j,161,Proto-Eastern-Oceanic,NA,"written as ""y""",j
-7272,NA,7272,r,161,Proto-Eastern-Oceanic,NA,NA,r
-7273,NA,7273,nr,161,Proto-Eastern-Oceanic,NA,"written ""nr""",nr
-7274,NA,7274,l,161,Proto-Eastern-Oceanic,NA,NA,l
-7275,NA,7275,R,161,Proto-Eastern-Oceanic,NA,I am not sure what this is meant to represent,R
-7276,NA,7276,k,161,Proto-Eastern-Oceanic,NA,NA,k
-7277,NA,7277,ŋk,161,Proto-Eastern-Oceanic,NA,"written ""ŋk""",ŋk
-7278,NA,7278,m,161,Proto-Eastern-Oceanic,NA,NA,m
-7279,NA,7279,n,161,Proto-Eastern-Oceanic,NA,NA,n
-7280,NA,7280,ɲ,161,Proto-Eastern-Oceanic,NA,"written ""ñ""",ɲ
-7281,NA,7281,ŋ,161,Proto-Eastern-Oceanic,NA,NA,ŋ
-7282,NA,7282,mw,161,Proto-Eastern-Oceanic,NA,"written ""mw""",mw
-7283,NA,7283,w,161,Proto-Eastern-Oceanic,NA,NA,w
-7284,NA,7284,q,161,Proto-Eastern-Oceanic,NA,NA,q
+7256,,7256,a,161,Proto-Eastern-Oceanic,NA,NA,a
+7257,,7257,e,161,Proto-Eastern-Oceanic,NA,NA,e
+7258,,7258,i,161,Proto-Eastern-Oceanic,NA,NA,i
+7259,,7259,o,161,Proto-Eastern-Oceanic,NA,NA,o
+7260,,7260,u,161,Proto-Eastern-Oceanic,NA,NA,u
+7261,,7261,v,161,Proto-Eastern-Oceanic,NA,NA,v
+7262,,7262,b,161,Proto-Eastern-Oceanic,NA,NA,b
+7263,,7263,bʷ,161,Proto-Eastern-Oceanic,NA,"written ""bw""",bʷ
+7264,,7264,p,161,Proto-Eastern-Oceanic,NA,NA,p
+7265,,7265,pʷ,161,Proto-Eastern-Oceanic,NA,"written ""pw""",pʷ
+7266,,7266,t,161,Proto-Eastern-Oceanic,NA,NA,t
+7267,,7267,nt,161,Proto-Eastern-Oceanic,NA,"written ""nt""",nt
+7268,,7268,dz,161,Proto-Eastern-Oceanic,NA,"written as ""j"", described as alveolar affricate. Could probably also be ""dʒ""",dz
+7269,,7269,s,161,Proto-Eastern-Oceanic,NA,NA,s
+7270,,7270,z,161,Proto-Eastern-Oceanic,NA,NA,z
+7271,,7271,j,161,Proto-Eastern-Oceanic,NA,"written as ""y""",j
+7272,,7272,r,161,Proto-Eastern-Oceanic,NA,NA,r
+7273,,7273,nr,161,Proto-Eastern-Oceanic,NA,"written ""nr""",nr
+7274,,7274,l,161,Proto-Eastern-Oceanic,NA,NA,l
+7275,,7275,R,161,Proto-Eastern-Oceanic,NA,I am not sure what this is meant to represent,R
+7276,,7276,k,161,Proto-Eastern-Oceanic,NA,NA,k
+7277,,7277,ŋk,161,Proto-Eastern-Oceanic,NA,"written ""ŋk""",ŋk
+7278,,7278,m,161,Proto-Eastern-Oceanic,NA,NA,m
+7279,,7279,n,161,Proto-Eastern-Oceanic,NA,NA,n
+7280,,7280,ɲ,161,Proto-Eastern-Oceanic,NA,"written ""ñ""",ɲ
+7281,,7281,ŋ,161,Proto-Eastern-Oceanic,NA,NA,ŋ
+7282,,7282,mw,161,Proto-Eastern-Oceanic,NA,"written ""mw""",mw
+7283,,7283,w,161,Proto-Eastern-Oceanic,NA,NA,w
+7284,,7284,q,161,Proto-Eastern-Oceanic,NA,NA,q
 7285,koma1264,7285,p,162,Proto-Koman,NA,NA,p
 7286,koma1264,7286,b,162,Proto-Koman,NA,NA,b
 7287,koma1264,7287,pʼ,162,Proto-Koman,NA,NA,pʼ
@@ -7369,29 +7369,29 @@ ID,Language_ID,Parameter_ID,Value,Inventory_ID,SourceLanguageName,SourceLanguage
 7368,bora1263,7368,o,164,Proto Bora-Muinane,NA,NA,o
 7369,bora1263,7369,a,164,Proto Bora-Muinane,NA,NA,a
 7370,bora1263,7370,ai,164,Proto Bora-Muinane,NA,NA,ai
-7371,NA,7371,pː,165,Proto-Irish,NA,NA,pː
-7372,NA,7372,tː,165,Proto-Irish,NA,NA,tː
-7373,NA,7373,kː,165,Proto-Irish,NA,NA,kː
-7374,NA,7374,pʰ,165,Proto-Irish,NA,NA,pʰ
-7375,NA,7375,tʰ,165,Proto-Irish,NA,NA,tʰ
-7376,NA,7376,kʰ,165,Proto-Irish,NA,NA,kʰ
-7377,NA,7377,kʷʰ,165,Proto-Irish,NA,NA,kʷʰ
-7378,NA,7378,bː,165,Proto-Irish,NA,NA,bː
-7379,NA,7379,dː,165,Proto-Irish,NA,NA,dː
-7380,NA,7380,ɡː,165,Proto-Irish,NA,NA,ɡː
-7381,NA,7381,b,165,Proto-Irish,NA,NA,b
-7382,NA,7382,d,165,Proto-Irish,NA,NA,d
-7383,NA,7383,ɡ,165,Proto-Irish,NA,NA,ɡ
-7384,NA,7384,ɡʷ,165,Proto-Irish,NA,NA,ɡʷ
-7385,NA,7385,sː,165,Proto-Irish,NA,NA,sː
-7386,NA,7386,s,165,Proto-Irish,NA,NA,s
-7387,NA,7387,x,165,Proto-Irish,NA,NA,x
-7388,NA,7388,h,165,Proto-Irish,NA,NA,h
-7389,NA,7389,mː,165,Proto-Irish,NA,NA,mː
-7390,NA,7390,nː,165,Proto-Irish,NA,NA,nː
-7391,NA,7391,m,165,Proto-Irish,NA,NA,m
-7392,NA,7392,n,165,Proto-Irish,NA,NA,n
-7393,NA,7393,lː,165,Proto-Irish,NA,NA,lː
+7371,,7371,pː,165,Proto-Irish,NA,NA,pː
+7372,,7372,tː,165,Proto-Irish,NA,NA,tː
+7373,,7373,kː,165,Proto-Irish,NA,NA,kː
+7374,,7374,pʰ,165,Proto-Irish,NA,NA,pʰ
+7375,,7375,tʰ,165,Proto-Irish,NA,NA,tʰ
+7376,,7376,kʰ,165,Proto-Irish,NA,NA,kʰ
+7377,,7377,kʷʰ,165,Proto-Irish,NA,NA,kʷʰ
+7378,,7378,bː,165,Proto-Irish,NA,NA,bː
+7379,,7379,dː,165,Proto-Irish,NA,NA,dː
+7380,,7380,ɡː,165,Proto-Irish,NA,NA,ɡː
+7381,,7381,b,165,Proto-Irish,NA,NA,b
+7382,,7382,d,165,Proto-Irish,NA,NA,d
+7383,,7383,ɡ,165,Proto-Irish,NA,NA,ɡ
+7384,,7384,ɡʷ,165,Proto-Irish,NA,NA,ɡʷ
+7385,,7385,sː,165,Proto-Irish,NA,NA,sː
+7386,,7386,s,165,Proto-Irish,NA,NA,s
+7387,,7387,x,165,Proto-Irish,NA,NA,x
+7388,,7388,h,165,Proto-Irish,NA,NA,h
+7389,,7389,mː,165,Proto-Irish,NA,NA,mː
+7390,,7390,nː,165,Proto-Irish,NA,NA,nː
+7391,,7391,m,165,Proto-Irish,NA,NA,m
+7392,,7392,n,165,Proto-Irish,NA,NA,n
+7393,,7393,lː,165,Proto-Irish,NA,NA,lː
 7394,gunw1250,7394,b,166,Proto-Gunwinyguan,NA,NA,b
 7395,gunw1250,7395,m,166,Proto-Gunwinyguan,NA,NA,m
 7396,gunw1250,7396,w,166,Proto-Gunwinyguan,NA,NA,w

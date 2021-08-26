@@ -2,7 +2,7 @@ appdirs==1.4.4
 bs4==0.0.1
 certifi==2021.5.30
 cldfbench==1.7.2
--e git+git@github.com:cldf-datasets/bdproto.git@a109e4a26899c6b85dbdeb4290395677160b3582#egg=cldfbench_bdproto
+-e git+git@github.com:cldf-datasets/bdproto.git@85dbea180bf9539f68df74aa99558b159b9c136b#egg=cldfbench_bdproto
 cldfcatalog==1.3.2
 clldutils==3.9.0
 colorlog==5.0.1

@@ -62,7 +62,7 @@ class Dataset(BaseDataset):
             args.writer.objects['ValueTable'].append({
                 'ID': str(counter),
                 'Inventory_ID': row['BdprotoID'],
-                'Language_ID': row['Glottocode'],
+                'Language_ID': row['Glottocode'] if row['Glottocode'] != 'NA' else '',
                 'Parameter_ID': str(counter),
                 'Value': row['Phoneme'],
                 'SourceLanguageName': row['SourceLanguageName'],
