@@ -1,0 +1,419 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:bibliographicCitation": "Marsico, Egidio, Sebastien Flavier, Annemarie Verkerk and Steven Moran. 2018. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), 1654-1658. May 7-12, Miyazaki, Japan. Online: http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf.",
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:identifier": "https://github.com/bdproto/bdproto",
+    "dc:title": "bdproto",
+    "dcat:accessURL": "git@github.com:cldf-datasets/bdproto",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "git@github.com:cldf-datasets/bdproto",
+            "rdf:type": "prov:Entity",
+            "dc:created": "85dbea1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.4-20-gf6531fcec3",
+            "dc:title": "Glottolog"
+        },
+        {
+            "rdf:about": "https://github.com/bdproto/bdproto",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1-15-gd201acb",
+            "dc:title": "Repository"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.8.11"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "bdproto",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "dialect": {
+        "commentPrefix": null
+    },
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
+            "dc:extent": 7880,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "Parameter_ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "null": [
+                            "?",
+                            ""
+                        ],
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "required": false,
+                        "name": "Value"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "required": true,
+                        "name": "Inventory_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SourceLanguageName"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SourceLanguageFamily"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "PhonemeNotes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "PhonemeNFD"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Parameter_ID"
+                        ],
+                        "reference": {
+                            "resource": "parameters.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Inventory_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Inventory_ID"
+                        ],
+                        "reference": {
+                            "resource": "contributions.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "values.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 7880,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 214,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "required": false,
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "required": false,
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "required": false,
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "family_id"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "parent_id"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "bookkeeping"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "level"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "markup_description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "child_family_count"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "child_language_count"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "child_dialect_count"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "country_ids"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:extent": 272,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Allophone"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "AllophoneNotes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SpecificDialect"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Variants"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LowconfidencePhonemic"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LowconfidencePhonetic"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LanguageName"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LanguageFamily"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LanguageFamilyRoot"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Type"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Dates"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "DatesSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "InventoryType"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "TimeDepth"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "TimeDepthYBP"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Homeland"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "HomelandSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "BibtexKey"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Comments"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributions.csv"
+        }
+    ]
+}
