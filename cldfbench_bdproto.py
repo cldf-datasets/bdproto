@@ -10,7 +10,7 @@ class Dataset(BaseDataset):
     id = "bdproto"
     valueTableProperties = ['SourceLanguageName', 'SourceLanguageFamily', 'PhonemeNotes', 'PhonemeNFD']
     languageTableProperties = ['family_id', 'parent_id', 'bookkeeping', 'level', 'description', 'markup_description', 'child_family_count', 'child_language_count', 'child_dialect_count', 'country_ids']
-    inventoryTableProperties = ['Allophone', 'AllophoneNotes', 'SpecificDialect', 'Variants', 'LowconfidencePhonemic', 'LowconfidencePhonetic', 'LanguageName', 'LanguageFamily', 'LanguageFamilyRoot', 'Glottocode', 'Type', 'Macroarea', 'Dates', 'DatesSource', 'InventoryType', 'TimeDepth', 'TimeDepthYBP', 'Homeland', 'HomelandSource', 'BibtexKey', 'Source', 'Comments']
+    inventoryTableProperties = ['SpecificDialect', 'LanguageName', 'LanguageFamily', 'LanguageFamilyRoot', 'Glottocode', 'Type', 'Macroarea', 'Dates', 'DatesSource', 'InventoryType', 'TimeDepth', 'TimeDepthYBP', 'Homeland', 'HomelandSource', 'BibtexKey', 'Source', 'Comments']
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(dir=self.cldf_dir, module='StructureDataset')

@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:cldf-datasets/bdproto",
             "rdf:type": "prov:Entity",
-            "dc:created": "85dbea1",
+            "dc:created": "10b08f4",
             "dc:title": "Repository"
         },
         {
@@ -322,27 +322,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Allophone"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "AllophoneNotes"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "SpecificDialect"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Variants"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LowconfidencePhonemic"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LowconfidencePhonetic"
                     },
                     {
                         "datatype": "string",
