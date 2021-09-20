@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:cldf-datasets/bdproto",
             "rdf:type": "prov:Entity",
-            "dc:created": "10b08f4",
+            "dc:created": "d2dbc2f",
             "dc:title": "Repository"
         },
         {
@@ -163,7 +163,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 7880,
+            "dc:extent": 681,
             "tableSchema": {
                 "columns": [
                     {

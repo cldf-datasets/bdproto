@@ -1,6 +1,7 @@
 import pathlib
 import subprocess
 import unicodedata
+import hashlib
 from cldfbench import Dataset as BaseDataset
 from cldfbench import CLDFSpec
 
@@ -54,28 +55,33 @@ class Dataset(BaseDataset):
 
         counter = 1
         inventory_ids = []
+        pids = []
         for row in self.raw_dir.read_csv(
             self.raw_dir / 'bdproto' / 'bdproto.csv',
             dicts=True,
         ):
+            desc = ' - '.join(unicodedata.name(c) for c in row['Phoneme'])
+            pid = hashlib.md5(desc.encode('utf8')).hexdigest().upper()
+
             # values.csv
             args.writer.objects['ValueTable'].append({
                 'ID': str(counter),
                 'Inventory_ID': row['BdprotoID'],
                 'Language_ID': row['Glottocode'] if row['Glottocode'] != 'NA' else '',
-                'Parameter_ID': str(counter),
+                'Parameter_ID': pid,
                 'Value': row['Phoneme'],
                 'SourceLanguageName': row['SourceLanguageName'],
                 **{ k: row[k] for k in self.valueTableProperties}
             })
 
             # parameters.csv
-            args.writer.objects['ParameterTable'].append({
-                'ID': str(counter),
-                'Name': row['Phoneme'],
-                'Description': ' - '.join(unicodedata.name(c) for c in row['Phoneme']), 
-                # TODO more features, does not exist in raw data
-            })
+            if pid not in pids:
+                args.writer.objects['ParameterTable'].append({
+                    'ID': pid,
+                    'Name': row['Phoneme'],
+                    'Description': desc, 
+                })
+                pids.append(pid)
 
             # contributions.csv
             if row['BdprotoID'] not in inventory_ids:
