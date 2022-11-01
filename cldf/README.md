@@ -10,8 +10,8 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/bdproto/bdproto
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:cldf-datasets/bdproto
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:cldf-datasets/bdproto/tree/d2dbc2f">git@github.com:cldf-datasets/bdproto d2dbc2f</a></li><li><a href="git@github.com:glottolog/glottolog/tree/f6531fcec3">Glottolog v4.4-20-gf6531fcec3</a></li><li><a href="https://github.com/bdproto/bdproto/tree/d201acb">bdproto/bdproto v1.1-15-gd201acb</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.11</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:cldf-datasets/bdproto/tree/82c76fb">git@github.com:cldf-datasets/bdproto 82c76fb</a></li><li><a href="git@github.com:glottolog/glottolog/tree/f6531fcec3">Glottolog v4.4-20-gf6531fcec3</a></li><li><a href="https://github.com/bdproto/bdproto/tree/5969782">bdproto/bdproto v1.1-55-g5969782</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.13</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | bdproto
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -21,7 +21,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ValueTable](http://cldf.clld.org/v1.0/terms.rdf#ValueTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 7880
+[dc:extent](http://purl.org/dc/terms/extent) | 7779
 
 
 ### Columns
@@ -33,8 +33,6 @@ Name/Property | Datatype | Description
 [Parameter_ID](http://cldf.clld.org/v1.0/terms.rdf#parameterReference) | `string` | References [parameters.csv::ID](#table-parameterscsv)
 [Value](http://cldf.clld.org/v1.0/terms.rdf#value) | `string` | 
 [Inventory_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | References [contributions.csv::ID](#table-contributionscsv)
-`SourceLanguageName` | `string` | 
-`SourceLanguageFamily` | `string` | 
 `PhonemeNotes` | `string` | 
 `PhonemeNFD` | `string` | 
 
@@ -43,7 +41,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 681
+[dc:extent](http://purl.org/dc/terms/extent) | 666
 
 
 ### Columns
@@ -59,7 +57,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 214
+[dc:extent](http://purl.org/dc/terms/extent) | 212
 
 
 ### Columns
@@ -89,7 +87,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ContributionTable](http://cldf.clld.org/v1.0/terms.rdf#ContributionTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 272
+[dc:extent](http://purl.org/dc/terms/extent) | 268
 
 
 ### Columns
@@ -98,9 +96,6 @@ Name/Property | Datatype | Description
  --- | --- | --- 
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
 `SpecificDialect` | `string` | 
-`LanguageName` | `string` | 
-`LanguageFamily` | `string` | 
-`LanguageFamilyRoot` | `string` | 
 `Glottocode` | `string` | 
 `Type` | `string` | 
 `Macroarea` | `string` | 
@@ -109,8 +104,6 @@ Name/Property | Datatype | Description
 `InventoryType` | `string` | 
 `TimeDepth` | `string` | 
 `TimeDepthYBP` | `string` | 
-`Homeland` | `string` | 
-`HomelandSource` | `string` | 
 `BibtexKey` | `string` | 
 `Source` | `string` | 
 `Comments` | `string` | 

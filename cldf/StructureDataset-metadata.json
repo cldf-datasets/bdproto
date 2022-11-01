@@ -8,13 +8,14 @@
     "dc:bibliographicCitation": "Marsico, Egidio, Sebastien Flavier, Annemarie Verkerk and Steven Moran. 2018. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), 1654-1658. May 7-12, Miyazaki, Japan. Online: http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://github.com/bdproto/bdproto",
+    "dc:source": "sources.bib",
     "dc:title": "bdproto",
     "dcat:accessURL": "git@github.com:cldf-datasets/bdproto",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "git@github.com:cldf-datasets/bdproto",
             "rdf:type": "prov:Entity",
-            "dc:created": "d2dbc2f",
+            "dc:created": "82c76fb",
             "dc:title": "Repository"
         },
         {
@@ -26,14 +27,14 @@
         {
             "rdf:about": "https://github.com/bdproto/bdproto",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-15-gd201acb",
+            "dc:created": "v1.1-55-g5969782",
             "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.11"
+            "dc:description": "3.8.13"
         },
         {
             "dc:title": "python-packages",
@@ -42,13 +43,10 @@
     ],
     "rdf:ID": "bdproto",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 7880,
+            "dc:extent": 7779,
             "tableSchema": {
                 "columns": [
                     {
@@ -91,14 +89,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
                         "required": true,
                         "name": "Inventory_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "SourceLanguageName"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "SourceLanguageFamily"
                     },
                     {
                         "datatype": "string",
@@ -163,7 +153,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 681,
+            "dc:extent": 666,
             "tableSchema": {
                 "columns": [
                     {
@@ -196,7 +186,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 214,
+            "dc:extent": 212,
             "tableSchema": {
                 "columns": [
                     {
@@ -247,7 +237,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -308,7 +298,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
-            "dc:extent": 272,
+            "dc:extent": 268,
             "tableSchema": {
                 "columns": [
                     {
@@ -323,18 +313,6 @@
                     {
                         "datatype": "string",
                         "name": "SpecificDialect"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LanguageName"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LanguageFamily"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LanguageFamilyRoot"
                     },
                     {
                         "datatype": "string",
@@ -367,14 +345,6 @@
                     {
                         "datatype": "string",
                         "name": "TimeDepthYBP"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Homeland"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "HomelandSource"
                     },
                     {
                         "datatype": "string",

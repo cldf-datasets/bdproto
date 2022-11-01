@@ -9,9 +9,12 @@ from cldfbench import CLDFSpec
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "bdproto"
-    valueTableProperties = ['SourceLanguageName', 'SourceLanguageFamily', 'PhonemeNotes', 'PhonemeNFD']
+    # valueTableProperties = ['SourceLanguageName', 'SourceLanguageFamily', 'PhonemeNotes', 'PhonemeNFD']
+    valueTableProperties = ['PhonemeNotes', 'PhonemeNFD']
+    # languageTableProperties = ['family_id', 'parent_id', 'bookkeeping', 'level', 'description', 'markup_description', 'child_family_count', 'child_language_count', 'child_dialect_count', 'country_ids']
     languageTableProperties = ['family_id', 'parent_id', 'bookkeeping', 'level', 'description', 'markup_description', 'child_family_count', 'child_language_count', 'child_dialect_count', 'country_ids']
-    inventoryTableProperties = ['SpecificDialect', 'LanguageName', 'LanguageFamily', 'LanguageFamilyRoot', 'Glottocode', 'Type', 'Macroarea', 'Dates', 'DatesSource', 'InventoryType', 'TimeDepth', 'TimeDepthYBP', 'Homeland', 'HomelandSource', 'BibtexKey', 'Source', 'Comments']
+    # inventoryTableProperties = ['SpecificDialect', 'LanguageName', 'LanguageFamily', 'LanguageFamilyRoot', 'Glottocode', 'Type', 'Macroarea', 'Dates', 'DatesSource', 'InventoryType', 'TimeDepth', 'TimeDepthYBP', 'Homeland', 'HomelandSource', 'BibtexKey', 'Source', 'Comments']
+    inventoryTableProperties = ['SpecificDialect', 'Glottocode', 'Type', 'Macroarea', 'Dates', 'DatesSource', 'InventoryType', 'TimeDepth', 'TimeDepthYBP', 'BibtexKey', 'Source', 'Comments']
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(dir=self.cldf_dir, module='StructureDataset')
@@ -70,7 +73,6 @@ class Dataset(BaseDataset):
                 'Language_ID': row['Glottocode'] if row['Glottocode'] != 'NA' else '',
                 'Parameter_ID': pid,
                 'Value': row['Phoneme'],
-                'SourceLanguageName': row['SourceLanguageName'],
                 **{ k: row[k] for k in self.valueTableProperties}
             })
 
