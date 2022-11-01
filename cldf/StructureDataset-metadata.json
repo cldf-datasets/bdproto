@@ -9,6 +9,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://github.com/bdproto/bdproto",
     "dc:title": "bdproto",
+    "dc:source": "sources.bib",
     "dcat:accessURL": "git@github.com:cldf-datasets/bdproto",
     "prov:wasDerivedFrom": [
         {
