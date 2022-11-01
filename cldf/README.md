@@ -10,7 +10,7 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/bdproto/bdproto
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | git@github.com:cldf-datasets/bdproto
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:cldf-datasets/bdproto/tree/82c76fb">git@github.com:cldf-datasets/bdproto 82c76fb</a></li><li><a href="git@github.com:glottolog/glottolog/tree/f6531fcec3">Glottolog v4.4-20-gf6531fcec3</a></li><li><a href="https://github.com/bdproto/bdproto/tree/5969782">bdproto/bdproto v1.1-55-g5969782</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="git@github.com:cldf-datasets/bdproto/tree/de74cf6">git@github.com:cldf-datasets/bdproto de74cf6</a></li><li><a href="git@github.com:glottolog/glottolog/tree/f6531fcec3">Glottolog v4.4-20-gf6531fcec3</a></li><li><a href="https://github.com/bdproto/bdproto/tree/5969782">bdproto/bdproto v1.1-55-g5969782</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.13</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | bdproto
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -66,11 +66,13 @@ Name/Property | Datatype | Description
  --- | --- | --- 
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
-[Macroarea](http://cldf.clld.org/v1.0/terms.rdf#macroarea) | `string` | 
 [Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal` | 
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
 [Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string` | 
+`LanguageFamily` | `string` | 
+`LanguageFamilyRoot` | `string` | 
+`Macroarea` | `string` | 
 `family_id` | `string` | 
 `parent_id` | `string` | 
 `bookkeeping` | `string` | 
@@ -95,15 +97,20 @@ property | value
 Name/Property | Datatype | Description
  --- | --- | --- 
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+`SourceLanguageName` | `string` | 
+`SourceLanguageFamily` | `string` | 
 `SpecificDialect` | `string` | 
 `Glottocode` | `string` | 
 `Type` | `string` | 
-`Macroarea` | `string` | 
 `Dates` | `string` | 
 `DatesSource` | `string` | 
 `InventoryType` | `string` | 
 `TimeDepth` | `string` | 
 `TimeDepthYBP` | `string` | 
+`HomelandLatitude` | `string` | 
+`HomelandLongitude` | `string` | 
+`HomelandSource` | `string` | 
+`HomelandComments` | `string` | 
 `BibtexKey` | `string` | 
 `Source` | `string` | 
 `Comments` | `string` | 

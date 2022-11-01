@@ -8,14 +8,13 @@
     "dc:bibliographicCitation": "Marsico, Egidio, Sebastien Flavier, Annemarie Verkerk and Steven Moran. 2018. BDPROTO: A Database of Phonological Inventories from Ancient and Reconstructed Languages. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), 1654-1658. May 7-12, Miyazaki, Japan. Online: http://www.lrec-conf.org/proceedings/lrec2018/pdf/534.pdf.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://github.com/bdproto/bdproto",
-    "dc:source": "sources.bib",
     "dc:title": "bdproto",
     "dcat:accessURL": "git@github.com:cldf-datasets/bdproto",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "git@github.com:cldf-datasets/bdproto",
             "rdf:type": "prov:Entity",
-            "dc:created": "82c76fb",
+            "dc:created": "de74cf6",
             "dc:title": "Repository"
         },
         {
@@ -205,12 +204,6 @@
                         "name": "Name"
                     },
                     {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "required": false,
-                        "name": "Macroarea"
-                    },
-                    {
                         "datatype": {
                             "base": "decimal",
                             "minimum": "-90",
@@ -248,6 +241,18 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LanguageFamily"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LanguageFamilyRoot"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Macroarea"
                     },
                     {
                         "datatype": "string",
@@ -312,6 +317,14 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "SourceLanguageName"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SourceLanguageFamily"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "SpecificDialect"
                     },
                     {
@@ -321,10 +334,6 @@
                     {
                         "datatype": "string",
                         "name": "Type"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Macroarea"
                     },
                     {
                         "datatype": "string",
@@ -345,6 +354,22 @@
                     {
                         "datatype": "string",
                         "name": "TimeDepthYBP"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "HomelandLatitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "HomelandLongitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "HomelandSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "HomelandComments"
                     },
                     {
                         "datatype": "string",

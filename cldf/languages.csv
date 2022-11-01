@@ -1,213 +1,213 @@
-ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,family_id,parent_id,bookkeeping,level,description,markup_description,child_family_count,child_language_count,child_dialect_count,country_ids
-afro1255,Afro-Asiatic,Africa,,,afro1255,,,,False,family,,,220,375,776,
-ainu1240,Hokkaido Ainu,Eurasia,43.633654,142.46167,ainu1240,ain,ainu1252,hokk1250,False,language,,,0,0,2,JP
-akka1240,Akkadian,Eurasia,33.1,44.1,akka1240,akk,afro1255,east2678,False,language,,,0,0,0,IQ
-alba1267,Albanian,Eurasia,,,alba1267,sqi,indo1319,indo1319,False,family,,,1,4,18,AL
-aleu1260,Aleut,North America,52.1228,-174.29,aleu1260,ale,eski1264,eski1264,False,language,,,0,0,2,RU US
-algo1256,Algonquian,North America,,,algo1256,,algi1248,algi1248,False,family,,,18,44,40,
-alor1249,Alor-Pantar,Papunesia,,,alor1249,,timo1261,timo1261,False,family,,,9,19,48,
-anat1257,Anatolian,Eurasia,,,anat1257,,indo1319,indo1319,False,family,,,5,10,0,
-anci1245,Ancient North Arabian,Eurasia,29.044,39.776,anci1245,xna,afro1255,arab1394,False,language,,,0,0,6,IQ
-anim1240,Anim,Papunesia,,,anim1240,,,,False,family,,,9,17,18,
-aram1259,Aramaic,Eurasia,,,aram1259,,afro1255,nort3165,False,family,,,13,22,108,
-araw1281,Arawakan,South America,,,araw1281,,,,False,family,,,47,78,31,
-asli1243,Aslian,Eurasia,,,asli1243,,aust1305,aust1305,False,family,,,12,19,49,
-atha1247,Athabaskan,North America,,,atha1247,,atha1245,atha1246,False,family,,,22,44,55,
-atti1240,Attic,Eurasia,,,atti1240,,indo1319,anci1242,False,dialect,,,0,0,0,
-aust1305,Austroasiatic,Eurasia,,,aust1305,,,,False,family,,,95,156,264,
-aust1307,Austronesian,Eurasia,,,aust1307,,,,False,family,,,739,1277,1880,
-aves1237,Avestan,Eurasia,31.541,53.633,aves1237,ave,indo1319,iran1269,False,language,,,0,0,0,IR
-ayma1253,Aymaran,South America,,,ayma1253,,,,False,family,,,2,4,0,
-balt1263,Balto-Slavic,Eurasia,,,balt1263,,indo1319,indo1319,False,family,,,13,23,114,
-bara1376,Baraic,Papunesia,,,bara1376,,koia1260,koia1260,False,family,,,1,4,19,
-barb1265,Barbacoan,South America,,,barb1265,,,,False,family,,,3,6,0,
-basq1248,Basque,Eurasia,43.2787,-1.31622,basq1248,eus,,,False,language,,,0,0,11,ES FR
-berb1260,Berber,Africa,,,berb1260,,afro1255,afro1255,False,family,,,11,27,50,
-bium1280,Biu-Mandara,Africa,,,bium1280,,afro1255,chad1250,False,family,,,45,81,164,
-blan1242,Blang,Eurasia,22.0092,99.7405,blan1242,blr,aust1305,bula1260,False,language,,,0,0,2,CN MM TH
-boaz1244,Boazi,Papunesia,,,boaz1244,,anim1240,mari1437,False,family,,,0,2,9,
-bora1263,Bora,South America,-2.000259,-72.257066,bora1263,boa,bora1262,bora1262,False,language,,,0,0,2,BR CO PE
-bula1259,Bulaka River,Papunesia,,,bula1259,,,,False,family,,,0,2,0,
-bung1268,Bungku-Tolaki,Papunesia,,,bung1268,,aust1307,sout2928,False,family,,,5,15,28,
-cadd1255,Caddoan,North America,,,cadd1255,,,,False,family,,,3,5,4,
-celt1248,Celtic,Eurasia,,,celt1248,,indo1319,indo1319,False,family,,,11,14,24,
-cent2243,Central Gur,Africa,,,cent2243,,atla1278,gura1261,False,family,,,74,98,171,
-chad1250,Chadic,Africa,,,chad1250,,afro1255,afro1255,False,family,,,117,202,352,
-cher1273,Cherokee,North America,35.4664,-83.163,cher1273,chr,iroq1247,iroq1247,False,language,,,0,0,4,US
-chib1249,Chibchan,South America,,,chib1249,,,,False,family,,,18,27,13,
-chim1311,Chimakuan,North America,47.632,-123.079,chim1311,,,,False,family,,,0,2,2,US
-chin1484,Chinantecan,North America,,,chin1484,,otom1299,otop1241,False,family,,,9,14,2,
-chuk1271,Chukotko-Kamchatkan,Eurasia,,,chuk1271,,,,False,family,,,3,7,24,
-clas1249,Classical-Middle Armenian,Eurasia,38.592316,41.346422,clas1249,xcl,indo1319,arme1241,False,language,,,0,0,2,AM
-coas1317,Coastal NEC Bantu,Africa,,,coas1317,,atla1278,nort3209,False,family,,,9,16,36,
-copt1239,Coptic,Africa,29.472,31.2053,copt1239,cop,afro1255,egyp1245,False,language,,,0,0,9,EG
-cost1250,Costanoan,North America,,,cost1250,,miwo1274,miwo1274,False,family,,,1,4,8,
-cune1239,Cuneiform Luwian,Eurasia,38.0,36.0,cune1239,xlu,indo1319,luvi1235,False,language,,,0,0,0,TR
-cush1243,Cushitic,Africa,,,cush1243,,afro1255,afro1255,False,family,,,34,46,77,
-daic1237,Daic,Eurasia,,,daic1237,,taik1256,daic1238,False,family,,,25,58,47,
-drav1251,Dravidian,Eurasia,,,drav1251,,,,False,family,,,46,80,135,
-east2418,Eastern Nilotic,Africa,,,east2418,,nilo1247,nilo1247,False,family,,,9,17,36,
-east2502,East Tariku,Papunesia,,,east2502,,lake1255,tari1255,False,family,,,2,9,0,
-east2520,East Timor,Papunesia,,,east2520,,timo1261,east2519,False,family,,,1,3,2,
-edoi1239,Edoid,Africa,,,edoi1239,,atla1278,akpe1249,False,family,,,14,28,75,
-egyp1245,Egyptian,Africa,,,egyp1245,,afro1255,afro1255,False,family,,,0,2,9,
-egyp1246,Egyptian (Ancient),Africa,28.381735,30.834959,egyp1246,egy,afro1255,egyp1245,False,language,,,0,0,0,EG
-elam1244,Elamite,Eurasia,31.1833,48.2333,elam1244,elx,,,False,language,,,0,0,0,IR
-ersu1242,Ersuic,Eurasia,,,ersu1242,,sino1245,naqi1236,False,family,,,0,3,3,
-eski1264,Eskimo-Aleut,North America,,,eski1264,,,,False,family,,,5,12,29,
-eski1265,Eskimo,North America,,,eski1265,,eski1264,eski1264,False,family,,,4,11,27,
-fata1246,Fataluku-Oirata,Papunesia,,,fata1246,,timo1261,east2520,False,family,,,0,2,0,
-finn1317,Finnic,Eurasia,,,finn1317,,ural1272,ural1272,False,family,,,7,12,50,
-gbay1279,Gbaya-Manza-Ngbaka,Africa,,,gbay1279,,atla1278,nort3149,False,family,,,11,14,23,
-germ1287,Germanic,Eurasia,,,germ1287,,indo1319,indo1319,False,family,,,75,106,442,
-goro1272,Goroka,Papunesia,,,goro1272,,nucl1709,kain1273,False,family,,,7,16,33,
-grea1276,Greater Quichean,North America,,,grea1276,,maya1287,quic1274,False,family,,,4,10,0,
-grea1284,Greater Central Philippine,Eurasia,,,grea1284,,aust1307,mala1545,False,family,,,60,95,107,
-gree1276,Greek,Eurasia,,,gree1276,,indo1319,grae1234,False,family,,,5,11,50,
-guah1252,Guahiboan,South America,,,guah1252,,,,False,family,,,2,5,12,
-guai1249,Guaicuruan,South America,,,guai1249,,,,False,family,,,3,5,4,
-guan1278,Guang,Africa,,,guan1278,,atla1278,tano1248,False,family,,,13,19,15,
-gunw1250,Gunwinyguan,Australia,,,gunw1250,,,,False,family,,,9,12,8,
-hatt1246,Hattic,Eurasia,33.9833,40.3333,hatt1246,xht,,,False,language,,,0,0,0,IQ
-hitt1242,Hittite,Eurasia,40.0,35.0,hitt1242,hit,indo1319,anat1257,False,language,,,0,0,0,TR
-hlai1239,Hlai,Eurasia,18.8062,109.459,hlai1239,lic,taik1256,nucl1241,False,language,,,0,0,4,CN
-huav1256,Huavean,North America,,,huav1256,,,,False,family,,,2,4,0,
-huon1245,Huon Gulf,Papunesia,,,huon1245,,aust1307,nort3206,False,family,,,15,32,18,
-hurr1240,Hurrian,Eurasia,40.7339,43.3154,hurr1240,xhu,hurr1239,hurr1239,False,language,,,0,0,0,TR
-ijoi1239,Ijoid,Africa,,,ijoi1239,,,,False,family,,,6,10,29,
-indo1319,Indo-European,Eurasia,,,indo1319,,,,False,family,,,321,589,2013,
-indo1320,Indo-Iranian,Eurasia,,,indo1320,,indo1319,indo1319,False,family,,,150,324,1022,
-inla1262,Inland Gulf of Papua,Papunesia,,,inla1262,,anim1240,anim1240,False,family,,,2,6,0,
-iran1269,Iranian,Eurasia,,,iran1269,,indo1319,indo1320,False,family,,,51,96,387,
-iroq1247,Iroquoian,North America,,,iroq1247,,,,False,family,,,3,11,12,
-ital1284,Italic,Eurasia,,,ital1284,,indo1319,indo1319,False,family,,,49,86,273,
-iwai1246,Iwaidjan Proper,Australia,,,iwai1246,,,,False,family,,,1,4,3,
-jabu1249,Jabuti,South America,,,jabu1249,,nucl1710,nucl1710,False,family,,,0,2,0,
-jica1245,Jicaquean,North America,,,jica1245,,,,False,family,,,0,2,0,
-kada1291,Kadaic,Eurasia,,,kada1291,,taik1256,taik1256,False,family,,,11,15,11,
-kany1246,Kanyara,Australia,,,kany1246,,pama1250,pilb1234,False,family,,,1,4,0,
-kare1337,Karenic,Eurasia,,,kare1337,,sino1245,sino1245,False,family,,,12,20,16,
-kart1248,Kartvelian,Eurasia,,,kart1248,,,,False,family,,,3,6,26,
-kass1244,Kassite,Eurasia,,,kass1244,,uncl1493,uncl1493,False,language,,,0,0,0,IQ
-katu1271,Katuic,Eurasia,,,katu1271,,aust1305,aust1305,False,family,,,10,15,23,
-kere1287,Keresan,North America,,,kere1287,,,,False,family,,,0,2,6,
-khan1273,Kazym-Berezover-Suryskarer Khanty,Eurasia,62.4308,66.1218,khan1273,kca,ural1272,nort3264,False,language,,,0,0,4,RU
-khan1279,Khantyic,Eurasia,,,khan1279,,ural1272,ural1272,False,family,,,3,5,13,
-khoe1241,Khoe,Africa,,,khoe1241,,khoe1240,khoe1240,False,family,,,10,13,43,
-kiow1266,Kiowa,North America,34.9403,-98.9042,kiow1266,kio,kiow1265,kiow1265,False,language,,,0,0,0,US
-kira1253,Kiranti,Eurasia,,,kira1253,,sino1245,maha1306,False,family,,,16,31,70,
-koia1260,Koiarian,Papunesia,,,koia1260,,,,False,family,,,5,8,24,
-koia1261,Koiaric,Papunesia,,,koia1261,,koia1260,koia1260,False,family,,,2,4,5,
-koma1264,Koman,Africa,,,koma1264,,,,False,family,,,3,5,14,
-kuki1246,Kuki-Chin,Eurasia,,,kuki1246,,sino1245,kuki1245,False,family,,,21,53,79,
-lake1255,Lakes Plain,Papunesia,,,lake1255,,,,False,family,,,10,20,10,
-lakk1238,Lakkia,Eurasia,24.1169,110.106,lakk1238,lbc,taik1256,lakk1237,False,language,,,0,0,0,CN
-lamm1241,Western Pantar,Papunesia,-8.52787,124.057,lamm1241,lev,timo1261,alor1249,False,language,,,0,0,3,ID
-lati1261,Latin,Eurasia,41.9026,12.4502,lati1261,lat,indo1319,impe1234,False,language,,,0,0,3,VA
-lolo1265,Lolo-Burmese,Eurasia,,,lolo1265,,sino1245,burm1265,False,family,,,81,127,80,
-lowe1437,Lower Sepik-Ramu,Eurasia,,,lowe1437,,,,False,family,,,18,30,10,
-maba1274,Maban,Africa,,,maba1274,,,,False,family,,,5,10,25,
-maid1262,Maiduan,North America,,,maid1262,,,,False,family,,,0,4,0,
-mala1545,Malayo-Polynesian,Papunesia,,,mala1545,,aust1307,aust1307,False,family,,,729,1257,1833,
-mand1435,Manding,Africa,,,mand1435,,mand1469,mand1434,False,family,,,7,19,41,
-mand1469,Mande,Africa,,,mand1469,,,,False,family,,,56,75,177,
-mang1426,Manguean,North America,,,mang1426,,otom1299,tlap1252,False,family,,,0,2,6,
-mans1269,Mansic,Eurasia,,,mans1269,,ural1272,ural1272,False,family,,,1,3,4,
-mari1437,Marind-Boazi-Yaqai,Papunesia,,,mari1437,,anim1240,anim1240,False,family,,,3,6,17,
-mark1257,Markham,Papunesia,,,mark1257,,aust1307,huon1245,False,family,,,6,15,2,
-mawe1252,Maweti-Guarani,South America,,,mawe1252,,tupi1275,tupi1275,False,family,,,28,50,42,
-maya1287,Mayan,North America,,,maya1287,,,,False,family,,,24,33,9,
-micr1243,Micronesian,Papunesia,,,micr1243,,aust1307,ocea1241,False,family,,,16,21,21,
-midd1317,Middle English,Eurasia,51.65,-1.11,midd1317,enm,indo1319,merc1242,False,language,,,0,0,0,GB
-miwo1274,Miwok-Costanoan,North America,,,miwo1274,,,,False,family,,,6,11,13,
-miwo1275,Miwokan,North America,,,miwo1275,,miwo1274,miwo1274,False,family,,,3,7,5,
-mixe1284,Mixe-Zoque,North America,,,mixe1284,,,,False,family,,,9,19,15,
-mixt1422,Mixtecan,North America,,,mixt1422,,otom1299,amuz1253,False,family,,,16,57,35,
-moha1257,Mohawk-Oneida,North America,,,moha1257,,iroq1247,nort2947,False,family,,,0,2,0,
-moha1258,Mohawk,North America,43.72,-74.66836,moha1258,moh,iroq1247,moha1257,False,language,,,0,0,0,CA US
-mong1329,Mongolic,Eurasia,,,mong1329,,mong1349,mong1349,False,family,,,7,15,66,
-moni1258,Monic,Eurasia,,,moni1258,,aust1305,aust1305,False,family,,,0,3,3,
-mund1335,Mundaic,Eurasia,,,mund1335,,aust1305,aust1305,False,family,,,11,22,29,
-musk1252,Muskogean,North America,,,musk1252,,,,False,family,,,2,7,4,
-naka1262,Nakanai,Papunesia,-5.59931,150.888,naka1262,nak,aust1307,naka1266,False,language,,,0,0,5,PG
-narr1281,Narrow Bantu,Africa,,,narr1281,,atla1278,sout3152,False,family,,,345,558,946,
-newc1243,New Caledonian,Papunesia,,,newc1243,,aust1307,sout3173,False,family,,,20,33,20,
-ngay1241,Ngayarda,Australia,,,ngay1241,,pama1250,pilb1234,False,family,,,5,12,5,
-nico1262,Nicobaric,Eurasia,,,nico1262,,aust1305,aust1305,False,family,,,3,5,11,
-nilo1247,Nilotic,Africa,,,nilo1247,,,,False,family,,,31,55,117,
-nort2923,North Halmahera,Papunesia,,,nort2923,,,,False,family,,,10,15,19,
-nort2947,Northern Iroquoian,North America,,,nort2947,,iroq1247,iroq1247,False,family,,,2,10,8,
-nort3160,North Germanic,Eurasia,,,nort3160,,indo1319,nort3152,False,family,,,8,15,71,
-nort3165,Northwest Semitic,Eurasia,,,nort3165,,afro1255,cent2236,False,family,,,18,28,115,
-nubi1251,Nubian,Africa,,,nubi1251,,,,False,family,,,7,13,15,
-nucl1631,Nuclear Sentanic,Papunesia,,,nucl1631,,sent1261,sent1261,False,family,,,1,3,6,
-nucl1634,Skou,Papunesia,-2.64378,140.902,nucl1634,skv,skoo1245,skou1239,False,language,,,0,0,0,ID
-nucl1643,Japanese,Eurasia,35.0,135.0,nucl1643,jpn,japo1237,japa1258,False,language,,,0,0,125,JP
-nucl1709,Nuclear Trans New Guinea,Papunesia,,,nucl1709,,,,False,family,,,174,316,283,
-nucl1710,Nuclear-Macro-Je,South America,,,nucl1710,,,,False,family,,,15,30,16,
-nucl1713,Nuclear Tirio,Papunesia,,,nucl1713,,anim1240,tiri1259,False,family,,,0,4,1,
-nuri1243,Nuristani,Eurasia,,,nuri1243,,indo1319,indo1320,False,family,,,3,5,19,
-nyul1248,Nyulnyulan,Australia,,,nyul1248,,,,False,family,,,7,10,7,
-obol1242,Lower Cross,Africa,,,obol1242,,atla1278,delt1251,False,family,,,6,23,12,
-oldc1244,Old Chinese,Eurasia,36.12,114.32,oldc1244,och,sino1245,sini1245,False,language,,,0,0,2,CN
-oldg1234,Old Georgian,Eurasia,41.604313,43.06151,oldg1234,oge,kart1248,geor1253,False,language,,,0,0,0,GE
-oldp1255,Old Persian,Eurasia,,,oldp1255,ope,book1242,book1242,True,language,,,0,0,0,
-oldt1249,Old Telugu,Eurasia,16.1026,80.7807,oldt1249,,drav1251,telu1265,False,language,,,0,0,0,IN
-onga1238,Ongamo-Maa,Africa,,,onga1238,,nilo1247,lotu1248,False,family,,,1,3,15,
-osca1245,Oscan,Eurasia,40.98,15.67,osca1245,osc,indo1319,sabe1249,False,language,,,0,0,5,IT
-otom1299,Otomanguean,North America,,,otom1299,,,,False,family,,,89,180,91,
-otom1300,Otomi,North America,,,otom1300,,otom1299,otom1297,False,family,,,3,7,0,
-pahl1241,Pahlavi,Eurasia,30.06,52.7,pahl1241,pal,indo1319,midd1352,False,language,,,0,0,0,IN
-pala1331,Palaic,Eurasia,41.334,33.499,pala1331,plq,indo1319,anat1257,False,language,,,0,0,0,TR
-pala1350,Palaihnihan,North America,,,pala1350,,,,False,family,,,0,2,0,
-pama1250,Pama-Nyungan,Australia,,,pama1250,,,,False,family,,,150,248,208,
-pama1251,Paman,Australia,,,pama1251,,pama1250,pama1250,False,family,,,35,62,20,
-pear1246,Pearic,Eurasia,,,pear1246,,aust1305,aust1305,False,family,,,2,6,0,
-perm1256,Permian,Eurasia,,,perm1256,,ural1272,ural1272,False,family,,,1,4,8,
-phoe1239,Phoenician,Eurasia,34.12,35.65,phoe1239,phn,afro1255,phoe1238,False,language,,,0,0,0,TN
-phry1239,Phrygian,Eurasia,39.613,31.28,phry1239,xpg,indo1319,grae1234,False,language,,,0,0,1,TR
-poly1242,Polynesian,Papunesia,,,poly1242,,aust1307,east2445,False,family,,,18,38,54,
-pomo1273,Pomoan,North America,,,pomo1273,,,,False,family,,,4,7,5,
-popo1293,Popolocan-Mazatecan,North America,,,popo1293,,otom1299,popo1292,False,family,,,11,17,17,
-poto1254,Potou-Tano,Africa,,,poto1254,,atla1278,nyoa1234,False,family,,,24,35,41,
-quec1387,Quechuan,South America,,,quec1387,,,,False,family,,,23,44,67,
-saam1281,Saami,Eurasia,,,saam1281,,ural1272,ural1272,False,family,,,6,11,4,
-sali1255,Salishan,North America,,,sali1255,,,,False,family,,,10,25,38,
-samo1298,Samoyedic,Eurasia,,,samo1298,,ural1272,ural1272,False,family,,,4,8,23,
-sang1335,Sangiric,Papunesia,,,sang1335,,aust1307,mala1545,False,family,,,3,5,16,
-sara1341,Sara-Bongo-Bagirmi,Africa,,,sara1341,,cent2225,cent2225,False,family,,,24,40,90,
-sayh1236,Sayhadic,Eurasia,,,sayh1236,,afro1255,cent2236,False,family,,,0,5,0,
-semi1276,Semitic,Eurasia,,,semi1276,,afro1255,afro1255,False,family,,,53,98,288,
-siou1252,Siouan,North America,,,siou1252,,,,False,family,,,11,18,12,
-slav1255,Slavic,Eurasia,,,slav1255,,indo1319,balt1263,False,family,,,11,20,102,
-sout2830,Southern Nilotic,Africa,,,sout2830,,nilo1247,nilo1247,False,family,,,9,16,21,
-sout3054,South Cushitic,Africa,,,sout3054,,afro1255,cush1243,False,family,,,3,6,1,
-suga1248,Nizaa,Africa,7.12906,12.3779,suga1248,sgi,atla1278,niza1234,False,language,,,0,0,0,CM
-sume1241,Sumerian,Eurasia,31.3,45.6667,sume1241,sux,,,False,language,,,0,0,0,IQ
-taca1255,Tacanan,South America,,,taca1255,,pano1259,pano1259,False,family,,,4,7,0,
-taik1256,Tai-Kadai,Eurasia,,,taik1256,,,,False,family,,,54,95,88,
-take1257,Takelma,North America,42.423,-123.452,take1257,tkm,,,False,language,,,0,0,0,US
-tara1324,Taranoan,North America,,,tara1324,,cari1283,guia1242,False,family,,,1,4,1,
-timo1261,Timor-Alor-Pantar,Papunesia,,,timo1261,,,,False,family,,,13,23,50,
-tokh1241,Tokharian,Eurasia,,,tokh1241,,indo1319,indo1319,False,family,,,0,2,0,
-toto1251,Totonacan,North America,,,toto1251,,,,False,family,,,6,12,2,
-tsim1258,Tsimshian,North America,,,tsim1258,,,,False,family,,,1,3,4,
-tuca1253,Tucanoan,South America,,,tuca1253,,,,False,family,,,20,26,17,
-tupi1276,Tupi-Guarani,South America,,,tupi1276,,tupi1275,awet1245,False,family,,,26,48,42,
-turk1311,Turkic,Eurasia,,,turk1311,,,,False,family,,,28,44,178,
-tusc1256,Tuscarora-Nottoway,North America,,,tusc1256,,iroq1247,nort2947,False,family,,,0,2,0,
-tusc1257,Tuscarora,North America,43.1303,-79.4214,tusc1257,tus,iroq1247,tusc1256,False,language,,,0,0,0,CA US
-ugar1238,Ugaritic,Eurasia,35.6,35.78,ugar1238,uga,afro1255,ugar1239,False,language,,,0,0,0,IL
-ural1272,Uralic,Eurasia,,,ural1272,,,,False,family,,,30,48,115,
-urar1245,Urartian,Eurasia,35.0333,44.3833,urar1245,xur,hurr1239,hurr1239,False,language,,,0,0,0,IQ
-utoa1244,Uto-Aztecan,North America,,,utoa1244,,,,False,family,,,36,69,42,
-viet1250,Vietic,Eurasia,,,viet1250,,aust1305,aust1305,False,family,,,5,9,23,
-viet1252,Vietnamese,Eurasia,20.681188,105.774071,viet1252,vie,aust1305,viet1251,False,language,,,0,0,3,CN LA VN
-west2582,West Tariku,Papunesia,,,west2582,,lake1255,tari1255,False,family,,,1,3,5,
-west2818,Western Oceanic linkage,Papunesia,,,west2818,,aust1307,ocea1241,False,family,,,131,237,329,
-will1243,Willaumez linkage,Papunesia,,,will1243,,aust1307,meso1253,False,family,,,2,4,8,
-wint1259,Wintu,North America,39.7176,-122.445,wint1259,wit,wint1258,wint1258,False,language,,,0,0,2,US
-worr1236,Worrorran,Australia,,,worr1236,,,,False,family,,,3,10,11,
-yoku1255,Yokutsan,North America,,,yoku1255,,,,False,family,,,2,4,10,
-zapo1436,Zapotecan,North America,,,zapo1436,,otom1299,popo1292,False,family,,,27,65,21,
-zoqu1261,Zoque,North America,,,zoqu1261,,mixe1284,mixe1284,False,family,,,2,8,4,
+ID,Name,Latitude,Longitude,Glottocode,ISO639P3code,LanguageFamily,LanguageFamilyRoot,Macroarea,family_id,parent_id,bookkeeping,level,description,markup_description,child_family_count,child_language_count,child_dialect_count,country_ids
+afro1255,Afro-Asiatic,,,afro1255,,Afro-Asiatic,Afro-Asiatic,Africa,,,False,family,,,220,375,776,
+ainu1240,Hokkaido Ainu,43.633654,142.46167,ainu1240,ain,Ainu,Ainu,Eurasia,ainu1252,hokk1250,False,language,,,0,0,2,JP
+akka1240,Akkadian,33.1,44.1,akka1240,akk,Semitic,Afro-Asiatic,Eurasia,afro1255,east2678,False,language,,,0,0,0,IQ
+alba1267,Albanian,,,alba1267,sqi,Albanian,Indo-European,Eurasia,indo1319,indo1319,False,family,,,1,4,18,AL
+aleu1260,Aleut,52.1228,-174.29,aleu1260,ale,Aleut,Eskimo-Aleut,North America,eski1264,eski1264,False,language,,,0,0,2,RU US
+algo1256,Algonquian,,,algo1256,,Algic,Algonquian,North America,algi1248,algi1248,False,family,,,18,44,40,
+alor1249,Alor-Pantar,,,alor1249,,Alor-Pantar,Timor-Alor-Pantar,Papunesia,timo1261,timo1261,False,family,,,9,19,48,
+anat1257,Anatolian,,,anat1257,,Anatolian,Indo-European,Eurasia,indo1319,indo1319,False,family,,,5,10,0,
+anci1245,Ancient North Arabian,29.044,39.776,anci1245,xna,Semitic,Afro-Asiatic,Eurasia,afro1255,arab1394,False,language,,,0,0,6,IQ
+anim1240,Anim,,,anim1240,,Anim,Anim,Papunesia,,,False,family,,,9,17,18,
+aram1259,Aramaic,,,aram1259,,Semitic,Afro-Asiatic,Eurasia,afro1255,nort3165,False,family,,,13,22,108,
+araw1281,Arawakan,,,araw1281,,Arawakan,Arawakan,South America,,,False,family,,,47,78,31,
+asli1243,Aslian,,,asli1243,,Aslian,Austroasiatic,Eurasia,aust1305,aust1305,False,family,,,12,19,49,
+atha1247,Athabaskan,,,atha1247,,Athabaskan,Athabaskan-Eyak-Tlingit,North America,atha1245,atha1246,False,family,,,22,44,55,
+atti1240,Attic,,,atti1240,,Graeco-Phrygian,Indo-European,NA,indo1319,anci1242,False,dialect,,,0,0,0,
+aust1305,Austroasiatic,,,aust1305,,Austroasiatic,Austroasiatic,Eurasia,,,False,family,,,95,156,264,
+aust1307,Austronesian,,,aust1307,,Austronesian,Austronesian,Eurasia,,,False,family,,,739,1277,1880,
+aves1237,Avestan,31.541,53.633,aves1237,ave,Indo-European,Indo-European,Eurasia,indo1319,iran1269,False,language,,,0,0,0,IR
+ayma1253,Aymaran,,,ayma1253,,Aymaran,Aymaran,South America,,,False,family,,,2,4,0,
+balt1263,Balto-Slavic,,,balt1263,,Balto-Slavic,Indo-European,Eurasia,indo1319,indo1319,False,family,,,13,23,114,
+bara1376,Baraic,,,bara1376,,Baraic,Koiarian,Papunesia,koia1260,koia1260,False,family,,,1,4,19,
+barb1265,Barbacoan,,,barb1265,,Barbacoan,Barbacoan,South America,,,False,family,,,3,6,0,
+basq1248,Basque,43.2787,-1.31622,basq1248,eus,Basque,Basque,Eurasia,,,False,language,,,0,0,11,ES FR
+berb1260,Berber,,,berb1260,,Berber,Afro-Asiatic,Africa,afro1255,afro1255,False,family,,,11,27,50,
+bium1280,Biu-Mandara,,,bium1280,,Chadic,Afro-Asiatic,Africa,afro1255,chad1250,False,family,,,45,81,164,
+blan1242,Blang,22.0092,99.7405,blan1242,blr,Paulaungic,Austroasiatic,Eurasia,aust1305,bula1260,False,language,,,0,0,2,CN MM TH
+boaz1244,Boazi,,,boaz1244,,Marind-Boazi-Yaqai,Anim,Papunesia,anim1240,mari1437,False,family,,,0,2,9,
+bora1263,Bora,-2.000259,-72.257066,bora1263,boa,Boran,Boran,South America,bora1262,bora1262,False,language,,,0,0,2,BR CO PE
+bula1259,Bulaka River,,,bula1259,,Bulaka River,Bulaka River,Papunesia,,,False,family,,,0,2,0,
+bung1268,Bungku-Tolaki,,,bung1268,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,sout2928,False,family,,,5,15,28,
+cadd1255,Caddoan,,,cadd1255,,Caddoan,Caddoan,North America,,,False,family,,,3,5,4,
+celt1248,Celtic,,,celt1248,,Celtic,Indo-European,Eurasia,indo1319,indo1319,False,family,,,11,14,24,
+cent2243,Central Gur,,,cent2243,,Gur,Atlantic-Congo,Africa,atla1278,gura1261,False,family,,,74,98,171,
+chad1250,Chadic,,,chad1250,,Chadic,Afro-Asiatic,Africa,afro1255,afro1255,False,family,,,117,202,352,
+cher1273,Cherokee,35.4664,-83.163,cher1273,chr,Iroquoian,Iroquoian,North America,iroq1247,iroq1247,False,language,,,0,0,4,US
+chib1249,Chibchan,,,chib1249,,Chibchan,Chibchan,South America,,,False,family,,,18,27,13,
+chim1311,Chimakuan,47.632,-123.079,chim1311,,Chimakuan,Chimakuan,North America,,,False,family,,,0,2,2,US
+chin1484,Chinantecan,,,chin1484,,Chinantecan,Otomanguean,North America,otom1299,otop1241,False,family,,,9,14,2,
+chuk1271,Chukotko-Kamchatkan,,,chuk1271,,Chukchi-Kamchatkan,Chukchi-Kamchatkan,Eurasia,,,False,family,,,3,7,24,
+clas1249,Classical-Middle Armenian,38.592316,41.346422,clas1249,xcl,Armenian,Indo-European,Eurasia,indo1319,arme1241,False,language,,,0,0,2,AM
+coas1317,Coastal NEC Bantu,,,coas1317,,Bantoid,Atlantic-Congo,Africa,atla1278,nort3209,False,family,,,9,16,36,
+copt1239,Coptic,29.472,31.2053,copt1239,cop,Egyptian,Afro-Asiatic,Africa,afro1255,egyp1245,False,language,,,0,0,9,EG
+cost1250,Costanoan,,,cost1250,,Costanoan,Miwok-Costanoan,North America,miwo1274,miwo1274,False,family,,,1,4,8,
+cune1239,Cuneiform Luwian,38.0,36.0,cune1239,xlu,Anatolian,Indo-European,Eurasia,indo1319,luvi1235,False,language,,,0,0,0,TR
+cush1243,Cushitic,,,cush1243,,Cushitic,Afro-Asiatic,Africa,afro1255,afro1255,False,family,,,34,46,77,
+daic1237,Daic,,,daic1237,,Kam-Tai,Tai-Kadai,Eurasia,taik1256,daic1238,False,family,,,25,58,47,
+drav1251,Dravidian,,,drav1251,,Dravidian,Dravidian,Eurasia,,,False,family,,,46,80,135,
+east2418,Eastern Nilotic,,,east2418,,Nilotic,Nilotic,Africa,nilo1247,nilo1247,False,family,,,9,17,36,
+east2502,East Tariku,,,east2502,,Tariku,Lakes Plain,Papunesia,lake1255,tari1255,False,family,,,2,9,0,
+east2520,East Timor,,,east2520,,East Timor-Bunaq,Timor-Alor-Pantar,Papunesia,timo1261,east2519,False,family,,,1,3,2,
+edoi1239,Edoid,,,edoi1239,,Volta-Congo,Atlantic-Congo,Africa,atla1278,akpe1249,False,family,,,14,28,75,
+egyp1245,Egyptian,,,egyp1245,,Egyptian,Afro-Asiatic,Africa,afro1255,afro1255,False,family,,,0,2,9,
+egyp1246,Egyptian (Ancient),28.381735,30.834959,egyp1246,egy,Egyptian,Afro-Asiatic,Africa,afro1255,egyp1245,False,language,,,0,0,0,EG
+elam1244,Elamite,31.1833,48.2333,elam1244,elx,Elamian,Elamian,Eurasia,,,False,language,,,0,0,0,IR
+ersu1242,Ersuic,,,ersu1242,,Burmo-Quiangic,Sino-Tibetan,Eurasia,sino1245,naqi1236,False,family,,,0,3,3,
+eski1264,Eskimo-Aleut,,,eski1264,,Eskimo-Aleut,Eskimo-Aleut,North America,,,False,family,,,5,12,29,
+eski1265,Eskimo,,,eski1265,,Eskimo,Eskimo-Aleut,North America,eski1264,eski1264,False,family,,,4,11,27,
+fata1246,Fataluku-Oirata,,,fata1246,,East Timor,Timor-Alor-Pantar,Papunesia,timo1261,east2520,False,family,,,0,2,0,
+finn1317,Finnic,,,finn1317,,Finnic,Uralic,Eurasia,ural1272,ural1272,False,family,,,7,12,50,
+gbay1279,Gbaya-Manza-Ngbaka,,,gbay1279,,Gbaya-Manza-Ngbaka,Atlantic-Congo,Africa,atla1278,nort3149,False,family,,,11,14,23,
+germ1287,Germanic,,,germ1287,,Germanic,Indo-European,Eurasia,indo1319,indo1319,False,family,,,75,106,442,
+goro1272,Goroka,,,goro1272,,Kainantu-Goroka,Nuclear Trans New Guinea,Papunesia,nucl1709,kain1273,False,family,,,7,16,33,
+grea1276,Greater Quichean,,,grea1276,,Quichean-Mamean,Mayan,North America,maya1287,quic1274,False,family,,,4,10,0,
+grea1284,Greater Central Philippine,,,grea1284,,Malayo-Polynesian,Austronesian,Eurasia,aust1307,mala1545,False,family,,,60,95,107,
+gree1276,Greek,,,gree1276,,Graeco-Phrygian,Indo-European,Eurasia,indo1319,grae1234,False,family,,,5,11,50,
+guah1252,Guahiboan,,,guah1252,,Guahiboan,Guahiboan,South America,,,False,family,,,2,5,12,
+guai1249,Guaicuruan,,,guai1249,,Waikuruan (Guaicuruan),Waikuruan (Guaicuruan),South America,,,False,family,,,3,5,4,
+guan1278,Guang,,,guan1278,,Kwa Volta-Congo,Atlantic-Congo,Africa,atla1278,tano1248,False,family,,,13,19,15,
+gunw1250,Gunwinyguan,,,gunw1250,,Gunwinyguan,Gunwinyguan,Australia,,,False,family,,,9,12,8,
+hatt1246,Hattic,33.9833,40.3333,hatt1246,xht,Hattian,Hattian,Eurasia,,,False,language,,,0,0,0,IQ
+hitt1242,Hittite,40.0,35.0,hitt1242,hit,Anatolian,Indo-European,Eurasia,indo1319,anat1257,False,language,,,0,0,0,TR
+hlai1239,Hlai,18.8062,109.459,hlai1239,lic,Hlaic,Tai-Kadai,Eurasia,taik1256,nucl1241,False,language,,,0,0,4,CN
+huav1256,Huavean,,,huav1256,,Huavean,Huavean,North America,,,False,family,,,2,4,0,
+huon1245,Huon Gulf,,,huon1245,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,nort3206,False,family,,,15,32,18,
+hurr1240,Hurrian,40.7339,43.3154,hurr1240,xhu,Hurro-Urartian,Hurro-Urartian,Eurasia,hurr1239,hurr1239,False,language,,,0,0,0,TR
+ijoi1239,Ijoid,,,ijoi1239,,Ijo,Ijoid,Africa,,,False,family,,,6,10,29,
+indo1319,Indo-European,,,indo1319,,Indo-European,Indo-European,Eurasia,,,False,family,,,321,589,2013,
+indo1320,Indo-Iranian,,,indo1320,,Indo-Iranian,Indo-European,Eurasia,indo1319,indo1319,False,family,,,150,324,1022,
+inla1262,Inland Gulf of Papua,,,inla1262,,Inland Gulf of Papua,Anim,Papunesia,anim1240,anim1240,False,family,,,2,6,0,
+iran1269,Iranian,,,iran1269,,Iranian,Indo-European,Eurasia,indo1319,indo1320,False,family,,,51,96,387,
+iroq1247,Iroquoian,,,iroq1247,,Iroquoian,Iroquoian,North America,,,False,family,,,3,11,12,
+ital1284,Italic,,,ital1284,,Italic,Indo-European,Eurasia,indo1319,indo1319,False,family,,,49,86,273,
+iwai1246,Iwaidjan Proper,,,iwai1246,,Iwaidjan,Iwaidjan,Australia,,,False,family,,,1,4,3,
+jabu1249,Jabuti,,,jabu1249,,Jabuti,Nuclear Macro-Je,South America,nucl1710,nucl1710,False,family,,,0,2,0,
+jica1245,Jicaquean,,,jica1245,,Tol,Jicaquean,North America,,,False,family,,,0,2,0,
+kada1291,Kadaic,,,kada1291,,Kadaic,Tai-Kadai,Eurasia,taik1256,taik1256,False,family,,,11,15,11,
+kany1246,Kanyara,,,kany1246,,South-West Pama-Nyungan,Pama-Nyungan,Australia,pama1250,pilb1234,False,family,,,1,4,0,
+kare1337,Karenic,,,kare1337,,Karenic,Sino-Tibetan,Eurasia,sino1245,sino1245,False,family,,,12,20,16,
+kart1248,Kartvelian,,,kart1248,,Kartvelian,Kartvelian,Eurasia,,,False,family,,,3,6,26,
+kass1244,Kassite,,,kass1244,,Kassian,Kassian,Eurasia,uncl1493,uncl1493,False,language,,,0,0,0,IQ
+katu1271,Katuic,,,katu1271,,Katuic,Austroasiatic,Eurasia,aust1305,aust1305,False,family,,,10,15,23,
+kere1287,Keresan,,,kere1287,,Keresan,Keresan,North America,,,False,family,,,0,2,6,
+khan1273,Kazym-Berezover-Suryskarer Khanty,62.4308,66.1218,khan1273,kca,Ob-Ugric,Uralic,Eurasia,ural1272,nort3264,False,language,,,0,0,4,RU
+khan1279,Khantyic,,,khan1279,,Khantyic,Uralic,Eurasia,ural1272,ural1272,False,family,,,3,5,13,
+khoe1241,Khoe,,,khoe1241,,Khoe,Khoe-Kwadi,Africa,khoe1240,khoe1240,False,family,,,10,13,43,
+kiow1266,Kiowa,34.9403,-98.9042,kiow1266,kio,Kiowa-Tanoan,Kiowa-Tanoan,North America,kiow1265,kiow1265,False,language,,,0,0,0,US
+kira1253,Kiranti,,,kira1253,,Himalayish,Sino-Tibetan,Eurasia,sino1245,maha1306,False,family,,,16,31,70,
+koia1260,Koiarian,,,koia1260,,Koiarian,Koiarian,Papunesia,,,False,family,,,5,8,24,
+koia1261,Koiaric,,,koia1261,,Koiaric,Koiarian,Papunesia,koia1260,koia1260,False,family,,,2,4,5,
+koma1264,Koman,,,koma1264,,Koman,Koman,Africa,,,False,family,,,3,5,14,
+kuki1246,Kuki-Chin,,,kuki1246,,Kuki-Chin-Naga,Sino-Tibetan,Eurasia,sino1245,kuki1245,False,family,,,21,53,79,
+lake1255,Lakes Plain,,,lake1255,,Lakes Plain,Lakes Plain,Papunesia,,,False,family,,,10,20,10,
+lakk1238,Lakkia,24.1169,110.106,lakk1238,lbc,Lakkia-Biao,Tai-Kadai,Eurasia,taik1256,lakk1237,False,language,,,0,0,0,CN
+lamm1241,Western Pantar,-8.52787,124.057,lamm1241,lev,Alor-Pantar,Timor-Alor-Pantar,Papunesia,timo1261,alor1249,False,language,,,0,0,3,ID
+lati1261,Latin,41.9026,12.4502,lati1261,lat,Italic,Indo-European,Eurasia,indo1319,impe1234,False,language,,,0,0,3,VA
+lolo1265,Lolo-Burmese,,,lolo1265,,Lolo-Burmese,Sino-Tibetan,Eurasia,sino1245,burm1265,False,family,,,81,127,80,
+lowe1437,Lower Sepik-Ramu,,,lowe1437,,Lower Sepik,Lower Sepik-Ramu,Eurasia,,,False,family,,,18,30,10,
+maba1274,Maban,,,maba1274,,Maban,Maban,Africa,,,False,family,,,5,10,25,
+maid1262,Maiduan,,,maid1262,,Maiduan,Maiduan,North America,,,False,family,,,0,4,0,
+mala1545,Malayo-Polynesian,,,mala1545,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,aust1307,False,family,,,729,1257,1833,
+mand1435,Manding,,,mand1435,,Mande,Mande,Africa,mand1469,mand1434,False,family,,,7,19,41,
+mand1469,Mande,,,mand1469,,Mande,Mande,Africa,,,False,family,,,56,75,177,
+mang1426,Manguean,,,mang1426,,Tlapanec-Manguean,Otomanguean,North America,otom1299,tlap1252,False,family,,,0,2,6,
+mans1269,Mansic,,,mans1269,,Mansic,Uralic,Eurasia,ural1272,ural1272,False,family,,,1,3,4,
+mari1437,Marind-Boazi-Yaqai,,,mari1437,,Marind-Boazi-Yaqai,Anim,Papunesia,anim1240,anim1240,False,family,,,3,6,17,
+mark1257,Markham,,,mark1257,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,huon1245,False,family,,,6,15,2,
+mawe1252,Maweti-Guarani,,,mawe1252,,Maweti-Guarani,Tupian,South America,tupi1275,tupi1275,False,family,,,28,50,42,
+maya1287,Mayan,,,maya1287,,Mayan,Mayan,North America,,,False,family,,,24,33,9,
+micr1243,Micronesian,,,micr1243,,Micronesian,Austronesian,Papunesia,aust1307,ocea1241,False,family,,,16,21,21,
+midd1317,Middle English,51.65,-1.11,midd1317,enm,Germanic,Indo-European,Eurasia,indo1319,merc1242,False,language,,,0,0,0,GB
+miwo1274,Miwok-Costanoan,,,miwo1274,,Miwok-Costanoan,Miwok-Costanoan,North America,,,False,family,,,6,11,13,
+miwo1275,Miwokan,,,miwo1275,,Miwokan,Miwok-Costanoan,North America,miwo1274,miwo1274,False,family,,,3,7,5,
+mixe1284,Mixe-Zoque,,,mixe1284,,Zoque,Mixe-Zoque,North America,,,False,family,,,9,19,15,
+mixt1422,Mixtecan,,,mixt1422,,Mixtec,Otomanguean,North America,otom1299,amuz1253,False,family,,,16,57,35,
+moha1257,Mohawk-Oneida,,,moha1257,,Northern Iroquoian,Iroquoian,North America,iroq1247,nort2947,False,family,,,0,2,0,
+moha1258,Mohawk,43.72,-74.66836,moha1258,moh,Iroquoian,Iroquoian,North America,iroq1247,moha1257,False,language,,,0,0,0,CA US
+mong1329,Mongolic,,,mong1329,,Mongolic,Mongolic-Khitan,Eurasia,mong1349,mong1349,False,family,,,7,15,66,
+moni1258,Monic,,,moni1258,,Monic,Austroasiatic,Eurasia,aust1305,aust1305,False,family,,,0,3,3,
+mund1335,Mundaic,,,mund1335,,Mundaric,Austroasiatic,Eurasia,aust1305,aust1305,False,family,,,11,22,29,
+musk1252,Muskogean,,,musk1252,,Muskogean,Muskogean,North America,,,False,family,,,2,7,4,
+naka1262,Nakanai,-5.59931,150.888,naka1262,nak,Malayo-Polynesian,Austronesian,Papunesia,aust1307,naka1266,False,language,,,0,0,5,PG
+narr1281,Narrow Bantu,,,narr1281,,Bantoid,Atlantic-Congo,Africa,atla1278,sout3152,False,family,,,345,558,946,
+newc1243,New Caledonian,,,newc1243,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,sout3173,False,family,,,20,33,20,
+ngay1241,Ngayarda,,,ngay1241,,South-West Pama-Nyungan,Pama-Nyungan,Australia,pama1250,pilb1234,False,family,,,5,12,5,
+nico1262,Nicobaric,,,nico1262,,Nicobaric,Austroasiatic,Eurasia,aust1305,aust1305,False,family,,,3,5,11,
+nilo1247,Nilotic,,,nilo1247,,Nilotic,Nilotic,Africa,,,False,family,,,31,55,117,
+nort2923,North Halmahera,,,nort2923,,North Halmahera,North Halmahera,Papunesia,,,False,family,,,10,15,19,
+nort2947,Northern Iroquoian,,,nort2947,,Northern Iroquoian,Iroquoian,North America,iroq1247,iroq1247,False,family,,,2,10,8,
+nort3160,North Germanic,,,nort3160,,Germanic,Indo-European,Eurasia,indo1319,nort3152,False,family,,,8,15,71,
+nort3165,Northwest Semitic,,,nort3165,,Semitic,Afro-Asiatic,Eurasia,afro1255,cent2236,False,family,,,18,28,115,
+nubi1251,Nubian,,,nubi1251,,Nubian,Nubian,Africa,,,False,family,,,7,13,15,
+nucl1631,Nuclear Sentanic,,,nucl1631,,Nuclear Sentanic,Sentanic,Papunesia,sent1261,sent1261,False,family,,,1,3,6,
+nucl1634,Skou,-2.64378,140.902,nucl1634,skv,Skou-Serra-Piore,Sko,Papunesia,skoo1245,skou1239,False,language,,,0,0,0,ID
+nucl1643,Japanese,35.0,135.0,nucl1643,jpn,Japonic,Japonic,Eurasia,japo1237,japa1258,False,language,,,0,0,125,JP
+nucl1709,Nuclear Trans New Guinea,,,nucl1709,,Nuclear Trans New Guinea,Nuclear Trans New Guinea,Papunesia,,,False,family,,,174,316,283,
+nucl1710,Nuclear-Macro-Je,,,nucl1710,,Je,Nuclear Macro-Je,South America,,,False,family,,,15,30,16,
+nucl1713,Nuclear Tirio,,,nucl1713,,Tirio,Anim,Papunesia,anim1240,tiri1259,False,family,,,0,4,1,
+nuri1243,Nuristani,,,nuri1243,,Indo-Iranian,Indo-European,Eurasia,indo1319,indo1320,False,family,,,3,5,19,
+nyul1248,Nyulnyulan,,,nyul1248,,Nyulnyulan,Nyulnyulan,Australia,,,False,family,,,7,10,7,
+obol1242,Lower Cross,,,obol1242,,Volta-Congo,Atlantic-Congo,Africa,atla1278,delt1251,False,family,,,6,23,12,
+oldc1244,Old Chinese,36.12,114.32,oldc1244,och,Sinitic,Sino-Tibetan,Eurasia,sino1245,sini1245,False,language,,,0,0,2,CN
+oldg1234,Old Georgian,41.604313,43.06151,oldg1234,oge,Kartvelian,Kartvelian,Eurasia,kart1248,geor1253,False,language,,,0,0,0,GE
+oldp1255,Old Persian,,,oldp1255,ope,Iranian,Indo-European,Eurasia,book1242,book1242,True,language,,,0,0,0,
+oldt1249,Old Telugu,16.1026,80.7807,oldt1249,,Teluguic,Dravidian,Eurasia,drav1251,telu1265,False,language,,,0,0,0,IN
+onga1238,Ongamo-Maa,,,onga1238,,Nilotic,Nilotic,Africa,nilo1247,lotu1248,False,family,,,1,3,15,
+osca1245,Oscan,40.98,15.67,osca1245,osc,Indo-European,Indo-European,Eurasia,indo1319,sabe1249,False,language,,,0,0,5,IT
+otom1299,Otomanguean,,,otom1299,,Otomanguean,Otomanguean,North America,,,False,family,,,89,180,91,
+otom1300,Otomi,,,otom1300,,Otomian,Otomanguean,North America,otom1299,otom1297,False,family,,,3,7,0,
+pahl1241,Pahlavi,30.06,52.7,pahl1241,pal,Indo-European,Indo-European,Eurasia,indo1319,midd1352,False,language,,,0,0,0,IN
+pala1331,Palaic,41.334,33.499,pala1331,plq,Anatolian,Indo-European,Eurasia,indo1319,anat1257,False,language,,,0,0,0,TR
+pala1350,Palaihnihan,,,pala1350,,Palaihnihan,Palaihnihan,North America,,,False,family,,,0,2,0,
+pama1250,Pama-Nyungan,,,pama1250,,Pama-Nyungan,Pama-Nyungan,Australia,,,False,family,,,150,248,208,
+pama1251,Paman,,,pama1251,,Paman,Pama-Nyungan,Australia,pama1250,pama1250,False,family,,,35,62,20,
+pear1246,Pearic,,,pear1246,,Pearic,Austroasiatic,Eurasia,aust1305,aust1305,False,family,,,2,6,0,
+perm1256,Permian,,,perm1256,,Permian,Uralic,Eurasia,ural1272,ural1272,False,family,,,1,4,8,
+phoe1239,Phoenician,34.12,35.65,phoe1239,phn,Semitic,Afro-Asiatic,Eurasia,afro1255,phoe1238,False,language,,,0,0,0,TN
+phry1239,Phrygian,39.613,31.28,phry1239,xpg,Graeco-Phrygian,Indo-European,Eurasia,indo1319,grae1234,False,language,,,0,0,1,TR
+poly1242,Polynesian,,,poly1242,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,east2445,False,family,,,18,38,54,
+pomo1273,Pomoan,,,pomo1273,,Pomoan,Pomoan,North America,,,False,family,,,4,7,5,
+popo1293,Popolocan-Mazatecan,,,popo1293,,Popolocan-Mazatecan,Otomanguean,North America,otom1299,popo1292,False,family,,,11,17,17,
+poto1254,Potou-Tano,,,poto1254,,Kwa Volta-Congo,Atlantic-Congo,Africa,atla1278,nyoa1234,False,family,,,24,35,41,
+quec1387,Quechuan,,,quec1387,,Quechuan,Quechuan,South America,,,False,family,,,23,44,67,
+saam1281,Saami,,,saam1281,,Saamic,Uralic,Eurasia,ural1272,ural1272,False,family,,,6,11,4,
+sali1255,Salishan,,,sali1255,,Salishan,Salishan,North America,,,False,family,,,10,25,38,
+samo1298,Samoyedic,,,samo1298,,Samoyedic,Uralic,Eurasia,ural1272,ural1272,False,family,,,4,8,23,
+sang1335,Sangiric,,,sang1335,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,mala1545,False,family,,,3,5,16,
+sara1341,Sara-Bongo-Bagirmi,,,sara1341,,Sara-Bongo-Bagirmi,Central Sudanic,Africa,cent2225,cent2225,False,family,,,24,40,90,
+sayh1236,Sayhadic,,,sayh1236,,Semitic,Afro-Asiatic,Eurasia,afro1255,cent2236,False,family,,,0,5,0,
+semi1276,Semitic,,,semi1276,,Semitic,Afro-Asiatic,Eurasia,afro1255,afro1255,False,family,,,53,98,288,
+siou1252,Siouan,,,siou1252,,Siouan,Siouan,North America,,,False,family,,,11,18,12,
+slav1255,Slavic,,,slav1255,,Balto-Slavic,Indo-European,Eurasia,indo1319,balt1263,False,family,,,11,20,102,
+sout2830,Southern Nilotic,,,sout2830,,Nilotic,Nilotic,Africa,nilo1247,nilo1247,False,family,,,9,16,21,
+sout3054,South Cushitic,,,sout3054,,Cushitic,Afro-Asiatic,Africa,afro1255,cush1243,False,family,,,3,6,1,
+suga1248,Nizaa,7.12906,12.3779,suga1248,sgi,Volta-Congo,Atlantic-Congo,Africa,atla1278,niza1234,False,language,,,0,0,0,CM
+sume1241,Sumerian,31.3,45.6667,sume1241,sux,Sumerian,Sumerian,Eurasia,,,False,language,,,0,0,0,IQ
+taca1255,Tacanan,,,taca1255,,Tacanan,Pano-Tacanan,South America,pano1259,pano1259,False,family,,,4,7,0,
+taik1256,Tai-Kadai,,,taik1256,,Kam-Tai,Tai-Kadai,Eurasia,,,False,family,,,54,95,88,
+take1257,Takelma,42.423,-123.452,take1257,tkm,Takelman,Takelman,North America,,,False,language,,,0,0,0,US
+tara1324,Taranoan,,,tara1324,,Guianan,Cariban,North America,cari1283,guia1242,False,family,,,1,4,1,
+timo1261,Timor-Alor-Pantar,,,timo1261,,Timor-Alor-Pantar,Timor-Alor-Pantar,Papunesia,,,False,family,,,13,23,50,
+tokh1241,Tokharian,,,tokh1241,,Tokharian,Indo-European,Eurasia,indo1319,indo1319,False,family,,,0,2,0,
+toto1251,Totonacan,,,toto1251,,Totonacan,Totonacan,North America,,,False,family,,,6,12,2,
+tsim1258,Tsimshian,,,tsim1258,,Tsimshian,Tsimshian,North America,,,False,family,,,1,3,4,
+tuca1253,Tucanoan,,,tuca1253,,Tucanoan,Tucanoan,South America,,,False,family,,,20,26,17,
+tupi1276,Tupi-Guarani,,,tupi1276,,Tupi-Guarani,Tupian,South America,tupi1275,awet1245,False,family,,,26,48,42,
+turk1311,Turkic,,,turk1311,,Turkic,Turkic,Eurasia,,,False,family,,,28,44,178,
+tusc1256,Tuscarora-Nottoway,,,tusc1256,,Northern Iroquoian,Iroquoian,North America,iroq1247,nort2947,False,family,,,0,2,0,
+tusc1257,Tuscarora,43.1303,-79.4214,tusc1257,tus,Cherokee,Iroquoian,North America,iroq1247,tusc1256,False,language,,,0,0,0,CA US
+ugar1238,Ugaritic,35.6,35.78,ugar1238,uga,Semitic,Afro-Asiatic,Eurasia,afro1255,ugar1239,False,language,,,0,0,0,IL
+ural1272,Uralic,,,ural1272,,Uralic,Uralic,Eurasia,,,False,family,,,30,48,115,
+urar1245,Urartian,35.0333,44.3833,urar1245,xur,Hurro-Urartian,Hurro-Urartian,Eurasia,hurr1239,hurr1239,False,language,,,0,0,0,IQ
+utoa1244,Uto-Aztecan,,,utoa1244,,Uto-Aztecan,Uto-Aztecan,North America,,,False,family,,,36,69,42,
+viet1250,Vietic,,,viet1250,,Vietic,Austroasiatic,Eurasia,aust1305,aust1305,False,family,,,5,9,23,
+viet1252,Vietnamese,20.681188,105.774071,viet1252,vie,Vietic,Austroasiatic,Eurasia,aust1305,viet1251,False,language,,,0,0,3,CN LA VN
+west2582,West Tariku,,,west2582,,Tariku,Lakes Plain,Papunesia,lake1255,tari1255,False,family,,,1,3,5,
+west2818,Western Oceanic linkage,,,west2818,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,ocea1241,False,family,,,131,237,329,
+will1243,Willaumez linkage,,,will1243,,Malayo-Polynesian,Austronesian,Papunesia,aust1307,meso1253,False,family,,,2,4,8,
+wint1259,Wintu,39.7176,-122.445,wint1259,wit,Wintuan,Wintuan,North America,wint1258,wint1258,False,language,,,0,0,2,US
+worr1236,Worrorran,,,worr1236,,Worrorran,Worrorran,Australia,,,False,family,,,3,10,11,
+yoku1255,Yokutsan,,,yoku1255,,Yokutsan,Yokutsan,North America,,,False,family,,,2,4,10,
+zapo1436,Zapotecan,,,zapo1436,,Zapotecan,Otomanguean,North America,otom1299,popo1292,False,family,,,27,65,21,
+zoqu1261,Zoque,,,zoqu1261,,Zoque,Mixe-Zoque,North America,mixe1284,mixe1284,False,family,,,2,8,4,
