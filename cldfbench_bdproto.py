@@ -9,9 +9,14 @@ from cldfbench import CLDFSpec
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "bdproto"
-    valueTableProperties = ['SourceLanguageName', 'SourceLanguageFamily', 'PhonemeNotes', 'PhonemeNFD']
+    # valueTableProperties = ['SourceLanguageName', 'SourceLanguageFamily', 'PhonemeNotes', 'PhonemeNFD']
+    valueTableProperties = ['PhonemeNotes', 'PhonemeNFD']
+    # languageTableProperties = ['family_id', 'parent_id', 'bookkeeping', 'level', 'description', 'markup_description', 'child_family_count', 'child_language_count', 'child_dialect_count', 'country_ids']
     languageTableProperties = ['family_id', 'parent_id', 'bookkeeping', 'level', 'description', 'markup_description', 'child_family_count', 'child_language_count', 'child_dialect_count', 'country_ids']
-    inventoryTableProperties = ['SpecificDialect', 'LanguageName', 'LanguageFamily', 'LanguageFamilyRoot', 'Glottocode', 'Type', 'Macroarea', 'Dates', 'DatesSource', 'InventoryType', 'TimeDepth', 'TimeDepthYBP', 'Homeland', 'HomelandSource', 'BibtexKey', 'Source', 'Comments']
+    languageTableProperties_additional = ['LanguageFamily', 'LanguageFamilyRoot', 'Macroarea']
+    # inventoryTableProperties = ['SpecificDialect', 'LanguageName', 'LanguageFamily', 'LanguageFamilyRoot', 'Glottocode', 'Type', 'Macroarea', 'Dates', 'DatesSource', 'InventoryType', 'TimeDepth', 'TimeDepthYBP', 'Homeland', 'HomelandSource', 'BibtexKey', 'Source', 'Comments']
+    inventoryTableProperties = ['SourceLanguageName', 'SourceLanguageFamily', 'SpecificDialect', 'Glottocode', 'Type', 'Dates', 'DatesSource', 'InventoryType', 'TimeDepth', 'TimeDepthYBP', 'HomelandLatitude', 'HomelandLongitude', 'HomelandSource', 'HomelandComments', 'BibtexKey', 'Source', 'Comments']
+    
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(dir=self.cldf_dir, module='StructureDataset')
@@ -39,7 +44,10 @@ class Dataset(BaseDataset):
         ds.add_component('ParameterTable')
 
         # languages.csv
-        ds.add_component('LanguageTable', *self.languageTableProperties)
+        ds.add_component('LanguageTable')
+        ds.remove_columns('LanguageTable', 'Macroarea')
+        ds.add_columns('LanguageTable', *self.languageTableProperties_additional)
+        ds.add_columns('LanguageTable', *self.languageTableProperties)
 
         # contributions.csv
         ds.add_component('ContributionTable')
@@ -56,6 +64,7 @@ class Dataset(BaseDataset):
         counter = 1
         inventory_ids = []
         pids = []
+        language_map = {}
         for row in self.raw_dir.read_csv(
             self.raw_dir / 'bdproto' / 'bdproto.csv',
             dicts=True,
@@ -70,7 +79,6 @@ class Dataset(BaseDataset):
                 'Language_ID': row['Glottocode'] if row['Glottocode'] != 'NA' else '',
                 'Parameter_ID': pid,
                 'Value': row['Phoneme'],
-                'SourceLanguageName': row['SourceLanguageName'],
                 **{ k: row[k] for k in self.valueTableProperties}
             })
 
@@ -93,6 +101,9 @@ class Dataset(BaseDataset):
 
             counter += 1
 
+            if row['Glottocode'] != 'NA':
+                language_map[row['Glottocode']] = {k: row[k] for k in self.languageTableProperties_additional}
+
         # languages.csv
         language_ids = list(map(lambda row: row['Language_ID'], args.writer.objects['ValueTable']))
         language_ids = list(dict.fromkeys(language_ids))
@@ -108,7 +119,7 @@ class Dataset(BaseDataset):
                     'ISO639P3code': row['iso639P3code'],
                     'Latitude': row['latitude'],
                     'Longitude': row['longitude'],
-                    'Macroarea': list(filter(lambda x: x['Glottocode'] == row['id'], args.writer.objects['ContributionTable']))[0]['Macroarea'],
+                    **language_map[row['id']],
                     **{ k: row[k] for k in self.languageTableProperties}
                 })
         

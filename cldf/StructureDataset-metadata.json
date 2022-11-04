@@ -9,12 +9,13 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://github.com/bdproto/bdproto",
     "dc:title": "bdproto",
+    "dc:source": "sources.bib",
     "dcat:accessURL": "git@github.com:cldf-datasets/bdproto",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "git@github.com:cldf-datasets/bdproto",
             "rdf:type": "prov:Entity",
-            "dc:created": "d2dbc2f",
+            "dc:created": "de74cf6",
             "dc:title": "Repository"
         },
         {
@@ -26,14 +27,14 @@
         {
             "rdf:about": "https://github.com/bdproto/bdproto",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-15-gd201acb",
+            "dc:created": "v1.1-55-g5969782",
             "dc:title": "Repository"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.11"
+            "dc:description": "3.8.13"
         },
         {
             "dc:title": "python-packages",
@@ -42,13 +43,10 @@
     ],
     "rdf:ID": "bdproto",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 7880,
+            "dc:extent": 7779,
             "tableSchema": {
                 "columns": [
                     {
@@ -91,14 +89,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
                         "required": true,
                         "name": "Inventory_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "SourceLanguageName"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "SourceLanguageFamily"
                     },
                     {
                         "datatype": "string",
@@ -163,7 +153,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 681,
+            "dc:extent": 666,
             "tableSchema": {
                 "columns": [
                     {
@@ -196,7 +186,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 214,
+            "dc:extent": 212,
             "tableSchema": {
                 "columns": [
                     {
@@ -213,12 +203,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
                         "required": false,
                         "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "required": false,
-                        "name": "Macroarea"
                     },
                     {
                         "datatype": {
@@ -247,7 +231,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -258,6 +242,18 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LanguageFamily"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "LanguageFamilyRoot"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Macroarea"
                     },
                     {
                         "datatype": "string",
@@ -308,7 +304,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
-            "dc:extent": 272,
+            "dc:extent": 268,
             "tableSchema": {
                 "columns": [
                     {
@@ -322,19 +318,15 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "SourceLanguageName"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SourceLanguageFamily"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "SpecificDialect"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LanguageName"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LanguageFamily"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "LanguageFamilyRoot"
                     },
                     {
                         "datatype": "string",
@@ -343,10 +335,6 @@
                     {
                         "datatype": "string",
                         "name": "Type"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Macroarea"
                     },
                     {
                         "datatype": "string",
@@ -370,11 +358,19 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Homeland"
+                        "name": "HomelandLatitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "HomelandLongitude"
                     },
                     {
                         "datatype": "string",
                         "name": "HomelandSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "HomelandComments"
                     },
                     {
                         "datatype": "string",

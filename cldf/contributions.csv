@@ -1,273 +1,269 @@
-ID,SpecificDialect,LanguageName,LanguageFamily,LanguageFamilyRoot,Glottocode,Type,Macroarea,Dates,DatesSource,InventoryType,TimeDepth,TimeDepthYBP,Homeland,HomelandSource,BibtexKey,Source,Comments
-1061,NA,Proto-Afro-Asiatic,Afro-Asiatic,Afro-Asiatic,afro1255,Reconstructed,Africa,NA,NA,all,9th-8th millenia B.C. (diakonoff1988afrasian),10000,NA,NA,ehret1995reconstructing,BDPROTO,NA
-1097,NA,Proto-Algonquian,Algic,Algonquian,algo1256,Reconstructed,North America,NA,NA,all,Around 2500 to 3000 years ago (trigger1978handbook),3000,NA,NA,ehret1995reconstructing,BDPROTO,NA
-1053,NA,Proto-Altaic,Altaic,Altaic,NA,Reconstructed,Eurasia,NA,NA,all,6th millenium BC (kuzmina2007origin),7000,NA,NA,bomhard1990,BDPROTO,NA
-1018,NA,Proto-Anatolian,Anatolian,Indo-European,anat1257,Reconstructed,Eurasia,3.5-3K,NA,all,roughly 4000 BC,6000,NA,NA,melchert1994,BDPROTO,NA
-1116,NA,Proto-Arawakan,Arawakan,Arawakan,araw1281,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,matteson1972,BDPROTO,NA
-1110,NA,Proto-Athabaskan,Athabaskan,Athabaskan-Eyak-Tlingit,atha1247,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,krauss1964,BDPROTO,NA
-1104,NA,Attic Greek,Graeco-Phrygian,Indo-European,atti1240,Attested,Eurasia,NA,NA,all,400 BC,2400,NA,NA,teodorsson1974,BDPROTO,PDF not in quibs folder
-1059,NA,Proto-Australian,Australian,Australian,NA,Reconstructed,Australia,NA,NA,all,-40000 or less,40000,NA,NA,dixon1997,BDPROTO,NA
-1041,NA,Proto-Austronesian,Austronesian,Austronesian,aust1307,Reconstructed,Eurasia,NA,NA,all,at least 5000 years,5000,NA,NA,ross1995,BDPROTO,NA
-1094,NA,Proto-Bantu,Bantoid,Atlantic-Congo,narr1281,Reconstructed,Africa,NA,NA,all,NA,4000,NA,NA,meeussen1965,BDPROTO,split off from Niger-Congo languages 3000-4000 years ago (newman1997peopling)
-1038,NA,Proto-Central Gur,Gur,Atlantic-Congo,cent2243,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,naden1989,BDPROTO,NA
-1056,NA,Proto-Khoe,Khoe,Khoe-Kwadi,khoe1241,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,NA,BDPROTO,NA
-1083,NA,Proto-Chadic,Chadic,Afro-Asiatic,chad1250,Reconstructed,Africa,NA,NA,all,More than 7000 years (cruciani2010human),7000,NA,NA,newman1977,BDPROTO,NA
-1072,NA,Proto-Chiapanec,Tlapanec-Manguean,Otomanguean,mang1426,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,longacre1967,BDPROTO,NA
-1111,NA,Proto-Chibchan,Chibchan,Chibchan,chib1249,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,constenla1993,BDPROTO,NA
-1099,NA,Proto-Chimakuan,Chimakuan,Chimakuan,chim1311,Reconstructed,North America,NA,NA,all,Swadesh calculated a time depth  for the Wakashan-Chimakuan relationship of about 6500 years,6500,NA,NA,Jacobson1979,BDPROTO,NA
-1077,NA,Proto-Chinantecan,Chinantecan,Otomanguean,chin1484,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,longacre1967,BDPROTO,NA
-1113,NA,Proto-Chukotko-Kamchatkan,Chukchi-Kamchatkan,Chukchi-Kamchatkan,chuk1271,Reconstructed,Eurasia,NA,NA,all,NA,4000,NA,NA,fortescue1998,BDPROTO,wdzenczny2011case
-1081,NA,Proto-Berber,Berber,Afro-Asiatic,berb1260,Reconstructed,Africa,NA,NA,consonants only,NA,7000,NA,NA,basset1952,BDPROTO,louali2003protoberberes
-1045,NA,Proto-North Germanic,Germanic,Indo-European,nort3160,Reconstructed,Eurasia,NA,NA,all,6th century,1500,NA,NA,antonsen1967,BDPROTO,NA
-1106,NA,Coptic,Egyptian,Afro-Asiatic,copt1239,Attested,Africa,1800-400,NA,all,3-17th century,1800,NA,NA,atiya1991,BDPROTO,"Continued to be spoken prob until the 17th century CE, one dialect still in use as liturgical language"
-1062,NA,Proto-Cushitic,Cushitic,Afro-Asiatic,cush1243,Reconstructed,Africa,NA,NA,all,<8500 bp (fahmy2011windows),8500,NA,NA,ehret1995reconstructing,BDPROTO,NA
-1012,NA,Proto-Dravidian,Dravidian,Dravidian,drav1251,Reconstructed,Eurasia,NA,NA,all,as late as 4000 bce (steever1998dravidian),6000,NA,NA,krishnamurti1961,BDPROTO,NA
-1065,NA,Early Proto-Finnic,Finnic,Uralic,finn1317,Reconstructed,Eurasia,NA,NA,all,1500-1000 BC,3500,NA,NA,korhonen1988,BDPROTO,"Classification is considered problematic, needs further check"
-1031,NA,Proto-East Tariku,Tariku,Lakes Plain,east2502,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,clouse1996,BDPROTO,NA
-1060,NA,Proto-Edoid,Volta-Congo,Atlantic-Congo,edoi1239,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,elugbe1989,BDPROTO,NA
-1007,NA,Proto-Eskimo,Eskimo,Eskimo-Aleut,eski1265,Reconstructed,North America,NA,NA,all,-2000,2000,NA,NA,michael1994,BDPROTO,NA
-1112,NA,Proto-Eskimo-Aleut,Eskimo-Aleut,Eskimo-Aleut,eski1264,Reconstructed,North America,NA,NA,all,NA,4000,NA,NA,fortescue1998,BDPROTO,NA
-1090,NA,Proto-Finno-Permic,Uralic,Uralic,NA,Reconstructed,Eurasia,NA,NA,all,-3500/-3000; division into proto-finno-premic and proto-ugric: first half of neolithic (p.499) (sinor1988handbuch),5500,NA,NA,sammallahti1988,BDPROTO,NA
-1068,NA,Proto-Finno-Ugric,Uralic,Uralic,NA,Reconstructed,Eurasia,NA,NA,all,NA,5500,NA,NA,lako1968,BDPROTO,NA
-1093,NA,Proto-Gbaya,Gbaya-Manza-Ngbaka,Atlantic-Congo,gbay1279,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,NA,BDPROTO,NA
-1046,NA,Proto-Germanic,Germanic,Indo-European,germ1287,Reconstructed,Eurasia,NA,NA,vowels only,1st century (ringe2006proto),2500,NA,NA,antonsen1963,BDPROTO,NA
-1095,NA,Proto-Gorokan,Kainantu-Goroka,Nuclear Trans New Guinea,goro1272,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,foley1986,BDPROTO,NA
-1118,NA,Proto-Guahiboan,Guahiboan,Guahiboan,guah1252,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,matteson1972,BDPROTO,NA
-1103,NA,Proto-Guang,Kwa Volta-Congo,Atlantic-Congo,guan1278,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,snider1989,BDPROTO,NA
-1026,NA,Proto-Huon Gulf,Malayo-Polynesian,Austronesian,huon1245,Reconstructed,Papunesia,NA,NA,consonants only,NA,3500,NA,NA,holzknecht1989,BDPROTO,NA
-1015,NA,Proto-Ijo,Ijo,Ijoid,ijoi1239,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,williamson1979,BDPROTO,NA
-1051,NA,Proto-Indo-European,Indo-European,Indo-European,indo1319,Reconstructed,Eurasia,NA,NA,all,-7000,7000,NA,NA,bomhard1990,BDPROTO,NA
-1052,NA,Proto-Kartvelian,Kartvelian,Kartvelian,kart1248,Reconstructed,Eurasia,NA,NA,all,-5000 (gamkrelidze1995indo),5000,NA,NA,bomhard1990,BDPROTO,NA
-1058,NA,Proto-Katuic,Katuic,Austroasiatic,katu1271,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,diffloth1982,BDPROTO,NA
-1109,NA,Proto-Keresan,Keresan,Keresan,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,miller1963,BDPROTO,NA
-1039,NA,Proto-West Oceanic Linkage,Malayo-Polynesian,Austronesian,west2818,Reconstructed,Papunesia,NA,NA,all,NA,1000,NA,NA,johnston1982,BDPROTO,NA
-1028,NA,Proto-Lakes Plain,Lakes Plain,Lakes Plain,lake1255,Reconstructed,Papunesia,NA,NA,all,p.125: some 3000 years ago,3000,NA,NA,clouse1996,BDPROTO,NA
-1066,NA,Proto-Saami,Saamic,Uralic,saam1281,Reconstructed,Eurasia,NA,NA,vowels only,1000 BC,3000,NA,NA,korhonen1988,BDPROTO,NA
-1082,NA,Proto-Lolo-Burmese,Lolo-Burmese,Sino-Tibetan,lolo1265,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,matisoff1979,BDPROTO,NA
-1014,NA,Proto-Lower Cross,Volta-Congo,Atlantic-Congo,obol1242,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,connell1995,BDPROTO,NA
-1063,NA,Proto-Lower Sepik,Lower Sepik,Lower Sepik-Ramu,lowe1437,Reconstructed,Eurasia,NA,NA,all,-6000 (wikilowersepik),6000,NA,NA,foley1986,BDPROTO,NA
-1108,NA,Proto-Maiduan,Maiduan,Maiduan,maid1262,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,ultan1964,BDPROTO,NA
-1004,NA,Proto-Malayo-Polynesian,Malayo-Polynesian,Austronesian,mala1545,Reconstructed,Papunesia,NA,NA,all,-4000 BC,6000,NA,NA,hogan1993,BDPROTO,NA
-1037,NA,Proto-Mande,Mande,Mande,mand1469,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,dwyer1989,BDPROTO,NA
-1025,NA,Proto-Manding,Mande,Mande,mand1435,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,bimson1976,BDPROTO,NA
-1027,NA,Proto-Markham,Malayo-Polynesian,Austronesian,mark1257,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,holzknecht1989,BDPROTO,NA
-1057,NA,Proto-Mayan,Mayan,Mayan,maya1287,Reconstructed,North America,NA,NA,all,2200 BC,4200,NA,NA,campbell1990,BDPROTO,NA
-1107,NA,Proto-Micronesian,Micronesian,Austronesian,micr1243,Reconstructed,Papunesia,NA,NA,all,NA,NA,"Archeological evidence about the provenance of Micronesian speakers is vague, but it suggests they came from the south (i.e. From the Solomons, Vanuatu or the Fiji/west polynesian region. [...] It seems that most of Micronesia was settled about two thousand years ago.",NA,bender1985,BDPROTO,NA
-1049,NA,Middle English,Germanic,Indo-European,midd1317,Attested,Eurasia,1K-0.5K,NA,vowels only,-900 (baugh1993history),900,NA,NA,antonsen1961,BDPROTO,NA
-1070,NA,Proto-Mixtecan,Mixtec,Otomanguean,mixt1422,Reconstructed,North America,NA,NA,all,-1000,1000,NA,NA,longacre1967,BDPROTO,NA
-1020,NA,Proto-Mon,Monic,Austroasiatic,moni1258,Reconstructed,Eurasia,NA,NA,all,NA,1500,NA,NA,ferlus1983,BDPROTO,sidwell2014austroasiatic source for homeland or time depth?
-1021,NA,Proto-New Caledonian,Malayo-Polynesian,Austronesian,newc1243,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,ozanne1992,BDPROTO,NA
-1055,NA,Nostratic,Nostratic,Nostratic,NA,Reconstructed,NA,NA,NA,all,"spoken between 15,000 and 12,000 BCE (bomhard2008reconstructing)",14000,NA,NA,bomhard1990,BDPROTO,NA
-1089,NA,Proto-Ob-Ugric,Ob-Ugric,Uralic,khan1273,Reconstructed,Eurasia,NA,NA,all,500 AD (first half of the second millenium BCE),3500,NA,NA,sammallahti1988,BDPROTO,NA
-1006,NA,Old Chinese,Sinitic,Sino-Tibetan,oldc1244,Attested,Eurasia,NA,NA,all,800-500 BC,2500,NA,NA,hogan1993,BDPROTO,NA
-1011,NA,Old Telugu,Teluguic,Dravidian,oldt1249,Attested,Eurasia,3.5-3K,NA,all,split from proto-Dravidian between 1500-1000 BC (harvardprotodravidian),3000,NA,NA,krishnamurti1961,BDPROTO,NA
-1043,NA,Proto-Ongamo-Maa,Nilotic,Nilotic,onga1238,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,vossen1989,BDPROTO,NA
-1096,NA,Proto-Otomanguean,Otomanguean,Otomanguean,otom1299,Reconstructed,North America,NA,NA,all,splitting date of Proto-Otomanguean at ca. 4400 BCE,6400,Tehuacan valley,campbell1997american,rensch1966,BDPROTO,NA
-1073,NA,Proto-Otomi,Otomian,Otomanguean,otom1300,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,longacre1967,BDPROTO,NA
-1100,NA,Proto-Paman,Paman,Pama-Nyungan,pama1251,Reconstructed,Australia,NA,NA,all,NA,NA,NA,NA,sommer1976,BDPROTO,NA
-1022,NA,Proto-Greater Central Philippine,Malayo-Polynesian,Austronesian,grea1284,Reconstructed,Eurasia,NA,NA,all,NA,NA,"presence of Austronesian speakers in northeastern Indonesia for upwards of 4,000 years",NA,blust1991,BDPROTO,NA
-1017,NA,Proto-Blang,Paulaungic,Austroasiatic,blan1242,Reconstructed,Eurasia,NA,NA,all,NA,600,NA,NA,paulsen1989,BDPROTO,sidwell2014austroasiatic
-1002,NA,Proto-Polynesian,Malayo-Polynesian,Austronesian,poly1242,Reconstructed,Papunesia,NA,NA,all,some time around 1000 B.C. (tryon1995comparative),3000,One of the island groups east or north-east of Fiji,NA,walsh1966,BDPROTO,NA
-1071,NA,Proto-Popolocan,Popolocan-Mazatecan,Otomanguean,popo1293,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,longacre1967,BDPROTO,NA
-1000,NA,Pre-Basque,Basque,Basque,basq1248,Reconstructed,Eurasia,NA,NA,all,-2000,2000,NA,NA,trask2013,BDPROTO,NA
-1102,NA,Pre-Nizaa,Volta-Congo,Atlantic-Congo,suga1248,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,theil1991,BDPROTO,NA
-1035,NA,Proto-Ainu,Ainu,Ainu,ainu1240,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,vovin1993,BDPROTO,NA
-1101,NA,Proto-Japonic,Japonic,Japonic,nucl1643,Reconstructed,Eurasia,NA,NA,vowels only,400 B.C. (hudson1994japan),2400,Northern Kyushu,hudson1994japan,martin1987,BDPROTO,NA
-1013,NA,Proto-Karen,Karenic,Sino-Tibetan,kare1337,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,jones1961,BDPROTO,NA
-1003,NA,Proto-Lakkia,Lakkia-Biao,Tai-Kadai,lakk1238,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,theraphan1991,BDPROTO,NA
-1023,NA,Proto-Maban,Maban,Maban,maba1274,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,edgar1991,BDPROTO,NA
-1044,NA,Proto-Nubian,Nubian,Nubian,nubi1251,Reconstructed,Africa,NA,NA,all,first millenium BC (rilly2009cradle),3000,Kordofan,rilly2009cradle,gerst1989,BDPROTO,NA
-1115,NA,Proto-Pomoan,Pomoan,Pomoan,pomo1273,Reconstructed,North America,NA,NA,all,NA,5000,Clear Lake,golla2011california,mclendon1973,BDPROTO,golla2011california
-1105,NA,Proto-Vietnamese,Vietic,Austroasiatic,viet1252,Reconstructed,Eurasia,NA,NA,consonants only,seventh to ninth century AD (comrie2009world),1300,Red River now Northern Vietnam,chamberlain1998origin,ferlus1992,BDPROTO,NA
-1010,NA,Proto-Quichean,Quichean-Mamean,Mayan,grea1276,Reconstructed,North America,NA,NA,all,NA,2000,NA,NA,campbell1977,BDPROTO,wikiMayan
-1019,NA,Proto-Sabaki,Bantoid,Atlantic-Congo,coas1317,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,nurse1993,BDPROTO,NA
-1098,NA,Proto-Salishan,Salishan,Salishan,sali1255,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Thompson1979,BDPROTO,NA
-1085,NA,Proto-Samoyedic,Samoyedic,Uralic,samo1298,Reconstructed,Eurasia,NA,NA,all,-7000/-6000,6000,NA,NA,sammallahti1988,BDPROTO,NA
-1001,NA,Proto-Sangiric,Malayo-Polynesian,Austronesian,sang1335,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,sneddon1984,BDPROTO,NA
-1092,NA,Proto-Sara-Bongo-Bagirmi,Sara-Bongo-Bagirmi,Central Sudanic,sara1341,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,"P. Boyeldieu, unpublished reconstruction",BDPROTO,NA
-1080,NA,Proto-Semitic,Semitic,Afro-Asiatic,semi1276,Reconstructed,Eurasia,NA,NA,all,NA,5750,NA,NA,moscati1969,BDPROTO,kitchen2009bayesian
-1054,NA,Sumerian,Sumerian,Sumerian,sume1241,Attested,Eurasia,NA,NA,all,NA,NA,NA,NA,bomhard1990,BDPROTO,NA
-1067,NA,Proto-Tai,Kam-Tai,Tai-Kadai,taik1256,Reconstructed,Eurasia,NA,NA,all,NA,3000,NA,NA,li1977,BDPROTO,enfield2013linguistic
-1064,NA,Proto-Tacanan,Tacanan,Pano-Tacanan,taca1255,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,girard1971,BDPROTO,NA
-1009,NA,Proto-Potou-Tano,Kwa Volta-Congo,Atlantic-Congo,poto1254,Reconstructed,Africa,NA,NA,vowels only,NA,NA,NA,NA,stewart1983,BDPROTO,NA
-1079,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,Reconstructed,North America,NA,NA,all,NA,7000,NA,NA,longacre1967,BDPROTO,brown2011totozoquean
-1117,NA,Proto-Tucanoan,Tucanoan,Tucanoan,tuca1253,Reconstructed,South America,NA,NA,all,NA,NA,West of the Vaupés region,aikhenvald2014global,matteson1972,BDPROTO,NA
-1119,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,Reconstructed,South America,NA,NA,all,NA,4500,NA,NA,jensen1998,BDPROTO,balee2000antiquity
-1084,NA,Proto-Uralic,Uralic,Uralic,ural1272,Reconstructed,Eurasia,NA,NA,all,mesolithic age,8000,NA,NA,sammallahti1988,BDPROTO,NA
-1114,NA,Uralo-Siberian,Uralo-Siberian,Uralo-Siberian,NA,Reconstructed,Eurasia,NA,NA,all,between 8000 and 6000 BC,10000,South Central Siberia,fortescue1998,fortescue1998,BDPROTO,NA
-1069,NA,Proto-Uto-Aztecan,Uto-Aztecan,Uto-Aztecan,utoa1244,Reconstructed,North America,NA,NA,all,up to 5000 years,7000,"Border region between the USA and Mexico, namely the upland regions of Arizona and New Mexico and the adjacent areas of the Mexican states of Sonora and Chihuaua, roughly corresponding to the Sonoran Desert and the western part of the Chihuahuan Desert",NA,langaker1970,BDPROTO,NA
-1032,NA,Proto-West Tariku,Tariku,Lakes Plain,west2582,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,clouse1996,BDPROTO,NA
-1008,NA,Proto-Yokuts,Yokutsan,Yokutsan,yoku1255,Reconstructed,North America,NA,NA,all,jones2007california,3000,NA,NA,golla1964,BDPROTO,NA
-1076,NA,Proto-Zapotec,Zapotecan,Otomanguean,zapo1436,Reconstructed,North America,NA,NA,all,evans2013archaeology,2400,NA,NA,longacre1967,BDPROTO,"Looks like this is Zapotec, but may be Zapotecan (i.e., includes Chatino)"
-1078,NA,Proto-Zoque,Zoque,Mixe-Zoque,zoqu1261,Reconstructed,North America,NA,NA,all,NA,1500,NA,NA,longacre1967,BDPROTO,NA
-3,NA,Proto-Balto-Slavic,Balto-Slavic,Indo-European,balt1263,Reconstructed,Eurasia,NA,NA,all,between 1500 and 1000 B.C. (novotna2011glottochronology),3000,NA,NA,kortlandt1979,UZ,NA
-4,NA,Proto-Slavic,Balto-Slavic,Indo-European,slav1255,Reconstructed,Eurasia,NA,NA,all,around 500 AD split of daughter languages (andersen2003language),1500,Eastern Poland and Wester Ukraine,andersen2003language,schenker1993proto,UZ,NA
-5,NA,Proto-Celtic,Celtic,Indo-European,celt1248,Reconstructed,Eurasia,NA,NA,all,NA,3000,NA,NA,schrijver1995studies,UZ,gosden2014celtic
-6,NA,Proto-Tai,Kam-Tai,Tai-Kadai,daic1237,Reconstructed,Eurasia,NA,NA,all,between one and three thousand years ago (enfield2013linguistic),1000,NA,NA,pittayaporn2009proto,UZ,NA
-7,NA,Proto-Turkic,Turkic,Turkic,turk1311,Reconstructed,Eurasia,NA,NA,all,NA,2200,NA,NA,ronatas1998reconstruction,UZ,hruschka2015detecting
-8,NA,Proto-Mongolic,Mongolic,Mongolic-Khitan,mong1329,Reconstructed,Eurasia,NA,NA,all,less than 1000 years (brown2010concise),1000,NA,NA,jahunen2003,UZ,NA
-9,NA,Proto-Kadaic,Kadaic,Tai-Kadai,kada1291,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,ostapirat2000proto-kra,UZ,NA
-10,NA,Proto-Hlai,Hlaic,Tai-Kadai,hlai1239,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,norquest2007phonological,UZ,NA
-11,NA,Proto-Tibeto-Burman,Tibeto-Burman,Sino-Tibetan,NA,Reconstructed,Eurasia,NA,NA,all,NA,6000,"Somewhere on the Himalayan plateau, where the great rivers of East and Southeast Asia (including the Yellow, Yangtze, Mekong, Brahmaputra, Salween, and Irrawaddy) have their source",stedt2015sinotibetan,matisoff2003handbook,UZ,stedt2015sinotibetan
-12,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,Reconstructed,Eurasia,NA,NA,all,2000 BCE (sidwell-family),4000,NA,NA,shorto2006mon,UZ,NA
-13,NA,Proto-Iroquoian,Iroquoian,Iroquoian,iroq1247,Reconstructed,North America,NA,NA,all,"3,500 to 3,800 for the split of South and North Iroquoian (lounsbury1961iroquois)",5500,NA,NA,Julian2010,UZ,NA
-15,NA,Proto-Indo-European,Indo-European,Indo-European,indo1319,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Fortson2011-indo-european,UZ,NA
-2000,NA,Akkadian,Semitic,Afro-Asiatic,akka1240,Attested,Eurasia,2350-0 BCE,Hasselbach-Andee2019,all,2800-700 BC,2700,Mesopotamia,NA,"buccellatti1997phon,huehnergard1997phon",ANE,NA
-2001,NA,Hittite,Anatolian,Indo-European,hitt1242,Attested,Eurasia,3600-3300,NA,all,1600-1300 BC,3300,Anatolia,NA,hoffner-melchert2008phon,ANE,NA
-2002,NA,Ancient North Arabian,Semitic,Afro-Asiatic,anci1245,Attested,Eurasia,Problematic,AlJallad2018,all,1200 bc-700 AD,2700,Southern Syria to Yemen,NA,"goldammer2012phon_arabic,MacDonald2008phon",ANE,Not a language
-2003,NA,Old Aramaic,Semitic,Afro-Asiatic,aram1259,Attested,Eurasia,3100-1800,NA,all,NA,NA,NA,NA,goldammer2012phon_arc,ANE,"Aramaic is akin to ""Romance"" in its diversity"
-2004,NA,Elamite,Elamian,Elamian,elam1244,Attested,Eurasia,4600-2300,NA,all,2800-500 BC,2500,Elam (ancient lands in the west and southwest of today’s Iran),NA,"goldammer2012phon_elx,Khaikjan1998phon",ANE,NA
-2005,Gathaic Avestan/Old Avestan,Avestan,Iranian,Indo-European,aves1237,Attested,Eurasia,4000-3000,NA,all,"uncertain, written from the 3rd century, but the language was extinct by then. Maybe with the start of the Zoroastrism around 600bc or same time as early Vedic around 1500 BCE",NA,Unknown,NA,skaervo2006phon,ANE,The data refers to Old Avestan
-2006,Gathaic Avestan/Old Avestan,Classical Armenian,Armenian,Indo-European,clas1249,Attested,Eurasia,1500-100,NA,all,400 AD,1600,Armenian Highlands,NA,clackson2008phon,ANE,"First documented around beginning of 5th century CE, used as literary language till the 19th century"
-2007,Gathaic Avestan/Old Avestan,Middle Egyptian,Egyptian,Afro-Asiatic,egyp1246,Attested,Africa,4-3.5K,NA,all,2000-1350 BC,3350,Ancient Egypt,NA,allen2000phon,ANE,NA
-2008,Gathaic Avestan/Old Avestan,Hattic,Hattian,Hattian,hatt1246,Attested,Eurasia,4000-3000,NA,all,3000-2000 BC,4000,Central Anatolia and northwards to the Black sea,NA,"kammenhuber1969phon,klinger2005phon",ANE,"No connected texts, phonology dubious"
-2009,Gathaic Avestan/Old Avestan,Hurrian,Hurro-Urartian,Hurro-Urartian,hurr1240,Attested,Eurasia,4300-3000,NA,all,2300-1000 BC,3000,Northern Mesopotamia,NA,"wegner2000phon,wilhelm2008phon_xhu",ANE,NA
-2010,Gathaic Avestan/Old Avestan,Kassite,Kassian,Kassian,kass1244,Attested,Eurasia,3800-2400,NA,all,1800-400 BC,2400,Southern Mesopotamia,NA,goldammer2012phon_kass1244,ANE,NA
-2011,Gathaic Avestan/Old Avestan,Palaic,Anatolian,Indo-European,pala1331,Attested,Eurasia,4-3.5K,NA,all,1600-1300 BC,3300,Central northern Anatolia,NA,"melchert2008phon,carruba1970phon",ANE,NA
-2012,Gathaic Avestan/Old Avestan,Old Persian,Iranian,Indo-European,oldp1255,Attested,Eurasia,3-2.5K,NA,all,600-300 BC,2300,"Inscriptions found in modern Iran, Armenia, Bahrain, Romania (Gherla), Egypt, Turky, Iraq",NA,skjaervo2009phon,ANE,NA
-2013,Paleo-Phrygian,Paleo-Phrygian,Graeco-Phrygian,Indo-European,phry1239,Attested,Eurasia,3-2.5K,NA,all,800 BC-300 AD; texts found from 800-500 (Paleo-Phrygian) BC and 100 AD - 300 (Neo-Phrygian),1700,Central Asia Minor,NA,brixhe2008phon,ANE,NA
-2014,Neo-Phrygian,Neo-Phrygian,Graeco-Phrygian,Indo-European,phry1239,Attested,Eurasia,3-2.5K,NA,all,NA,NA,NA,NA,brixhe2008phon,ANE,NA
-2015,Neo-Phrygian,Ancient South Arabian,Semitic,Afro-Asiatic,sayh1236,Attested,Eurasia,3000-1500,Multhoff2019,all,NA,NA,NA,NA,nebesstein2008phon,ANE,Not a language
-2016,Neo-Phrygian,Sumerian,Sumerian,Sumerian,sume1241,Attested,Eurasia,NA,NA,all,3300-2000 BC,4000,NA,NA,"edzard2003phon,michalowski2008phon",ANE,NA
-2017,Neo-Phrygian,Ugaritic,Semitic,Afro-Asiatic,ugar1238,Attested,Eurasia,NA,NA,all,NA,NA,NA,NA,tropper2000phon,ANE,NA
-2018,Neo-Phrygian,Urartian,Hurro-Urartian,Hurro-Urartian,urar1245,Attested,Eurasia,NA,NA,all,NA,NA,NA,NA,"wilhelm2008phon_xur,hazenbos2005phon",ANE,NA
-2019,Cunieform Luwian,Luwian,Anatolian,Indo-European,cune1239,Attested,Eurasia,4-3.5K,NA,all,1400-1200,3200,Asia Minor,NA,melchert2008phon_xlu,ANE,NA
-2020,Cunieform Luwian,Phoenician,Semitic,Afro-Asiatic,phoe1239,Attested,Eurasia,3-2.5K,NA,all,1200-600 BC,2600,NA,NA,hackett2008phon,ANE,NA
-16,NA,Proto-Alor-Pantar,Alor-Pantar,Timor-Alor-Pantar,alor1249,Reconstructed,Papunesia,NA,NA,consonants only,3000,3000,Pantar Strait,NA,klamer2014,HUJI,NA
-17,NA,Proto-Western Pantar,Alor-Pantar,Timor-Alor-Pantar,lamm1241,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,klamer2014,HUJI,NA
-18,NA,Proto-Timor-Alor-Pantar,Timor-Alor-Pantar,Timor-Alor-Pantar,timo1261,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,klamer2014,HUJI,NA
-19,NA,Proto-North Halmahera,North Halmahera,North Halmahera,nort2923,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,holtonrobinson2014,HUJI,"check wada1980, holtonrobinson2014 in klamer2014"
-20,NA,Proto-Trans-New Guinea,Nuclear Trans New Guinea,Nuclear Trans New Guinea,nucl1709,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,holtonrobinson2014,HUJI,"After Pawley 1995, 2001 -- check"
-21,NA,Proto-Algonquian,Algic,Algonquian,algo1256,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Goddard1979,HUJI,NA
-22,NA,Proto-Caddoan,Caddoan,Caddoan,cadd1255,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Chafe1979,HUJI,NA
-23,NA,Proto-East Timor,East Timor-Bunaq,Timor-Alor-Pantar,east2520,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,Mandalaetal2011,HUJI,NA
-24,NA,Proto-Oirata-Fataluku,East Timor,Timor-Alor-Pantar,fata1246,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,Mandalaetal2011,HUJI,NA
-25,NA,Proto-Quechuan,Quechuan,Quechuan,quec1387,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,Cerron2003,HUJI,NA
-26,NA,Proto-Aymaran,Aymaran,Aymaran,ayma1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,Cerron2000,HUJI,NA
-27,NA,Proto-Barbacoan,Barbacoan,Barbacoan,barb1265,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,curnow1998,HUJI,NA
-28,NA,Proto-Austroasiatic,Austroasiatic,Austroasiatic,aust1305,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Austroasiatic_SidwellRau2015,HUJI,NA
-29,NA,Proto-Aslian,Aslian,Austroasiatic,asli1243,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Austroasiatic_SidwellRau2015,HUJI,NA
-30,NA,Proto-Saami,Saamic,Uralic,saam1281,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,HUJI,"needs to be checked, think it must be Korhonen1988 but what's given there is an earlier stage."
-31,NA,Proto-Celtic,Celtic,Indo-European,celt1248,Reconstructed,Eurasia,NA,NA,all,NA,NA,Central Europe,NA,NA,HUJI,NA
-32,NA,Proto-Balto-Slavic,Balto-Slavic,Indo-European,balt1263,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,kuemmel2007,HUJI,NA
-33,NA,Proto-Indo-Iranian,Indo-Iranian,Indo-European,indo1320,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Kümmel2007. Mayrhofer1989. Kobayashi2004. Lipp2009,HUJI,NA
-34,NA,Proto-Slavic,Balto-Slavic,Indo-European,slav1255,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Hock2003a,HUJI,NA
-35,NA,Proto-Italic,Italic,Indo-European,ital1284,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Kümmel2007,HUJI,NA
-36,NA,Proto-Baltic,Balto-Slavic,Indo-European,balt1263,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,kuemmel2007,HUJI,NA
-37,NA,Proto-Anatolian,Anatolian,Indo-European,anat1257,Reconstructed,Eurasia,3.5-3K,NA,all,NA,NA,NA,NA,Kümmel2007. Melchert1994a,HUJI,NA
-38,NA,Proto-Tokharian,Tokharian,Indo-European,tokh1241,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Kümmel2007. Adams1988. Ringe1996. Kim1999,HUJI,NA
-39,NA,Proto-Nuristani,Indo-Iranian,Indo-European,nuri1243,Reconstructed,Eurasia,NA,NA,consonants only,NA,NA,NA,NA,Kümmel2007. Nelson1991,HUJI,NA
-40,NA,Proto-Iranian,Iranian,Indo-European,iran1269,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Kümmel2007. Mayrhofer1989. Lipp2009,HUJI,NA
-41,NA,Proto-Albanian,Albanian,Indo-European,alba1267,Reconstructed,Eurasia,NA,NA,consonants only,NA,NA,NA,NA,Kümmel2007,HUJI,NA
-42,NA,Proto-Greek,Graeco-Phrygian,Indo-European,gree1276,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Kümmel2007. Bartoněk 1961,HUJI,NA
-43,NA,Proto-Germanic,Germanic,Indo-European,germ1287,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,HUJI,NA
-44,NA,Proto-Uralic,Uralic,Uralic,ural1272,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sammallahti1988,HUJI,NA
-46,NA,Proto-Ersuic,Burmo-Quiangic,Sino-Tibetan,ersu1242,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Yu2012,HUJI,NA
-47,NA,Proto-Kiranti,Himalayish,Sino-Tibetan,kira1253,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Jacques2017,HUJI,NA
-48,NA,Proto-Central Chadic,Chadic,Afro-Asiatic,bium1280,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,Gravina2016,HUJI,"Central Chadic is called Biu-Mandera by Glottolog, but CC seems to be an ok name."
-49,NA,Proto-Nilotic,Nilotic,Nilotic,nilo1247,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,Dimmendaal1988,HUJI,NA
-50,NA,Proto-Eastern Nilotic,Nilotic,Nilotic,east2418,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,"Dimmendaal1988, Vossen 1982",HUJI,NA
-51,NA,Proto-Southern Nilotic,Nilotic,Nilotic,sout2830,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,"Dimmendaal1988, Rottland 1982",HUJI,NA
-52,NA,Proto-Kuki-Chin,Kuki-Chin-Naga,Sino-Tibetan,kuki1246,Reconstructed,Eurasia,NA,NA,consonants only,NA,NA,NA,NA,Hill2014,HUJI,NA
-53,NA,Proto-Eskimo,Eskimo,Eskimo-Aleut,eski1265,Reconstructed,North America,NA,NA,all,NA,4000,Alaska,NA,Berge2018,HUJI,NA
-54,NA,Proto-Unangam Tunuu (Aleut),Aleut,Eskimo-Aleut,aleu1260,Reconstructed,North America,NA,NA,all,NA,4000,Alaska,NA,Berge2018,HUJI,NA
-55,NA,Proto-Tupi-Guarani,Tupi-Guarani,Tupian,tupi1276,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA
-56,NA,Proto-Maweti-Guarani,Maweti-Guarani,Tupian,mawe1252,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,MeiraDrude2015,HUJI,NA
-57,NA,Proto-Jabuti,Jabuti,Nuclear Macro-Je,jabu1249,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA
-58,NA,Proto-Je,Je,Nuclear Macro-Je,nucl1710,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,RibeiroVandervoort2010,HUJI,NA
-59,NA,Proto-Maiduan,Maiduan,Maiduan,maid1262,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,"Ultan1964, Campbell1997:128",HUJI,NA
-60,NA,Proto-Mamore-Guapore,Arawakan,Arawakan,NA,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,Jolkesky2016,HUJI,NA
-61,NA,Proto-Taranoan,Guianan,Cariban,tara1324,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Meira1998,HUJI,NA
-62,NA,Proto-Totonacan,Totonacan,Totonacan,toto1251,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,brown2011totozoquean.pdf,HUJI,NA
-63,NA,Proto-Mixe-Zoquean,Zoque,Mixe-Zoque,mixe1284,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,brown2011totozoquean.pdf,HUJI,NA
-64,NA,Proto-Totozoquean,Totozoquean,Totozoquean,NA,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,brown2011totozoquean.pdf,HUJI,NA
-65,NA,Proto-Tol (Jicaque),Tol,Jicaquean,jica1245,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,CampbellOltrogge1980,HUJI,NA
-66,NA,Proto-Tucanoan,Tucanoan,Tucanoan,tuca1253,Reconstructed,South America,NA,NA,consonants only,NA,NA,NA,NA,Chacon2014,HUJI,NA
-67,NA,Proto-Tsimshian,Tsimshian,Tsimshian,tsim1258,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Tarpent1997,HUJI,NA
-68,NA,Proto-Kadaic,Kadaic,Tai-Kadai,kada1291,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Ostapirat2000,HUJI,NA
-69,NA,Proto-Tai,Kam-Tai,Tai-Kadai,daic1237,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Pittayaporn2009,HUJI,NA
-70,NA,Proto-Hlai,Hlaic,Tai-Kadai,hlai1239,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,Ostapirat2004,HUJI,NA
-71,NA,Proto-Berber,Berber,Afro-Asiatic,berb1260,Reconstructed,Africa,NA,NA,consonants only,NA,NA,NA,NA,KoosmannPC2018,HUJI,NA
-72,NA,Proto-Skou,Skou-Serra-Piore,Sko,nucl1634,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,Donohue2002,HUJI,NA
-73,NA,Common Slavic,Balto-Slavic,Indo-European,slav1255,Reconstructed,Eurasia,1700-1000,NA,all,NA,NA,NA,NA,Hock2003a,HUJI,NA
-75,NA,Proto-Cherokee,Iroquoian,Iroquoian,cher1273,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,Julian2010,HUJI,GC based on Glottocode
-76,NA,Proto-Northern Iroquoian,Northern Iroquoian,Iroquoian,nort2947,Reconstructed,North America,5-4.5K,NA,all,NA,NA,NA,NA,Julian2010,HUJI,NA
-77,NA,Proto-Tuscarora-Nottoway,Northern Iroquoian,Iroquoian,tusc1256,Reconstructed,North America,2.5-2K,NA,all,NA,NA,NA,NA,Julian2010,HUJI,NA
-78,NA,Proto-Tuscarora,Cherokee,Iroquoian,tusc1257,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Julian2010,HUJI,NA
-79,NA,Proto-Mohawk-Oneida,Northern Iroquoian,Iroquoian,moha1257,Reconstructed,North America,1K-0.5K,NA,all,NA,NA,NA,NA,Julian2010,HUJI,NA
-80,NA,Proto-Mohawk,Iroquoian,Iroquoian,moha1258,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Julian2010,HUJI,NA
-82,NA,Proto-Finno-Saamic,Uralic,Uralic,NA,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sammallahti1988,HUJI,NA
-83,NA,Proto-Siouan,Siouan,Siouan,siou1252,Reconstructed,North America,NA,NA,all,NA,4000,NA,NA,RankinEtAl2015,HUJI,NA
-84,NA,Proto-Finno-Permic,Uralic,Uralic,NA,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sammallahti1988,HUJI,NA
-85,NA,Proto-Kiowa-Tanoan,Kiowa-Tanoan,Kiowa-Tanoan,kiow1266,Reconstructed,North America,NA,NA,consonants only,NA,NA,NA,NA,"Hale1967, Sutton2014",HUJI,NA
-86,NA,Proto-Pama-Nyungan,Pama-Nyungan,Pama-Nyungan,pama1250,Reconstructed,Australia,NA,NA,consonants only,NA,NA,NA,NA,Alpher2004,HUJI,NA
-87,NA,Proto-Baltic-Finnic,Finnic,Uralic,NA,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,kuemmel2007,HUJI,NA
-90,NA,Proto-Waikuruan (Guaicuruan),Waikuruan (Guaicuruan),Waikuruan (Guaicuruan),guai1249,Reconstructed,South America,NA,NA,all,NA,NA,NA,NA,sandalo1995,HUJI,NA
-91,NA,Proto-Salishan,Salishan,Salishan,sali1255,Reconstructed,North America,NA,NA,consonants only,NA,NA,NA,NA,Campbell1997:116,HUJI,Based on Thomspon1979
-92,NA,Proto-Khoe,Khoe,Khoe-Kwadi,khoe1241,Reconstructed,Africa,NA,NA,consonants only,2000,2000,northeast Kalahari basin,northeast Kalahari basin,"Vossen1997,GueldemannElderkinYEAR",HUJI,NA
-94,NA,Proto-Permian,Permian,Uralic,perm1256,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sammallahti1988,HUJI,NA
-95,NA,Proto-Paman,Paman,Pama-Nyungan,pama1251,Reconstructed,Australia,NA,NA,all,NA,NA,NA,NA,hale1966,HUJI,NA
-98,NA,Proto-Khanty,Khantyic,Uralic,khan1279,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,HUJI,NA
-99,NA,Proto-Mansi,Mansic,Uralic,mans1269,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sammallahti1988,HUJI,NA
-100,NA,Proto-Samoyedic,Samoyedic,Uralic,samo1298,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sammallahti1988,HUJI,As reported and adapted in Kuemmel
-101,NA,Proto-Semitic,Semitic,Afro-Asiatic,semi1276,Reconstructed,Eurasia,NA,NA,consonants only,NA,NA,NA,NA,NA,HUJI,"not sure of the source, have to check"
-102,NA,Proto-Eskimo-Aleut,Eskimo-Aleut,Eskimo-Aleut,eski1264,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,"Campbell1997: 108, Bergsland1986",HUJI,NA
-103,NA,Proto-Athabaskan,Athabaskan,Athabaskan-Eyak-Tlingit,atha1247,Reconstructed,North America,NA,NA,consonants only,NA,3500,NA,NA,"Campbell1997: 112, KraussGolla1981, Kraus1979, CookRice1989",HUJI,NA
-104,NA,Proto-Chimakuan,Chimakuan,Chimakuan,chim1311,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,"Campbell1997: 116, Powell1993",HUJI,NA
-105,NA,Proto-Takelman,Takelman,Takelman,take1257,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,"Campbell1997: 120, Berman 1990, Shipley1970",HUJI,NA
-110,NA,Proto-Wintun,Wintuan,Wintuan,wint1259,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,"Shepherd2006, Campbell1997: 128",HUJI,Didn't find Shepherd2006 in the squibs folder
-111,NA,Proto-Miwokan,Miwokan,Miwok-Costanoan,miwo1275,Reconstructed,North America,NA,NA,all,NA,2500,NA,NA,Campbell1997: 129. Cahallagan1967,HUJI,NA
-112,NA,Proto-Costanoan,Costanoan,Miwok-Costanoan,cost1250,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Campbell1997: 129. Cahallagan1967,HUJI,NA
-113,NA,Proto-Miwok-Costanoan,Miwok-Costanoan,Miwok-Costanoan,miwo1274,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Campbell1997: 131. Callghan1967,HUJI,NA
-114,NA,Proto-Yokuts,Yokutsan,Yokutsan,yoku1255,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Campbell1997: 131. Callghan1997,HUJI,NA
-115,NA,Proto-Uto-Aztecan,Uto-Aztecan,Uto-Aztecan,utoa1244,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Campbell1997: 136,HUJI,NA
-116,NA,Proto-Keresan,Keresan,Keresan,kere1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Campbell1997: 138,HUJI,NA
-117,NA,Proto-Kiowa-Tanoan,Kiowa-Tanoan,Kiowa-Tanoan,kiow1266,Reconstructed,North America,NA,NA,consonants only,NA,NA,NA,NA,"Hale1967, Campbell1997: 139, Sutton2014",HUJI,NA
-118,NA,Proto-Muskogean,Muskogean,Muskogean,musk1252,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Campbell1997: 147-148,HUJI,NA
-121,NA,Proto-Huavean,Huavean,Huavean,huav1256,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,suarez1975,HUJI,in Campbell1977: 161
-122,NA,Proto-Mayan,Mayan,Mayan,maya1287,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Campbell & Kaufman 1985,HUJI,NA
-135,NA,Proto-Tibeto-Burman,Tibeto-Burman,Sino-Tibetan,NA,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,NA,HUJI,NA
-136,NA,Proto-Southern-Cushitic,Cushitic,Afro-Asiatic,sout3054,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,ehret1980,HUJI,NA
-137,NA,Proto-Nicobar,Nicobaric,Austroasiatic,nico1262,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sidwellrau2014,HUJI,"check sidwellrau2014, no pdf or book available right now"
-145,NA,Proto-Pearic,Pearic,Austroasiatic,pear1246,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sidwellrau2014,HUJI,NA
-146,NA,Proto-Vietic,Vietic,Austroasiatic,viet1250,Reconstructed,Eurasia,NA,NA,all,NA,NA,NA,NA,sidwellrau2014,HUJI,NA
-147,NA,Proto-Munda,Mundaric,Austroasiatic,mund1335,Reconstructed,Eurasia,NA,NA,consonants only,NA,NA,NA,NA,sidwellrau2014,HUJI,NA
-148,NA,Proto-Nilo-Saharan,Nilo-Saharan,Nilo-Saharan,NA,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,Ehret 2001,HUJI,NA
-150,NA,Proto-West Oceanic Linkage,Malayo-Polynesian,Austronesian,west2818,Reconstructed,Papunesia,NA,NA,consonants only,3600-2600,NA,central north coast of New Britain,NA,goodenough1997,HUJI,NA
-151,NA,Proto-Nakanai,Malayo-Polynesian,Austronesian,naka1262,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,goodenough1997,HUJI,NA
-152,NA,Proto-Willaumez,Malayo-Polynesian,Austronesian,will1243,Reconstructed,Papunesia,NA,NA,consonants only,NA,NA,NA,NA,goodenough1997,HUJI,NA
-153,NA,Old Egyptian,Egyptian,Afro-Asiatic,egyp1246,Attested,Eurasia,5-4.5K,NA,consonants only,4200,NA,NA,NA,kammerzell1998,HUJI,NA
-154,NA,Proto-Egyptian,Egyptian,Afro-Asiatic,egyp1245,Reconstructed,Africa,NA,NA,consonants only,5000,NA,NA,NA,kammerzell1998,HUJI,NA
-155,NA,Proto-Palaihnihan,Palaihnihan,Palaihnihan,pala1350,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,goodetal2003,HUJI,NA
-156,NA,Proto-Bungku-Tolaki,Malayo-Polynesian,Austronesian,bung1268,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,Mead1998,HUJI,NA
-157,NA,Proto-Kanyara,South-West Pama-Nyungan,Pama-Nyungan,kany1246,Reconstructed,Australia,NA,NA,all,NA,NA,NA,NA,Austin1981,HUJI,NA
-158,NA,Proto-Iwaidjan,Iwaidjan,Iwaidjan,iwai1246,Reconstructed,Australia,NA,NA,all,NA,NA,NA,NA,MailhammerHarvey2018,HUJI,NA
-159,NA,Proto-Nyulnyulan,Nyulnyulan,Nyulnyulan,nyul1248,Reconstructed,Australia,NA,NA,all,NA,NA,NA,NA,StokesMcGregor,HUJI,NA
-160,NA,Proto-Northwest Semitic,Semitic,Afro-Asiatic,nort3165,Reconstructed,Eurasia,NA,NA,consonants only,NA,NA,NA,NA,Huehnegard2007,HUJI,NA
-161,NA,Proto-Eastern-Oceanic,Malayo-Polynesian,Austronesian,NA,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,Geraghty1983,HUJI,NA
-162,NA,Proto-Koman,Koman,Koman,koma1264,Reconstructed,Africa,NA,NA,all,NA,NA,NA,NA,Bender 1983,HUJI,NA
-163,NA,Proto-Zapotec,Zapotecan,Otomanguean,zapo1436,Reconstructed,North America,NA,NA,all,NA,NA,NA,NA,Suarez 1973,HUJI,"Looks like this is Zapotec, but may be Zapotecan (i.e., includes Chatino)"
-164,NA,Proto-Boran,Boran,Boran,bora1263,Reconstructed,South America,NA,NA,all,NA,NA,"NW Amazon (Columbia, Peru (since 1930s)",NW Amazon (in the region of Caquetá and Putumayo Rivers in Colombia),SeifartEcheverri 2015,HUJI,NA
-165,NA,Proto-Irish,Celtic,Indo-European,NA,Reconstructed,Eurasia,NA,NA,consonants only,NA,NA,NA,NA,NA,HUJI,NA
-166,NA,Proto-Gunwinyguan,Gunwinyguan,Gunwinyguan,gunw1250,Reconstructed,Australia,NA,NA,all,NA,NA,NA,NA,harvey2003,HUJI,NA
-167,NA,Attic Greek,Graeco-Phrygian,Indo-European,atti1240,Attested,NA,NA,NA,consonants only,NA,NA,Greece,NA,woodward2008attic,HUJI,NA
-168,NA,Classical Latin,Italic,Indo-European,lati1261,Attested,Eurasia,NA,NA,all,NA,2100,Italy,NA,clackson2008,HUJI,NA
-169,NA,Oscan,Indo-European,Indo-European,osca1245,Attested,Eurasia,NA,NA,consonants only,NA,NA,Italy,NA,wallace2008oscan,HUJI,NA
-171,NA,Avestan,Indo-European,Indo-European,aves1237,Attested,Eurasia,NA,NA,all,NA,3000,Iran,NA,hale2008avestan,HUJI,NA
-172,NA,Pahlavi,Indo-European,Indo-European,pahl1241,Attested,Eurasia,NA,NA,all,NA,2300,Iran,NA,hale2008pahlavi,HUJI,NA
-174,NA,Old Mayan,Mayan,Mayan,maya1287,Attested,North America,NA,NA,all,NA,NA,Mesoamerica,NA,bricker2008mayan,HUJI,NA
-176,NA,Early Georgian,Kartvelian,Kartvelian,oldg1234,Attested,Eurasia,NA,NA,all,NA,2500,Georgia,NA,tuite2008georgian,HUJI,NA
-177,NA,Proto-Engan-Kewa-Huli,Nuclear Trans New Guinea,Nuclear Trans New Guinea,enga1254,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,usher2020,HUJI,NA
-178,NA,Proto-Anim,Anim,Anim,anim1240,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,ushersuter2015,HUJI,NA
-179,NA,Proto-Marind-Yaqay,Marind-Boazi-Yaqai,Anim,mari1437,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,ushersuter2015,HUJI,NA
-180,NA,Proto-Boazi,Marind-Boazi-Yaqai,Anim,boaz1244,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,ushersuter2015,HUJI,Glottolog calls Boazi what Usher & Suter call Lake Murray
-181,NA,Proto-Nuclear Tirio,Tirio,Anim,nucl1713,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,ushersuter2015,HUJI,Glottolog calls Nuclear Tirio what Usher & Suter call Lower Fly
-182,NA,Proto-Inland Gulf of Papua,Inland Gulf of Papua,Anim,inla1262,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,ushersuter2015,HUJI,NA
-183,NA,Proto-Bulaka River,Bulaka River,Bulaka River,bula1259,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,usher2014,HUJI,NA
-184,NA,Proto-Koiarian,Koiarian,Koiarian,koia1260,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,dutton2010,HUJI,NA
-185,NA,Proto-Koiaric,Koiaric,Koiarian,koia1261,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,dutton2010,HUJI,NA
-186,NA,Proto-Baraic,Baraic,Koiarian,bara1376,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,dutton2010,HUJI,NA
-187,NA,Proto-Nuclear Sentanic,Nuclear Sentanic,Sentanic,nucl1631,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,gregersonhartzler1987,HUJI,NA
-188,NA,Proto-Asmat-Komoro,Asmat-Awyu-Ok,Nuclear Trans New Guinea,asma1256,Reconstructed,Papunesia,NA,NA,all,NA,NA,NA,NA,usher2020,HUJI,NA
-189,NA,Proto-Ngayarda,South-West Pama-Nyungan,Pama-Nyungan,ngay1241,Reconstructed,Australia,NA,NA,all,NA,NA,NA,NA,ogrady1966,HUJI,NA
-190,NA,Proto-Worrorran,Worrorran,Worrorran,worr1236,Reconstructed,Australia,NA,NA,all,NA,NA,NA,NA,mcgregorrumsey2009,HUJI,NA
+ID,SourceLanguageName,SourceLanguageFamily,SpecificDialect,Glottocode,Type,Dates,DatesSource,InventoryType,TimeDepth,TimeDepthYBP,HomelandLatitude,HomelandLongitude,HomelandSource,HomelandComments,BibtexKey,Source,Comments
+1061,AFRO-ASIATIC,Afro-Asiatic,NA,afro1255,Reconstructed,NA,NA,all,9th-8th millenia B.C. (diakonoff1988afrasian),10000,8.67,8.08,Wichmann_etal2010,NA,ehret1995reconstructing,BDPROTO,NA
+1097,ALGONQUIAN,"North-American, Almosan",NA,algo1256,Reconstructed,NA,NA,all,Around 2500 to 3000 years ago (trigger1978handbook),3000,NA,NA,NA,NA,ehret1995reconstructing,BDPROTO,NA
+1053,ALTAIC,"Ural-Altaic, Altaic",NA,NA,Reconstructed,NA,NA,all,6th millenium BC (kuzmina2007origin),7000,NA,NA,NA,NA,bomhard1990,BDPROTO,NA
+1018,ANATOLIAN,"Indo-European, Anatolian",NA,anat1257,Reconstructed,3.5-3K,NA,all,roughly 4000 BC,6000,NA,NA,NA,NA,melchert1994,BDPROTO,NA
+1116,ARAWAKAN,"South-American, Macro-Arawakan",NA,araw1281,Reconstructed,NA,NA,all,NA,NA,1,-69.17,Wichmann_etal2010,NA,matteson1972,BDPROTO,NA
+1110,ATHAPASKAN,"Na-Dene, Athabaskan",NA,atha1247,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,krauss1964,BDPROTO,NA
+1104,ATTIC,"Indo-European, Greek",NA,atti1240,Attested,NA,NA,all,400 BC,2400,NA,NA,NA,NA,teodorsson1974,BDPROTO,NA
+1059,AUSTRALIAN,Australian,NA,NA,Reconstructed,NA,NA,all,-40000 or less,40000,NA,NA,NA,NA,dixon1997,BDPROTO,NA
+1041,AUSTRONESIAN,"Austro-Tai, Austronesian",NA,aust1307,Reconstructed,NA,NA,all,at least 5000 years,7000,NA,NA,NA,NA,ross1995,BDPROTO,NA
+1094,BANTU,"Niger-Kordofanian, Bantoid",NA,narr1281,Reconstructed,NA,NA,all,NA,4000,NA,NA,NA,NA,meeussen1965,BDPROTO,Split off from Niger-Congo languages 3000-4000 years ago (newman1997peopling)
+1038,CENTRAL GUR,"Niger-Kordofanian, Voltaic",NA,cent2243,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,naden1989,BDPROTO,NA
+1056,CENTRAL-KHOISAN,"Khoisan, Central-Khoisan",NA,khoe1241,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,BDPROTO,This citation is not present in BDPROTO legacy (https://github.com/bdproto/bdproto-legacy/blob/master/Informations/LG1056.txt)
+1083,CHADIC,"Afro-Asiatic, Chadic",NA,chad1250,Reconstructed,NA,NA,all,More than 7000 years (cruciani2010human),7000,NA,NA,NA,NA,newman1977,BDPROTO,NA
+1072,CHIAPANEC MANGUEAN,"North-American, Oto-Manguean",NA,mang1426,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,longacre1967,BDPROTO,NA
+1111,CHIBCHA,"South-American, Chibchan",NA,chib1249,Reconstructed,NA,NA,all,NA,NA,9.75,-83.42,Wichmann_etal2010,NA,constenla1993,BDPROTO,NA
+1099,CHIMAKUAN,"North-American, Almosan",NA,chim1311,Reconstructed,NA,NA,all,Swadesh calculated a time depth  for the Wakashan-Chimakuan relationship of about 6500 years,6500,NA,NA,NA,NA,Jacobson1979,BDPROTO,NA
+1077,CHINANTECAN,"North-American, Oto-Manguean",NA,chin1484,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,longacre1967,BDPROTO,NA
+1113,CHUKOTKO-KAMCHATKAN,Chukchi-Kamchatkan,NA,chuk1271,Reconstructed,NA,NA,all,NA,4000,61,165,NA,NA,fortescue1998,BDPROTO,NA
+1081,COMMON BERBER,"Afro-Asiatic, Berber",NA,berb1260,Reconstructed,NA,NA,consonants only,NA,7000,NA,NA,NA,NA,basset1952,BDPROTO,NA
+1045,COMMON NORDIC,"Indo-European, Germanic, North",NA,nort3160,Reconstructed,NA,NA,all,6th century,1500,NA,NA,NA,NA,antonsen1967,BDPROTO,NA
+1106,COPTIC,"Afro-Asiatic, Ancient-Egyptian",NA,copt1239,Attested,1800-400,NA,all,3-17th century,1800,NA,NA,NA,NA,atiya1991,BDPROTO,"Continued to be spoken probably until the 17th century CE, one dialect still in use as liturgical language"
+1062,CUSHITIC,"Afro-Asiatic, Cushitic",NA,cush1243,Reconstructed,NA,NA,all,<8500 bp (fahmy2011windows),8500,NA,NA,NA,NA,ehret1995reconstructing,BDPROTO,NA
+1012,DRAVIDIAN,Dravidian,NA,drav1251,Reconstructed,NA,NA,all,as late as 4000 bce (steever1998dravidian),6000,NA,NA,NA,NA,krishnamurti1961,BDPROTO,NA
+1065,EARLY PROTO FINNIC,"Ural-Altaic, Finno-Ugric",NA,finn1317,Reconstructed,NA,NA,all,1500-1000 BC,3500,NA,NA,NA,NA,korhonen1988,BDPROTO,"Classification is considered problematic, needs further check"
+1031,EAST TARIKU,"Papuan, Geelvink-Bay",NA,east2502,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,clouse1996,BDPROTO,NA
+1060,EDOID,"Niger-Kordofanian, Kwa",NA,edoi1239,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,elugbe1989,BDPROTO,NA
+1007,ESKIMO,"Eskimo-Aleut, Eskimo",NA,eski1265,Reconstructed,NA,NA,all,-2000,2000,NA,NA,NA,NA,michael1994,BDPROTO,NA
+1112,ESKIMO-ALEUT,Eskimo-Aleut,NA,eski1264,Reconstructed,NA,NA,all,NA,4000,63.69,-170.48,NA,NA,fortescue1998,BDPROTO,NA
+1090,FINNO-PERMIC,"Ural-Altaic, Finno-Ugric",NA,NA,Reconstructed,NA,NA,all,-3500/-3000; division into proto-finno-premic and proto-ugric: first half of neolithic (p.499) (sinor1988handbuch),5500,NA,NA,NA,NA,sammallahti1988,BDPROTO,NA
+1068,FINNO-UGRIC,"Ural-Altaic, Finno-Ugric",NA,NA,Reconstructed,NA,NA,all,NA,5500,NA,NA,NA,NA,lako1968,BDPROTO,NA
+1093,GBAYA,"Niger-Kordofanian, Ubangi",NA,gbay1279,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,NA,BDPROTO,This citation is not present in BDPROTO legacy (https://github.com/bdproto/bdproto-legacy/blob/master/Informations/LG1093.txt)
+1046,GERMANIC,"Indo-European, Germanic",NA,germ1287,Reconstructed,NA,NA,vowels only,1st century (ringe2006proto),2500,NA,NA,NA,NA,antonsen1963,BDPROTO,NA
+1095,GOROKAN,"Papuan, Trans-New-Guinea",NA,goro1272,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,foley1986,BDPROTO,NA
+1118,GUAHIBAN,"South-American, Macro-Arawakan",NA,guah1252,Reconstructed,NA,NA,all,NA,NA,6.5,-71.33,Wichmann_etal2010,NA,matteson1972,BDPROTO,NA
+1103,GUANG,"Niger-Kordofanian, Voltaic",NA,guan1278,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,snider1989,BDPROTO,NA
+1026,HUON GULF,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,huon1245,Reconstructed,NA,NA,consonants only,NA,3500,NA,NA,NA,NA,holzknecht1989,BDPROTO,NA
+1015,IJO,"Niger-Kordofanian, Kwa",NA,ijoi1239,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,williamson1979,BDPROTO,NA
+1051,INDO-EUROPEAN,Indo-European,NA,indo1319,Reconstructed,NA,NA,all,-7000,7000,34,71.55,Wichmann_etal2010,NA,bomhard1990,BDPROTO,NA
+1052,KARTVELIAN,Caucasian,NA,kart1248,Reconstructed,NA,NA,all,-5000 (gamkrelidze1995indo),5000,43,42.5,Wichmann_etal2010,NA,bomhard1990,BDPROTO,NA
+1058,KATUIC,"Austro-Asiatic, Katuic",NA,katu1271,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,diffloth1982,BDPROTO,NA
+1109,KERESAN,"North-American, Keresiouan",NA,kere1287,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,miller1963,BDPROTO,NA
+1039,KIMBE,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,west2818,Reconstructed,NA,NA,all,NA,1000,NA,NA,NA,NA,johnston1982,BDPROTO,NA
+1028,LAKES PLAIN,"Papuan, Geelvink-Bay",NA,lake1255,Reconstructed,NA,NA,all,p.125: some 3000 years ago,3000,-2.83,137,Wichmann_etal2010,NA,clouse1996,BDPROTO,NA
+1066,LAPP,"Ural-Altaic, Finno-Ugric",NA,saam1281,Reconstructed,NA,NA,vowels only,1000 BC,3000,NA,NA,NA,NA,korhonen1988,BDPROTO,SEE more recent resource BdprotoID 30
+1082,LOLO-BURMESE,"Sino-Tibetan, Lolo-Burmese",NA,lolo1265,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,matisoff1979,BDPROTO,NA
+1014,LOWER CROSS,"Niger-Kordofanian, Cross-River",NA,obol1242,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,connell1995,BDPROTO,NA
+1063,LOWER SEPIK,"Papuan, Sepik-Ramu",NA,lowe1437,Reconstructed,NA,NA,all,-6000 (wikilowersepik),6000,-4.25,144.75,Wichmann_etal2010,NA,foley1986,BDPROTO,NA
+1108,MAIDUN,"North-American, Penutian",NA,maid1262,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,ultan1964,BDPROTO,NA
+1004,MALAYO POLYNESIAN,"Austro-Tai, Austronesian",NA,mala1545,Reconstructed,NA,NA,all,-4000 BC,6000,NA,NA,NA,NA,hogan1993,BDPROTO,NA
+1037,MANDE,"Niger-Kordofanian, Mande",NA,mand1469,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,dwyer1989,BDPROTO,NA
+1025,MANDEKAN,"Niger-Kordofanian, Mande",NA,mand1435,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,bimson1976,BDPROTO,NA
+1027,MARKHAM,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,mark1257,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,holzknecht1989,BDPROTO,NA
+1057,MAYAN,"North-American, Penutian",NA,maya1287,Reconstructed,NA,NA,all,2200 BC,4200,15.42,-91.83,Wichmann_etal2010,NA,campbell1990,BDPROTO,NA
+1107,MICRONESIAN,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,micr1243,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,"Archeological evidence about the provenance of Micronesian speakers is vague, but it suggests they came from the south (i.e. From the Solomons, Vanuatu or the Fiji/west polynesian region. [...] It seems that most of Micronesia was settled about two thousand years ago.",bender1985,BDPROTO,NA
+1049,MIDDLE ENGLISH,"Indo-European, Germanic, West",NA,midd1317,Attested,1K-0.5K,NA,vowels only,-900 (baugh1993history),900,NA,NA,NA,NA,antonsen1961,BDPROTO,NA
+1070,MIXTECAN,"North-American, Oto-Manguean",NA,mixt1422,Reconstructed,NA,NA,all,-1000,1000,NA,NA,NA,NA,longacre1967,BDPROTO,NA
+1020,MON,"Austro-Asiatic, Mon",NA,moni1258,Reconstructed,NA,NA,all,NA,1500,NA,NA,NA,NA,ferlus1983,BDPROTO,NA
+1021,NEW CALEDONIAN,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,newc1243,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,ozanne1992,BDPROTO,NA
+1055,NOSTRATIC,"Macro-Family, Nostratic",NA,NA,Reconstructed,NA,NA,all,"spoken between 15,000 and 12,000 BCE (bomhard2008reconstructing)",14000,NA,NA,NA,NA,bomhard1990,BDPROTO,NA
+1089,OB UGRIC,"Ural-Altaic, Finno-Ugric",NA,khan1273,Reconstructed,NA,NA,all,500 AD (first half of the second millenium BCE),3500,NA,NA,NA,NA,sammallahti1988,BDPROTO,NA
+1006,OLD CHINESE,"Sino-Tibetan, Sinitic",NA,oldc1244,Attested,NA,NA,all,800-500 BC,2500,NA,NA,NA,NA,hogan1993,BDPROTO,NA
+1011,OLD TELUGU,"Dravidian, Dravidian",NA,oldt1249,Attested,3.5-3K,NA,all,split from proto-Dravidian between 1500-1000 BC (harvardprotodravidian),3000,NA,NA,NA,NA,krishnamurti1961,BDPROTO,NA
+1043,ONGAMO MAA,"Nilo-Saharan, East-Sudanic, Nilotic",NA,onga1238,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,vossen1989,BDPROTO,NA
+1096,OTO-MANGUEAN,"North-American, Oto-Manguean",NA,otom1299,Reconstructed,NA,NA,all,splitting date of Proto-Otomanguean at ca. 4400 BCE,6400,17.67,-97.42,Wichmann_etal2010,Tehuacan valley (campbell1997american),rensch1966,BDPROTO,NA
+1073,OTOMI,"North-American, Oto-Manguean",NA,otom1300,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,longacre1967,BDPROTO,NA
+1100,PAMAN,"Australian, Pama-Nyungan",NA,pama1251,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sommer1976,BDPROTO,NA
+1022,PHILIPPINE,"Austro-Tai, Austronesian, West-Malayo-Polynesian",NA,grea1284,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,"presence of Austronesian speakers in northeastern Indonesia for upwards of 4,000 years",blust1991,BDPROTO,NA
+1017,PLANG,"Austro-Asiatic, Khmer",NA,blan1242,Reconstructed,NA,NA,all,NA,600,NA,NA,NA,NA,paulsen1992,BDPROTO,NA
+1002,POLYNESIAN,"Austro-Tai, Austronesian, East-Malayo-Polynesian",NA,poly1242,Reconstructed,NA,NA,all,some time around 1000 B.C. (tryon1995comparative),3000,NA,NA,NA,One of the island groups east or north-east of Fiji,walsh1966,BDPROTO,NA
+1071,POPOLOCAN,"North-American, Oto-Manguean",NA,popo1293,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,longacre1967,BDPROTO,NA
+1000,PRE BASQUE,Isolates,NA,basq1248,Reconstructed,NA,NA,all,-2000,2000,NA,NA,NA,NA,trask2013,BDPROTO,NA
+1102,PRE NIZAA,"Niger-Kordofanian, Bantoid",NA,suga1248,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,theil1991,BDPROTO,NA
+1035,PROTO-AINU,"Ural-Altaic, Ainu",NA,ainu1240,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,vovin1993,BDPROTO,NA
+1101,PROTO-JAPANESE,"Ural-Altaic, Japanese",NA,nucl1643,Reconstructed,NA,NA,vowels only,400 B.C. (hudson1994japan),2400,37,140,Wichmann_etal2010,Northern Kyushu,martin1987,BDPROTO,NA
+1013,PROTO-KAREN,"Sino-Tibetan, Karenic",NA,kare1337,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,jones1961,BDPROTO,NA
+1003,PROTO-LAKKIA,"Austro-Tai, Li-Kam-Tai",NA,lakk1238,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,theraphan1991,BDPROTO,NA
+1023,PROTO-MABA,"Nilo-Saharan, Maban",NA,maba1274,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,edgar1991,BDPROTO,NA
+1044,PROTO-NUBIAN,"Nilo-Saharan, East-Sudanic",NA,nubi1251,Reconstructed,NA,NA,all,first millenium BC (rilly2009cradle),3000,NA,NA,NA,Kordofan (rilly2009cradle),gerst1989,BDPROTO,NA
+1115,PROTO-POMO,"North-American, Hokan",NA,pomo1273,Reconstructed,NA,NA,all,NA,5000,NA,NA,NA,Clear Lake (golla2011california),mclendon1973,BDPROTO,NA
+1105,PROTO-VIETNAMESE,"Austro-Asiatic, Vietmuong",NA,viet1252,Reconstructed,NA,NA,consonants only,seventh to ninth century AD (comrie2009world),1300,NA,NA,NA,Red River now Northern Vietnam (chamberlain1998origin),ferlus1992,BDPROTO,NA
+1010,QUICHEAN,"North-American, Penutian",NA,grea1276,Reconstructed,NA,NA,all,NA,2000,NA,NA,NA,NA,campbell1977,BDPROTO,NA
+1019,SABAKI,"Niger-Kordofanian, Bantoid",NA,coas1317,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,nurse1993,BDPROTO,NA
+1098,SALISH,"North-American, Almosan",NA,sali1255,Reconstructed,NA,NA,all,NA,NA,48.75,-123.25,Wichmann_etal2010,NA,Thompson1979,BDPROTO,NA
+1085,SAMOYED,"Ural-Altaic, Samoyed",NA,samo1298,Reconstructed,NA,NA,all,-7000/-6000,6000,NA,NA,NA,NA,sammallahti1988,BDPROTO,NA
+1001,SANGIRIC,"Austro-Tai, Austronesian, West-Malayo-Polynesian",NA,sang1335,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sneddon1984,BDPROTO,NA
+1092,SARA BONGO BAGUIRMIAN,"Nilo-Saharan, Central-Sudanic",NA,sara1341,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Boyeldieu_unpublished,BDPROTO,NA
+1080,SEMITIC,"Afro-Asiatic, Semitic",NA,semi1276,Reconstructed,NA,NA,all,NA,5750,NA,NA,NA,NA,moscati1969,BDPROTO,SEE more recent resource BdprotoID 101
+1054,SUMERIAN,Isolates,NA,sume1241,Attested,NA,NA,all,NA,NA,NA,NA,NA,NA,bomhard1990,BDPROTO,NA
+1067,TAI,"Austro-Tai, Li-Kam-Tai",NA,taik1256,Reconstructed,NA,NA,all,NA,3000,24,108,Wichmann_etal2010,NA,li1977,BDPROTO,NA
+1064,TAKANAN,"South-American, Macro-Panoan",NA,taca1255,Reconstructed,NA,NA,all,NA,NA,-12.33,-67.75,Wichmann_etal2010,NA,girard1971,BDPROTO,NA
+1009,TANO CONGO,"Niger-Kordofanian, Kwa",NA,poto1254,Reconstructed,NA,NA,vowels only,NA,NA,NA,NA,NA,NA,stewart1983,BDPROTO,NA
+1079,TOTONOCAN,"North-American, Penutian",NA,toto1251,Reconstructed,NA,NA,all,NA,7000,19.92,-97.42,Wichmann_etal2010,NA,longacre1967,BDPROTO,NA
+1117,TUCANOAN,"South-American, Macro-Tucanoan",NA,tuca1253,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,West of the Vaupés region (aikhenvald2014global),matteson1972,BDPROTO,NA
+1119,TUPI-GUARANI,"South-American, Equatorial",NA,tupi1276,Reconstructed,NA,NA,all,NA,4500,NA,NA,NA,NA,jensen1998,BDPROTO,NA
+1084,URALIC,"Ural-Altaic, Uralic",NA,ural1272,Reconstructed,NA,NA,all,mesolithic age,8000,68,30,Wichmann_etal2010,NA,sammallahti1988,BDPROTO,NA
+1114,URALO-SIBERIAN,"Macro-Macro-Family, Uralo-Siberian",NA,NA,Reconstructed,NA,NA,all,between 8000 and 6000 BC,10000,NA,NA,NA,South Central Siberia (fortescue1998),fortescue1998,BDPROTO,NA
+1069,UTO-AZTECAN,"North-American, Uto-Aztecan",NA,utoa1244,Reconstructed,NA,NA,all,up to 5000 years,7000,27.5,-110.25,Wichmann_etal2010,"Border region between the USA and Mexico, namely the upland regions of Arizona and New Mexico and the adjacent areas of the Mexican states of Sonora and Chihuaua, roughly corresponding to the Sonoran Desert and the western part of the Chihuahuan Desert",langaker1970,BDPROTO,NA
+1032,WEST TARIKU,"Papuan, Geelvink-Bay",NA,west2582,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,clouse1996,BDPROTO,NA
+1008,YOKUTS,"North-American, Penutian",NA,yoku1255,Reconstructed,NA,NA,all,jones2007california,3000,NA,NA,NA,NA,golla1964,BDPROTO,NA
+1076,ZAPOTECAN,"North-American, Oto-Manguean",NA,zapo1436,Reconstructed,NA,NA,all,evans2013archaeology,2400,NA,NA,NA,NA,longacre1967,BDPROTO,"Looks like this is Zapotec, but may be Zapotecan (i.e., includes Chatino)"
+1078,ZOQUEAN,"North-American, Penutian",NA,zoqu1261,Reconstructed,NA,NA,all,NA,1500,NA,NA,NA,NA,longacre1967,BDPROTO,NA
+3,Proto-Balto-Slavic,NA,NA,balt1263,Reconstructed,NA,NA,all,between 1500 and 1000 B.C. (novotna2011glottochronology),3000,NA,NA,NA,NA,kortlandt1979_phon,UZ,NA
+4,Proto-Slavic,NA,NA,slav1255,Reconstructed,NA,NA,all,around 500 AD split of daughter languages (andersen2003language),1500,NA,NA,NA,Eastern Poland and Wester Ukraine (andersen2003language),schenker1993proto,UZ,NA
+5,Proto-Celtic,NA,NA,celt1248,Reconstructed,NA,NA,all,NA,3000,NA,NA,NA,NA,schrijver1995studies,UZ,NA
+6,Proto-Tai,NA,NA,daic1237,Reconstructed,NA,NA,all,between one and three thousand years ago (enfield2013linguistic),1000,NA,NA,NA,NA,pittayaporn2009proto,UZ,NA
+7,Proto-Turkic,NA,NA,turk1311,Reconstructed,NA,NA,all,NA,2200,NA,NA,NA,NA,ronatas1998reconstruction,UZ,NA
+8,Proto-Mongolic,NA,NA,mong1329,Reconstructed,NA,NA,all,less than 1000 years (brown2010concise),1000,NA,NA,NA,NA,jahunen2003,UZ,NA
+9,Proto-Kra,NA,NA,kada1291,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,ostapirat2000proto-kra,UZ,NA
+10,Proto-Hlai,NA,NA,hlai1239,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,norquest2007phonological,UZ,NA
+11,Proto-Tibeto-Burman,NA,NA,NA,Reconstructed,NA,NA,all,NA,6000,NA,NA,NA,"Somewhere on the Himalayan plateau, where the great rivers of East and Southeast Asia (including the Yellow, Yangtze, Mekong, Brahmaputra, Salween, and Irrawaddy) have their source (stedt2015sinotibetan)",matisoff2003handbook,UZ,NA
+12,Proto-Austroasiatic,NA,NA,aust1305,Reconstructed,NA,NA,all,2000 BCE (sidwell-family),4000,14.83,100.5,Wichmann_etal2010,NA,shorto2006mon,UZ,NA
+13,Proto-Iroquoian,NA,NA,iroq1247,Reconstructed,NA,NA,all,"3,500 to 3,800 for the split of South and North Iroquoian (lounsbury1961iroquois)",5500,42.75,-76.17,Wichmann_etal2010,NA,Julian2010,UZ,NA
+15,Indo-European,NA,NA,indo1319,Reconstructed,NA,NA,all,NA,NA,34,71.55,Wichmann_etal2010,NA,Fortson2011-indo-european,UZ,NA
+2000,Akkadian,NA,NA,akka1240,Attested,2350-0 BCE,Hasselbach-Andee2019,all,2800-700 BC,2700,NA,NA,NA,Mesopotamia,"buccellatti1997phon,huehnergard1997phon",ANE,NA
+2001,Hittite,NA,NA,hitt1242,Attested,3600-3300,NA,all,1600-1300 BC,3300,NA,NA,NA,Anatolia,hoffner-melchert2008phon,ANE,NA
+2002,Ancient North Arabian,NA,NA,anci1245,Attested,Problematic,AlJallad2018,all,1200 bc-700 AD,2700,NA,NA,NA,Southern Syria to Yemen,"goldammer2012phon_arabic,MacDonald2008phon",ANE,Not a language
+2003,Aramaic,NA,NA,aram1259,Attested,3100-1800,NA,all,NA,NA,NA,NA,NA,NA,goldammer2012phon_arc,ANE,"Aramaic is akin to ""Romance"" in its diversity"
+2004,Elamite,NA,NA,elam1244,Attested,4600-2300,NA,all,2800-500 BC,2500,NA,NA,NA,Elam (ancient lands in the west and southwest of today’s Iran),"goldammer2012phon_elx,Khaikjan1998phon",ANE,NA
+2005,Avestan,NA,Gathaic Avestan/Old Avestan,aves1237,Attested,4000-3000,NA,all,"uncertain, written from the 3rd century, but the language was extinct by then. Maybe with the start of the Zoroastrism around 600bc or same time as early Vedic around 1500 BCE",NA,NA,NA,NA,Unknown,skaervo2006phon,ANE,The data refers to Old Avestan
+2006,Classical Armenian,NA,Gathaic Avestan/Old Avestan,clas1249,Attested,1500-100,NA,all,400 AD,1600,NA,NA,NA,Armenian Highlands,clackson2008phon,ANE,"First documented around beginning of 5th century CE, used as literary language till the 19th century"
+2007,Middle Egyptian,NA,Gathaic Avestan/Old Avestan,egyp1246,Attested,4-3.5K,NA,all,2000-1350 BC,3350,NA,NA,NA,Ancient Egypt,allen2000phon,ANE,NA
+2008,Hattic,NA,Gathaic Avestan/Old Avestan,hatt1246,Attested,4000-3000,NA,all,3000-2000 BC,4000,NA,NA,NA,Central Anatolia and northwards to the Black sea,"kammenhuber1969phon,klinger2005phon",ANE,"No connected texts, phonology dubious"
+2009,Hurrian,NA,Gathaic Avestan/Old Avestan,hurr1240,Attested,4300-3000,NA,all,2300-1000 BC,3000,NA,NA,NA,Northern Mesopotamia,"wegner2000phon,wilhelm2008phon_xhu",ANE,NA
+2010,Kassite,NA,Gathaic Avestan/Old Avestan,kass1244,Attested,3800-2400,NA,all,1800-400 BC,2400,NA,NA,NA,Southern Mesopotamia,goldammer2012phon_kass1244,ANE,NA
+2011,Palaic,NA,Gathaic Avestan/Old Avestan,pala1331,Attested,4-3.5K,NA,all,1600-1300 BC,3300,NA,NA,NA,Central northern Anatolia,"melchert2008phon,carruba1970phon",ANE,NA
+2012,Old Persian,NA,Gathaic Avestan/Old Avestan,oldp1255,Attested,3-2.5K,NA,all,600-300 BC,2300,NA,NA,NA,"Inscriptions found in modern Iran, Armenia, Bahrain, Romania (Gherla), Egypt, Turky, Iraq",skjaervo2009phon,ANE,NA
+2013,Phrygian,NA,Paleo-Phrygian,phry1239,Attested,3-2.5K,NA,all,800 BC-300 AD; texts found from 800-500 (Paleo-Phrygian) BC and 100 AD - 300 (Neo-Phrygian),1700,NA,NA,NA,Central Asia Minor,brixhe2008phon,ANE,NA
+2014,Phrygian,NA,Neo-Phrygian,phry1239,Attested,3-2.5K,NA,all,NA,NA,NA,NA,NA,NA,brixhe2008phon,ANE,NA
+2015,Old South Arabic,NA,Neo-Phrygian,sayh1236,Attested,3000-1500,Multhoff2019,all,NA,NA,NA,NA,NA,NA,nebesstein2008phon,ANE,Not a language
+2016,Sumerian,NA,Neo-Phrygian,sume1241,Attested,NA,NA,all,3300-2000 BC,4000,NA,NA,NA,NA,"edzard2003phon,michalowski2008phon",ANE,NA
+2017,Ugaritic,NA,Neo-Phrygian,ugar1238,Attested,NA,NA,all,NA,NA,NA,NA,NA,NA,tropper2000phon,ANE,NA
+2018,Urartian,NA,Neo-Phrygian,urar1245,Attested,NA,NA,all,NA,NA,NA,NA,NA,NA,"wilhelm2008phon_xur,hazenbos2005phon",ANE,NA
+2019,Luwian,NA,Cunieform Luwian,cune1239,Attested,4-3.5K,NA,all,1400-1200,3200,NA,NA,NA,Asia Minor,melchert2008phon_xlu,ANE,NA
+2020,Phoenician,NA,Cunieform Luwian,phoe1239,Attested,3-2.5K,NA,all,1200-600 BC,2600,NA,NA,NA,NA,hackett2008phon,ANE,NA
+16,Proto-Alor-Pantar,NA,NA,alor1249,Reconstructed,NA,NA,consonants only,3000,3000,NA,NA,NA,Pantar Strait,klamer2017alorpantar,HUJI,NA
+17,Western Pantar,NA,NA,lamm1241,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,holtonrobinson2017westpantar,HUJI,NA
+18,Proto-Timor-Alor-Pantar,NA,NA,timo1261,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,"schapperetal2017timoralorpantar,holtonrobinson2017timoralorpantar",HUJI,NA
+19,Proto-North Halmahera,NA,NA,nort2923,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,holtonrobinson2017timoralorpantar,HUJI,"check wada1980, holtonrobinson2014 in klamer2014"
+20,Proto-Trans-New Guinea,NA,NA,nucl1709,Reconstructed,NA,NA,consonants only,NA,NA,-8.33,124.25,Wichmann_etal2010,NA,holtonrobinson2017timoralorpantar,HUJI,"After Pawley 1995, 2001 -- check"
+21,Proto-Algonquian,NA,NA,algo1256,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Goddard1974,HUJI,NA
+22,Proto-Caddoan,NA,NA,cadd1255,Reconstructed,NA,NA,all,NA,NA,33.33,-93.5,Wichmann_etal2010,NA,chafe1979caddoan,HUJI,NA
+23,Proto-East Timor,NA,NA,east2520,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Mandala_etal2011,HUJI,"More recent and quite different East Timor in: Schapper, Antoinette, Juliette Huber & Aone van Engelenhoven. 2012. The historical relation of the Papuan languages of Timor and Kisar. In Harald Hammarström & Wilco van den Heuvel (eds.), History, contact and classification ofPapuan languages (Language and Linguistics in Melanesia Special Issue 2012, Part I), 194–242. Port Moresby: Linguistic Society of Papua New Guinea."
+24,Proto-Oirata-Fataluku,NA,NA,fata1246,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Mandala_etal2011,HUJI,NA
+25,Proto-Quechuan,NA,NA,quec1387,Reconstructed,NA,NA,all,NA,NA,0.33,-78,Wichmann_etal2010,NA,cerron2003quechuan,HUJI,NA
+26,Proto-Aymaran,NA,NA,ayma1253,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,cerron2000aymaran,HUJI,NA
+27,Proto-Barbacoan,NA,NA,barb1265,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,curnowliddicoat1998barbacoan,HUJI,NA
+28,Proto-Austroasiatic,NA,NA,aust1305,Reconstructed,NA,NA,all,NA,NA,14.83,100.5,Wichmann_etal2010,NA,sidwellrau2015austroasiatic,HUJI,NA
+29,Proto-Aslian,NA,NA,asli1243,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sidwellrau2015austroasiatic,HUJI,NA
+30,Proto-Saami,NA,NA,saam1281,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,koponen2022saami,HUJI,NA
+31,Proto-Celtic,NA,NA,celt1248,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,Central Europe,kummel2007konsonantenwandel,HUJI,NA
+32,Proto-Balto-Slavic,NA,NA,balt1263,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+33,Proto-Indo-Iranian,NA,NA,indo1320,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+34,Proto-Slavic,NA,NA,slav1255,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+35,Proto-Italic,NA,NA,ital1284,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+36,Proto-Baltic,NA,NA,balt1263,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+37,Proto-Anatolian,NA,NA,anat1257,Reconstructed,3.5-3K,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+38,Proto-Tocharian,NA,NA,tokh1241,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+39,Proto-Nuristani,NA,NA,nuri1243,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+40,Proto-Iranian,NA,NA,iran1269,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+41,Proto-Albanian,NA,NA,alba1267,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+42,Proto-Greek,NA,NA,gree1276,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+43,Proto-Germanic,NA,NA,germ1287,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+44,Proto-Uralic,NA,NA,ural1272,Reconstructed,NA,NA,all,NA,NA,68,30,Wichmann_etal2010,NA,kummel2007konsonantenwandel,HUJI,NA
+46,Proto-Ersuic,NA,NA,ersu1242,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,yu2012ersuic,HUJI,NA
+47,Proto-Kiranti,NA,NA,kira1253,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,jacques2017kiranti,HUJI,NA
+48,Proto-Central Chadic,NA,NA,bium1280,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,gravina2014centralchadic,HUJI,"Central Chadic is called Biu-Mandera by Glottolog, but CC seems to be an ok name."
+49,Proto-Nilotic,NA,NA,nilo1247,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,dimmendaal1988nilotic,HUJI,NA
+50,Proto-Eastern Nilotic,NA,NA,east2418,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,dimmendaal1988nilotic,HUJI,NA
+51,Proto-Southern Nilotic,NA,NA,sout2830,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,dimmendaal1988nilotic,HUJI,NA
+52,Proto-Kuki-Chin,NA,NA,kuki1246,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,hill2014kukichin,HUJI,NA
+53,Proto-Eskimo,NA,NA,eski1265,Reconstructed,NA,NA,all,NA,4000,NA,NA,NA,Alaska,berge2018eskimoaleut,HUJI,NA
+54,Proto-Unangam Tunuu (Aleut),NA,NA,aleu1260,Reconstructed,NA,NA,all,NA,4000,NA,NA,NA,Alaska,berge2018eskimoaleut,HUJI,NA
+55,Proto-Tupi-Guarani,NA,NA,tupi1276,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,meiradrude2015mawetiguarani,HUJI,NA
+56,Proto-Maweti-Guarani,NA,NA,mawe1252,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,meiradrude2015mawetiguarani,HUJI,NA
+57,Proto-Jabuti,NA,NA,jabu1249,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,ribeirovandervoort2010jabuti,HUJI,NA
+58,Proto-Je,NA,NA,nucl1710,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,ribeirovandervoort2010jabuti,HUJI,NA
+59,Proto-Maiduan,NA,NA,maid1262,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:128
+60,Proto-Mamore-Guapore,NA,NA,NA,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,jolkesky2016mamoreguapore,HUJI,NA
+61,Proto-Taranoan,NA,NA,tara1324,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Meira1998,HUJI,NA
+62,Proto-Totonacan,NA,NA,toto1251,Reconstructed,NA,NA,all,NA,NA,19.92,-97.42,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA
+63,Proto-Mixe-Zoquean,NA,NA,mixe1284,Reconstructed,NA,NA,all,NA,NA,17.22,-96.03,Wichmann_etal2010,NA,brown2011totozoquean,HUJI,NA
+64,Proto-Totozoquean,NA,NA,NA,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,brown2011totozoquean,HUJI,NA
+65,Proto-Tol (Jicaque),NA,NA,jica1245,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,CampbellOltrogge1980,HUJI,NA
+66,Proto-Tukanoan,NA,NA,tuca1253,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Chacon2014,HUJI,NA
+67,Proto-Tsimshian,NA,NA,tsim1258,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,tarpent1997tsimshianic,HUJI,NA
+68,Proto-Kra,NA,NA,kada1291,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,ostapirat2000proto-kra,HUJI,NA
+69,Proto-Tai,NA,NA,daic1237,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,pittayaporn2009proto,HUJI,NA
+70,Proto-Hlai,NA,NA,hlai1239,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Ostapirat2004,HUJI,NA
+71,Proto-Berber,NA,NA,berb1260,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,Kossmann2020,HUJI,NA
+72,Proto-Skou,NA,NA,nucl1634,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Donohue2002,HUJI,NA
+73,Common Slavic,NA,NA,slav1255,Reconstructed,1700-1000,NA,all,NA,NA,NA,NA,NA,NA,Hock2003,HUJI,NA
+75,Common Cherokee,NA,NA,cher1273,Reconstructed,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,GC based on Glottocode
+76,Proto-Northern Iroquoian,NA,NA,nort2947,Reconstructed,5-4.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA
+77,Proto-Tuscarora-Nottoway,NA,NA,tusc1256,Reconstructed,2.5-2K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA
+78,Common Tuscarora,NA,NA,tusc1257,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA
+79,Proto-Mohawk-Oneida,NA,NA,moha1257,Reconstructed,1K-0.5K,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA
+80,Common Mohawk,NA,NA,moha1258,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Julian2010,HUJI,NA
+82,Proto-Finno-Saamic,NA,NA,NA,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sammallahti1988,HUJI,NA
+83,Proto-Siouan,NA,NA,siou1252,Reconstructed,NA,NA,all,NA,4000,35.5,-80.5,Wichmann_etal2010,NA,Rankin_etal2015,HUJI,NA
+84,Proto-Finno-Permic,NA,NA,NA,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+85,Proto-Tanoan,NA,NA,kiow1266,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,"Hale1967,Sutton2014",HUJI,NA
+86,Proto-Pama-Nyungan,NA,NA,pama1250,Reconstructed,"""This reveals clear support for a home- land at the base of the Gulf of Carpentaria, with an estimated age of 4,455–6,966 years (95% highest posterior density; mean = 5,671 years).""",Bouckaert_etal2018,consonants only,NA,NA,NA,NA,NA,NA,Alpher2004,HUJI,NA
+87,Proto-Baltic-Finnic,NA,NA,NA,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,NA
+90,Proto-Waikuruan (Guaicuruan),NA,NA,guai1249,Reconstructed,NA,NA,all,NA,NA,-26.5,-59,Wichmann_etal2010,NA,CeriaSandalo1995,HUJI,NA
+91,Proto-Salishan,NA,NA,sali1255,Reconstructed,NA,NA,consonants only,NA,NA,48.75,-123.25,Wichmann_etal2010,NA,Campbell1997,HUJI,Based on Thomspon1979 (Campbell1997:116)
+92,Proto-Khoe,NA,NA,khoe1241,Reconstructed,NA,NA,consonants only,2000,2000,NA,NA,NA,northeast Kalahari basin,"Vossen1997,GueldemannElderkin2010",HUJI,NA
+94,Proto-Permic,NA,NA,perm1256,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sammallahti1988,HUJI,NA
+95,Proto-Paman,NA,NA,pama1251,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Hale1964,HUJI,NA
+98,Proto-Khanty,NA,NA,khan1279,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sammallahti1988,HUJI,NA
+99,Proto-Mansi,NA,NA,mans1269,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sammallahti1988,HUJI,NA
+100,Proto-Samoyedic,NA,NA,samo1298,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,kummel2007konsonantenwandel,HUJI,As reported and adapted in Kuemmel 2007
+101,Proto-Semitic,NA,NA,semi1276,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,huehnergard2019protosemitic,HUJI,NA
+102,Proto-Eskimo-Aleut,NA,NA,eski1264,Reconstructed,NA,NA,all,NA,NA,63.69,-170.48,Wichmann_etal2010,NA,campbell1997northamerican,HUJI,Campbell1997:108
+103,Proto-Athabaskan,NA,NA,atha1247,Reconstructed,NA,NA,consonants only,NA,3500,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:112
+104,Proto-Chimakuan,NA,NA,chim1311,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:116
+105,Proto-Takelman,NA,NA,take1257,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:120
+110,Proto-Wintun,NA,NA,wint1259,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:128
+111,Proto-Miwokan,NA,NA,miwo1275,Reconstructed,NA,NA,all,NA,2500,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:129; Cahallagan1967
+112,Proto-Costanoan,NA,NA,cost1250,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:129; Cahallagan1967
+113,Proto-Miwok-Costanoan,NA,NA,miwo1274,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:131; Callghan1967
+114,Proto-Yokutsan,NA,NA,yoku1255,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:131
+115,Proto-Uto-Aztecan,NA,NA,utoa1244,Reconstructed,NA,NA,all,NA,NA,27.5,-110.25,Wichmann_etal2010,NA,campbell1997northamerican,HUJI,Campbell1997:136
+116,Proto-Keresan,NA,NA,kere1287,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:138
+117,Proto-Kiowa-Tanoan,NA,NA,kiow1266,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1997:139
+118,Proto-Muskogean,NA,NA,musk1252,Reconstructed,NA,NA,all,NA,NA,34,-85,Wichmann_etal2010,NA,campbell1997northamerican,HUJI,Campbell1997:147-148
+121,Proto-Huave,NA,NA,huav1256,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,campbell1997northamerican,HUJI,Campbell1977:161; see also Noyer 2014
+122,Proto-Mayan,NA,NA,maya1287,Reconstructed,NA,NA,all,NA,NA,15.42,-91.83,Wichmann_etal2010,NA,CampbellKaufman1985,HUJI,NA
+136,Proto-Southern-Cushitic,NA,NA,sout3054,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Ehret1980,HUJI,NA
+137,Proto-Nicobar,NA,NA,nico1262,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sidwellrau2015austroasiatic,HUJI,NA
+145,Proto-Pearic,NA,NA,pear1246,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sidwellrau2015austroasiatic,HUJI,NA
+146,Proto-Vietic,NA,NA,viet1250,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,sidwellrau2015austroasiatic,HUJI,NA
+147,Proto-Munda,NA,NA,mund1335,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,sidwellrau2015austroasiatic,HUJI,NA
+148,Proto-Nilo-Saharan,NA,NA,NA,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,ehret2001nilosaharan,HUJI,NA
+150,Proto-Kimbe,NA,NA,west2818,Reconstructed,NA,NA,consonants only,3600-2600,NA,NA,NA,NA,central north coast of New Britain,goodenough1997kimbe,HUJI,NA
+151,Proto-Nakanai,NA,NA,naka1262,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,goodenough1997kimbe,HUJI,NA
+152,Proto-Willaumez,NA,NA,will1243,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,goodenough1997kimbe,HUJI,NA
+153,Old Egyptian,NA,NA,egyp1246,Attested,5-4.5K,NA,consonants only,4200,NA,NA,NA,NA,NA,kammerzell1998,HUJI,NA
+154,Proto-Egyptian,NA,NA,egyp1245,Reconstructed,NA,NA,consonants only,5000,NA,NA,NA,NA,NA,kammerzell1998,HUJI,NA
+155,Proto-Palaihnihan,NA,NA,pala1350,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,goodetal2003palaihnian,HUJI,NA
+156,Proto-Bungku-Tolaki,NA,NA,bung1268,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,mead1998bungku,HUJI,NA
+157,Proto-Kanyara,NA,NA,kany1246,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,austin1981kanyara,HUJI,NA
+158,Proto-Iwaidjan,NA,NA,iwai1246,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,mailhammerharvey2018iwaidjan,HUJI,NA
+159,Proto-Nyulnyulan,NA,NA,nyul1248,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,stokesmcgregor2003nyulnyulan,HUJI,NA
+160,Proto-Northwest Semitic,NA,NA,nort3165,Reconstructed,NA,NA,consonants only,NA,NA,NA,NA,NA,NA,HasselbachHuehnergard2007,HUJI,NA
+161,Proto-Eastern-Oceanic,NA,NA,NA,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,geraghty1983fijian,HUJI,NA
+162,Proto-Koman,NA,NA,koma1264,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Bender1983,HUJI,NA
+163,Proto-Zapotec,NA,NA,zapo1436,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Suarez1973,HUJI,"Looks like this is Zapotec, but may be Zapotecan (i.e., includes Chatino)"
+164,Proto Bora-Muinane,NA,NA,bora1263,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NW Amazon (in the region of Caquetá and Putumayo Rivers in Colombia),SeifartEcheverri2015,HUJI,NA
+166,Proto-Gunwinyguan,NA,NA,gunw1250,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Harvey2003,HUJI,NA
+167,Attic Greek,NA,NA,atti1240,Attested,NA,NA,consonants only,NA,NA,NA,NA,NA,Greece,Woodard2008,HUJI,NA
+168,Classical Latin,NA,NA,lati1261,Attested,NA,NA,all,NA,2100,NA,NA,NA,Italy,Clackson2008,HUJI,NA
+169,Oscan,NA,NA,osca1245,Attested,NA,NA,consonants only,NA,NA,NA,NA,NA,Italy,Wallace2008,HUJI,NA
+171,Avestan,NA,NA,aves1237,Attested,NA,NA,all,NA,3000,NA,NA,NA,Iran,Hale2008a,HUJI,NA
+172,Pahlavi,NA,NA,pahl1241,Attested,NA,NA,all,NA,2300,NA,NA,NA,Iran,Hale2008b,HUJI,NA
+174,Old Mayan,NA,NA,maya1287,Attested,NA,NA,all,NA,NA,15.42,-91.83,Wichmann_etal2010,Mesoamerica,Bricker2008,HUJI,NA
+176,Early Georgian,NA,NA,oldg1234,Attested,NA,NA,all,NA,2500,NA,NA,NA,Georgia,Tuite2008,HUJI,NA
+178,Proto-Anim,NA,NA,anim1240,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,UsherSuter2015,HUJI,NA
+179,Proto-Marind-Yaqay,NA,NA,mari1437,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,UsherSuter2015,HUJI,NA
+180,Proto-Lake Murray,NA,NA,boaz1244,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,UsherSuter2015,HUJI,Glottolog calls Boazi what Usher & Suter call Lake Murray
+181,Proto-Lower Fly,NA,NA,nucl1713,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,UsherSuter2015,HUJI,Glottolog calls Nuclear Tirio what Usher & Suter call Lower Fly
+182,Proto-Inland Gulf,NA,NA,inla1262,Reconstructed,NA,NA,all,NA,NA,-7.58,144,Wichmann_etal2010,NA,UsherSuter2015,HUJI,NA
+183,Proto-Bulaka River,NA,NA,bula1259,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Usher2014,HUJI,NA
+184,Proto-Koiarian,NA,NA,koia1260,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Dutton2010,HUJI,NA
+185,Proto-Koiaric,NA,NA,koia1261,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Dutton2010,HUJI,NA
+186,Proto-Baraic,NA,NA,bara1376,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,Dutton2010,HUJI,NA
+187,Proto-Tabla-Sentani,NA,NA,nucl1631,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,HartzlerGregerson1987,HUJI,NA
+189,Proto-Ngayarda,NA,NA,ngay1241,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,OGrady1966,HUJI,NA
+190,Proto-Worrorran,NA,NA,worr1236,Reconstructed,NA,NA,all,NA,NA,NA,NA,NA,NA,McGregorRumsey2009,HUJI,NA
